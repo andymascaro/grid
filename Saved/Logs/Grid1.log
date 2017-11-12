@@ -948,3 +948,884 @@ LogInit: Object subsystem initialized
 [2017.11.12-20.22.06:467][203]LogStaticMesh: Building static mesh hex_plane_2...
 [2017.11.12-20.22.06:467][203]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/hex_plane_2.hex_plane_2
 [2017.11.12-20.22.06:498][203]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.12-20.22.24:608][408]LogMaterial: Missing cached shader map for material 4Blend, compiling. 
+[2017.11.12-20.22.24:859][408]LogMaterial: Missing cached shader map for material 4Blend, compiling. 
+[2017.11.12-20.22.25:017][408]LogMaterial: Missing cached shader map for material 4Blend, compiling. 
+[2017.11.12-20.22.25:188][408]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 4Blend, compiling. 
+[2017.11.12-20.22.41:975][408]TextureStreamingBuild: Display: Compiling optional shaders took 16.799 seconds.
+[2017.11.12-20.24.14:056][666]LogSavePackage: Save=447.83ms
+[2017.11.12-20.24.14:056][666]LogSavePackage: Moving 'P:/ue/Grid1/Saved/ThirdPersonExampleMap_Auto1AB5793564564C6EC2CB4509B7CCBE268.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2017.11.12-20.24.14:060][666]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2017.11.12-20.24.14:065][666]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.609
+[2017.11.12-20.24.14:065][666]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.609
+[2017.11.12-20.24.14:070][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/4Blend] ([1] browsable assets)...
+[2017.11.12-20.24.14:132][666]OBJ SavePackage:     Rendered thumbnail for [Material /Game/4Blend.4Blend]
+[2017.11.12-20.24.14:132][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/4Blend]
+[2017.11.12-20.24.14:133][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/4Blend" FILE="P:/ue/Grid1/Saved/Autosaves/Game/4Blend_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.11.12-20.24.14:185][666]LogSavePackage: Save=44.20ms
+[2017.11.12-20.24.14:185][666]LogSavePackage: Moving 'P:/ue/Grid1/Saved/4Blend_Auto1E8DF7DF34860B6F524C27A8817A5627A.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/4Blend_Auto1.uasset'
+[2017.11.12-20.24.14:187][666]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/4Blend_Auto1.uasset
+[2017.11.12-20.24.14:188][666]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData] ([1] browsable assets)...
+[2017.11.12-20.24.14:188][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData]
+[2017.11.12-20.24.14:229][666]LogSavePackage: Save=27.52ms
+[2017.11.12-20.24.14:229][666]LogSavePackage: Moving 'P:/ue/Grid1/Saved/ThirdPersonExampleMap_BuiltData_3D30FF4E4D0DF0FEB7A06A80092D95F2.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto1.uasset'
+[2017.11.12-20.24.14:232][666]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto1.uasset
+[2017.11.12-20.24.14:233][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/hex_plane_2] ([1] browsable assets)...
+[2017.11.12-20.24.14:274][666]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/hex_plane_2.hex_plane_2]
+[2017.11.12-20.24.14:274][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/hex_plane_2]
+[2017.11.12-20.24.14:275][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/hex_plane_2" FILE="P:/ue/Grid1/Saved/Autosaves/Game/Geometry/Meshes/hex_plane_2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.11.12-20.24.14:298][666]LogSavePackage: Save=18.07ms
+[2017.11.12-20.24.14:298][666]LogSavePackage: Moving 'P:/ue/Grid1/Saved/hex_plane_2_Auto1CA5963B14DA123F4B60794AD8D86A083.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/Geometry/Meshes/hex_plane_2_Auto1.uasset'
+[2017.11.12-20.24.14:301][666]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/Geometry/Meshes/hex_plane_2_Auto1.uasset
+[2017.11.12-20.24.14:301][666]LogFileHelpers: Auto-saving content packages took 0.233
+[2017.11.12-20.29.07:725][333]Cmd: TRANSACTION UNDO
+[2017.11.12-20.29.07:726][333]LogEditorTransaction: Undo Add Component
+[2017.11.12-20.30.11:542][248]BlueprintLog: New page: Compile HexPlane
+[2017.11.12-20.30.11:621][248]LogBlueprint: Error: [Compiler HexPlane] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2017.11.12-20.30.11:621][248]LogBlueprint: Error: [Compiler HexPlane] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2017.11.12-20.30.11:951][248]LogBlueprint: Warning: [Compiler HexPlane] [3677.01] Compile of HexPlane failed. 2 Fatal Issue(s) 0 Warning(s) [in 408 ms] (/Game/Blueprints/HexPlane.HexPlane)
+[2017.11.12-20.30.56:457][431]BlueprintLog: New page: Compile HexPlane
+[2017.11.12-20.30.56:496][431]LogBlueprint: Error: [Compiler HexPlane] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2017.11.12-20.30.56:788][431]LogBlueprint: Warning: [Compiler HexPlane] [3721.84] Compile of HexPlane failed. 1 Fatal Issue(s) 0 Warning(s) [in 329 ms] (/Game/Blueprints/HexPlane.HexPlane)
+[2017.11.12-20.31.02:180][591]BlueprintLog: New page: Compile HexPlane
+[2017.11.12-20.31.11:630][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HexPlane" FILE="P:/ue/Grid1/Content/Blueprints/HexPlane.uasset" SILENT=true
+[2017.11.12-20.31.11:709][880]LogSavePackage: Save=59.58ms
+[2017.11.12-20.31.11:710][880]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlaneD5EFC00C477C9C64F02CC0982A7A8E85.tmp' to 'P:/ue/Grid1/Content/Blueprints/HexPlane.uasset'
+[2017.11.12-20.31.11:728][880]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/Blueprints/HexPlane.uasset
+[2017.11.12-20.31.14:313][941]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.12-20.31.14:359][941]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-20.31.14:359][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.12-20.31.14:359][941]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 12, 2017, 10:31:14 AM)
+[2017.11.12-20.31.14:359][941]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.12-20.31.14:476][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116156s)
+[2017.11.12-20.31.14:479][941]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.12-20.31.14:480][941]LogPlayLevel: PIE: World Init took: (0.003858s)
+[2017.11.12-20.31.14:480][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.120572s)
+[2017.11.12-20.31.14:581][941]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.12-20.31.14:594][941]LogInit: FAudioDevice initialized.
+[2017.11.12-20.31.14:636][941]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.12-20.31.14:638][941]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.12-15.31.14
+[2017.11.12-20.31.14:639][941]LogWorld: Bringing up level for play took: 0.002135
+[2017.11.12-20.31.14:644][941]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.12-20.31.14:645][941]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.12-20.31.14:645][941]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_1] Start
+[2017.11.12-20.31.14:645][941]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.647
+[2017.11.12-20.31.14:646][941]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-20.31.16:961][  3]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.12-20.31.19:058][ 68]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.12-20.31.21:303][138]LogBlueprintUserMessages: [CursorCharacter_C_0] New BasicHexGuy number of= 0
+[2017.11.12-20.31.23:014][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-20.31.23:069][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-20.32.13:886][596]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.32.14:046][596]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.32.14:089][596]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.32.14:184][596]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.12-20.32.41:643][ 68]MaterialEditorStats: Base pass shader: 107 instructions
+[2017.11.12-20.32.41:643][ 68]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2017.11.12-20.32.41:643][ 68]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2017.11.12-20.32.41:643][ 68]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.12-20.32.41:643][ 68]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-20.33.03:810][576]LogActorFactory: Actor Factory created hex_plane_2
+[2017.11.12-20.33.05:699][636]LogActorFactory: Actor Factory created hex_plane_2
+[2017.11.12-20.34.45:537][634]Cmd: TRANSACTION UNDO
+[2017.11.12-20.34.45:538][634]LogEditorTransaction: Undo Vertex Paint
+[2017.11.12-20.34.45:559][634]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.35.25:668][630]LogStaticMesh: Building static mesh hex_plane_2...
+[2017.11.12-20.35.25:670][630]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/hex_plane_2.hex_plane_2
+[2017.11.12-20.35.37:602][919]LogMaterial: Missing cached shader map for material 4Blend, compiling. 
+[2017.11.12-20.35.37:761][919]LogMaterial: Missing cached shader map for material 4Blend, compiling. 
+[2017.11.12-20.35.37:805][919]LogMaterial: Missing cached shader map for material 4Blend, compiling. 
+[2017.11.12-20.35.37:942][919]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2017.11.12-20.35.37:951][919]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2017.11.12-20.35.37:959][919]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2017.11.12-20.35.37:970][919]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2017.11.12-20.35.37:978][919]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2017.11.12-20.35.37:988][919]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2017.11.12-20.35.37:997][919]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2017.11.12-20.35.38:006][919]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2017.11.12-20.35.38:015][919]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2017.11.12-20.35.38:024][919]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2017.11.12-20.35.38:033][919]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_22, compiling. 
+[2017.11.12-20.35.38:042][919]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.35.56:382][353]MaterialEditorStats: Base pass shader: 107 instructions
+[2017.11.12-20.35.56:384][353]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2017.11.12-20.35.56:384][353]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2017.11.12-20.35.56:384][353]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.12-20.35.56:384][353]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-20.35.58:373][412]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.4Blend:MaterialGraph_2.MaterialGraphNode_47 or MaterialGraphNode /Engine/Transient.HexStylus:MaterialGraph_1.MaterialGraphNode_47
+[2017.11.12-20.35.58:375][412]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_47.MaterialExpressionLinearInterpolate_1"')'
+[2017.11.12-20.35.58:376][412]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.4Blend:MaterialGraph_2.MaterialGraphNode_56 or MaterialGraphNode /Engine/Transient.HexStylus:MaterialGraph_1.MaterialGraphNode_56
+[2017.11.12-20.35.58:376][412]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_56.MaterialExpressionTextureSample_11"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2017.11.12-20.35.58:376][412]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.4Blend:MaterialGraph_2.MaterialGraphNode_46 or MaterialGraphNode /Engine/Transient.HexStylus:MaterialGraph_1.MaterialGraphNode_46
+[2017.11.12-20.35.58:376][412]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVertexColor'"MaterialGraphNode_46.MaterialExpressionVertexColor_0"',OutputIndex=4,Mask=1,MaskA=1)'
+[2017.11.12-20.35.58:379][412]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.4Blend:MaterialGraph_2.MaterialGraphNode_48 or MaterialGraphNode /Engine/Transient.HexStylus:MaterialGraph_1.MaterialGraphNode_48
+[2017.11.12-20.35.58:380][412]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_48.MaterialExpressionLinearInterpolate_2"')'
+[2017.11.12-20.35.58:380][412]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.4Blend:MaterialGraph_2.MaterialGraphNode_59 or MaterialGraphNode /Engine/Transient.HexStylus:MaterialGraph_1.MaterialGraphNode_59
+[2017.11.12-20.35.58:380][412]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_59.MaterialExpressionTextureSample_14"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2017.11.12-20.35.58:380][412]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.4Blend:MaterialGraph_2.MaterialGraphNode_46 or MaterialGraphNode /Engine/Transient.HexStylus:MaterialGraph_1.MaterialGraphNode_46
+[2017.11.12-20.35.58:380][412]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVertexColor'"MaterialGraphNode_46.MaterialExpressionVertexColor_0"',OutputIndex=3,Mask=1,MaskB=1)'
+[2017.11.12-20.35.58:381][412]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.4Blend:MaterialGraph_2.MaterialGraphNode_49 or MaterialGraphNode /Engine/Transient.HexStylus:MaterialGraph_1.MaterialGraphNode_49
+[2017.11.12-20.35.58:381][412]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_49.MaterialExpressionLinearInterpolate_3"')'
+[2017.11.12-20.35.58:381][412]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.4Blend:MaterialGraph_2.MaterialGraphNode_53 or MaterialGraphNode /Engine/Transient.HexStylus:MaterialGraph_1.MaterialGraphNode_53
+[2017.11.12-20.35.58:381][412]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_53.MaterialExpressionTextureSample_8"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2017.11.12-20.35.58:381][412]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.4Blend:MaterialGraph_2.MaterialGraphNode_46 or MaterialGraphNode /Engine/Transient.HexStylus:MaterialGraph_1.MaterialGraphNode_46
+[2017.11.12-20.35.58:381][412]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVertexColor'"MaterialGraphNode_46.MaterialExpressionVertexColor_0"',OutputIndex=2,Mask=1,MaskG=1)'
+[2017.11.12-20.35.58:382][412]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.4Blend:MaterialGraph_2.MaterialGraphNode_56 or MaterialGraphNode /Engine/Transient.HexStylus:MaterialGraph_1.MaterialGraphNode_56
+[2017.11.12-20.35.58:382][412]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_56.MaterialExpressionTextureSample_11"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2017.11.12-20.35.58:382][412]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.4Blend:MaterialGraph_2.MaterialGraphNode_57 or MaterialGraphNode /Engine/Transient.HexStylus:MaterialGraph_1.MaterialGraphNode_57
+[2017.11.12-20.35.58:382][412]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_57.MaterialExpressionTextureSample_12"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2017.11.12-20.35.58:382][412]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.4Blend:MaterialGraph_2.MaterialGraphNode_46 or MaterialGraphNode /Engine/Transient.HexStylus:MaterialGraph_1.MaterialGraphNode_46
+[2017.11.12-20.35.58:382][412]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVertexColor'"MaterialGraphNode_46.MaterialExpressionVertexColor_0"',OutputIndex=1,Mask=1,MaskR=1)'
+[2017.11.12-20.35.58:417][412]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.35.58:456][412]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2017.11.12-20.35.58:466][412]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2017.11.12-20.35.58:474][412]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2017.11.12-20.35.58:482][412]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2017.11.12-20.36.27:081][681]MaterialEditorStats: Base pass shader: 107 instructions
+[2017.11.12-20.36.27:081][681]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2017.11.12-20.36.27:081][681]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2017.11.12-20.36.27:081][681]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.12-20.36.27:081][681]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-20.36.42:344][721]LogSavePackage: Save=453.98ms
+[2017.11.12-20.36.42:344][721]LogSavePackage: Moving 'P:/ue/Grid1/Saved/ThirdPersonExampleMap_Auto27B415A804B95824A7F92AB91F96F60D1.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2017.11.12-20.36.42:347][721]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2017.11.12-20.36.42:351][721]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.756
+[2017.11.12-20.36.42:351][721]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.756
+[2017.11.12-20.36.42:354][721]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HexPlane] ([1] browsable assets)...
+[2017.11.12-20.36.42:354][721]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HexPlane]
+[2017.11.12-20.36.42:354][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HexPlane" FILE="P:/ue/Grid1/Saved/Autosaves/Game/Blueprints/HexPlane_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.11.12-20.36.42:414][721]LogSavePackage: Save=51.65ms
+[2017.11.12-20.36.42:414][721]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlane_Auto22DF4E2FD410B97A7E0711F8DB2F45347.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/Blueprints/HexPlane_Auto2.uasset'
+[2017.11.12-20.36.42:417][721]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/Blueprints/HexPlane_Auto2.uasset
+[2017.11.12-20.36.42:418][721]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/hex_plane_2] ([1] browsable assets)...
+[2017.11.12-20.36.42:458][721]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/hex_plane_2.hex_plane_2]
+[2017.11.12-20.36.42:459][721]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/hex_plane_2]
+[2017.11.12-20.36.42:459][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/hex_plane_2" FILE="P:/ue/Grid1/Saved/Autosaves/Game/Geometry/Meshes/hex_plane_2_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.11.12-20.36.42:490][721]LogSavePackage: Save=17.92ms
+[2017.11.12-20.36.42:490][721]LogSavePackage: Moving 'P:/ue/Grid1/Saved/hex_plane_2_Auto217EC7E6244670E64315E6EB77E12CA9D.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/Geometry/Meshes/hex_plane_2_Auto2.uasset'
+[2017.11.12-20.36.42:493][721]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/Geometry/Meshes/hex_plane_2_Auto2.uasset
+[2017.11.12-20.36.42:493][721]LogFileHelpers: Auto-saving content packages took 0.140
+[2017.11.12-20.36.59:814][ 90]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.36.59:853][ 90]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2017.11.12-20.36.59:891][ 90]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2017.11.12-20.36.59:926][ 90]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2017.11.12-20.36.59:967][ 90]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2017.11.12-20.37.02:557][152]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.37.06:584][251]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.37.10:500][349]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.37.10:568][349]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.12-20.37.10:581][349]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.37.22:619][662]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.37.22:660][662]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.37.25:704][739]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.37.29:573][837]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.37.29:696][837]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.37.29:705][837]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.12-20.37.37:667][ 40]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.37.37:806][ 40]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.12-20.37.37:911][ 40]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.37.37:960][ 40]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.37.38:446][ 50]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.37.43:903][ 52]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.37.43:980][ 52]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.37.44:023][ 52]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.37.44:137][ 52]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.37.44:261][ 52]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.37.44:388][ 52]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.37.44:490][ 52]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.37.44:592][ 52]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.37.44:679][ 52]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.37.44:884][ 52]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.37.48:455][138]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.37.48:895][147]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.37.48:936][147]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.37.48:979][147]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.37.50:086][173]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.37.50:323][176]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.37.50:357][176]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.37.50:465][176]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.37.56:281][313]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.12-20.37.56:435][314]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.12-20.37.56:503][314]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.37.56:546][314]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.12-20.37.57:312][331]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.12-20.37.57:405][331]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.37.57:454][331]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.12-20.38.03:139][473]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.38.03:184][473]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.12-20.38.09:850][638]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.38.12:806][715]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.38.17:851][845]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.38.31:310][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HexPlane" FILE="P:/ue/Grid1/Content/Blueprints/HexPlane.uasset" SILENT=true
+[2017.11.12-20.38.31:361][208]LogSavePackage: Save=45.84ms
+[2017.11.12-20.38.31:361][208]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlaneE0AF2B484B48A688FFA91ABBAA9D0CD5.tmp' to 'P:/ue/Grid1/Content/Blueprints/HexPlane.uasset'
+[2017.11.12-20.38.31:362][208]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/Blueprints/HexPlane.uasset
+[2017.11.12-20.38.32:975][252]LogMaterialEditor: Saving and Compiling material HexStylus
+[2017.11.12-20.38.34:293][252]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.38.34:406][252]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.38.34:517][252]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.38.34:657][252]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HexStylus, compiling. 
+[2017.11.12-20.38.42:726][252]TextureStreamingBuild: Display: Compiling optional shaders took 8.078 seconds.
+[2017.11.12-20.38.54:660][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/HexStylus" FILE="P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset" SILENT=true
+[2017.11.12-20.38.54:701][252]LogSavePackage: Save=32.74ms
+[2017.11.12-20.38.54:701][252]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexStylus3AB0D2344E5E086397AC88BE89B7C729.tmp' to 'P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset'
+[2017.11.12-20.38.54:704][252]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset
+[2017.11.12-20.38.54:722][252]MaterialEditorStats: Base pass shader: 109 instructions
+[2017.11.12-20.38.54:722][252]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2017.11.12-20.38.54:722][252]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2017.11.12-20.38.54:722][252]MaterialEditorStats: Vertex shader: 30 instructions
+[2017.11.12-20.38.54:722][252]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-20.43.43:651][675]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 P:/Dropbox/Dropbox/art/blends/hex/hex plane 2a.fbx)
+[2017.11.12-20.43.43:660][675]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.12-20.43.43:660][675]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.12-20.43.43:660][675]LogFbx: ItemName: Model, ItemCount : 1
+[2017.11.12-20.43.43:660][675]LogFbx: ItemName: Material, ItemCount : 2
+[2017.11.12-20.43.43:672][675]LogFbx: Loading FBX Scene from P:/Dropbox/Dropbox/art/blends/hex/hex plane 2a.fbx
+[2017.11.12-20.43.43:684][675]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.12-20.43.45:889][675]LogFbx: Loading FBX Scene from P:/Dropbox/Dropbox/art/blends/hex/hex plane 2a.fbx
+[2017.11.12-20.43.45:900][675]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.12-20.43.45:901][675]LogFbx: Warning: Triangulating static mesh HexBase.001
+[2017.11.12-20.43.45:902][675]LogStaticMesh: Building static mesh hex_plane_2a...
+[2017.11.12-20.43.45:908][675]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/hex_plane_2a.hex_plane_2a
+[2017.11.12-20.43.45:927][675]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.12-20.44.42:664][320]BlueprintLog: New page: Compile HexPlane
+[2017.11.12-20.44.44:882][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HexPlane" FILE="P:/ue/Grid1/Content/Blueprints/HexPlane.uasset" SILENT=true
+[2017.11.12-20.44.44:948][364]LogSavePackage: Save=61.98ms
+[2017.11.12-20.44.44:948][364]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlane90A2E34F4516FFEFDDA301BC043F7AF7.tmp' to 'P:/ue/Grid1/Content/Blueprints/HexPlane.uasset'
+[2017.11.12-20.44.44:949][364]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/Blueprints/HexPlane.uasset
+[2017.11.12-20.44.50:257][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hex_plane_2)
+[2017.11.12-20.44.50:629][490]Cmd: DELETE
+[2017.11.12-20.44.50:629][490]Cmd: ACTOR DELETE
+[2017.11.12-20.44.50:658][490]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.12-20.44.50:701][490]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2017.11.12-20.45.17:655][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HexPlane" FILE="P:/ue/Grid1/Content/Blueprints/HexPlane.uasset" SILENT=true
+[2017.11.12-20.45.17:700][343]LogSavePackage: Save=41.57ms
+[2017.11.12-20.45.17:700][343]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlaneED8C82AC489D349077E9F4BFEE94BC00.tmp' to 'P:/ue/Grid1/Content/Blueprints/HexPlane.uasset'
+[2017.11.12-20.45.17:701][343]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/Blueprints/HexPlane.uasset
+[2017.11.12-20.45.23:554][551]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.45.23:600][551]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.45.24:217][568]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.45.24:257][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-20.45.26:902][648]LogMaterialEditor: Saving and Compiling material HexStylus
+[2017.11.12-20.45.28:228][648]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.45.28:332][648]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.45.28:423][648]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-20.45.28:603][648]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HexStylus, compiling. 
+[2017.11.12-20.45.35:851][648]TextureStreamingBuild: Display: Compiling optional shaders took 7.257 seconds.
+[2017.11.12-20.45.45:730][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/HexStylus" FILE="P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset" SILENT=true
+[2017.11.12-20.45.45:755][648]LogSavePackage: Save=21.38ms
+[2017.11.12-20.45.45:755][648]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexStylus3C06B989427DF72D00A13E9942B27D32.tmp' to 'P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset'
+[2017.11.12-20.45.45:756][648]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset
+[2017.11.12-20.45.45:776][648]MaterialEditorStats: Base pass shader: 109 instructions
+[2017.11.12-20.45.45:776][648]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2017.11.12-20.45.45:776][648]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2017.11.12-20.45.45:776][648]MaterialEditorStats: Vertex shader: 30 instructions
+[2017.11.12-20.45.45:776][648]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-20.46.43:511][605]LogSavePackage: Save=367.05ms
+[2017.11.12-20.46.43:511][605]LogSavePackage: Moving 'P:/ue/Grid1/Saved/ThirdPersonExampleMap_Auto39EA4D580421154B106CC4DA1B7CA55B5.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2017.11.12-20.46.43:512][605]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap
+[2017.11.12-20.46.43:514][605]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.614
+[2017.11.12-20.46.43:515][605]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.614
+[2017.11.12-20.46.43:518][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/hex_plane_2a] ([1] browsable assets)...
+[2017.11.12-20.46.43:560][605]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/hex_plane_2a.hex_plane_2a]
+[2017.11.12-20.46.43:560][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/hex_plane_2a]
+[2017.11.12-20.46.43:560][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/hex_plane_2a" FILE="P:/ue/Grid1/Saved/Autosaves/Game/Geometry/Meshes/hex_plane_2a_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2017.11.12-20.46.43:577][605]LogSavePackage: Save=15.99ms
+[2017.11.12-20.46.43:577][605]LogSavePackage: Moving 'P:/ue/Grid1/Saved/hex_plane_2a_Auto31AA6311D4DCC7DC1CBCD078F3C259901.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/Geometry/Meshes/hex_plane_2a_Auto3.uasset'
+[2017.11.12-20.46.43:577][605]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/Geometry/Meshes/hex_plane_2a_Auto3.uasset
+[2017.11.12-20.46.43:577][605]LogFileHelpers: Auto-saving content packages took 0.061
+[2017.11.12-21.04.52:262][852]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 P:\Dropbox\Dropbox\art\blends\hex\cursor-spinner-difuse.png)
+[2017.11.12-21.04.52:305][852]LogTexture: Display: Building textures: cursor-spinner-difuse (AutoDXT, 512X512)
+[2017.11.12-21.04.52:501][852]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 P:\Dropbox\Dropbox\art\blends\hex\cursor-spinner-normal.png)
+[2017.11.12-21.04.52:532][852]LogTexture: Display: Building textures: cursor-spinner-normal (BC5, 512X512)
+[2017.11.12-21.06.02:380][746]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.06.02:418][746]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.12-21.06.02:459][746]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.12-21.06.02:469][746]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-21.06.02:481][746]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.12-21.06.02:492][746]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.12-21.06.02:518][746]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.06.02:557][746]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.12-21.06.02:589][746]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.12-21.06.02:597][746]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.12-21.06.02:606][746]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.12-21.06.02:616][746]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.12-21.06.02:632][746]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.12-21.06.08:906][933]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.06.09:781][959]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.06.09:843][959]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.12-21.06.21:226][311]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_49.MaterialExpressionLinearInterpolate_3"')'
+[2017.11.12-21.06.21:226][311]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVertexColor'"MaterialGraphNode_46.MaterialExpressionVertexColor_0"',OutputIndex=2,Mask=1,MaskG=1)'
+[2017.11.12-21.06.21:227][311]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVertexColor'"MaterialGraphNode_46.MaterialExpressionVertexColor_0"',OutputIndex=1,Mask=1,MaskR=1)'
+[2017.11.12-21.06.21:243][311]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.06.28:497][526]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.06.28:543][526]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.12-21.06.34:139][633]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.06.35:057][651]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.06.35:190][651]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.12-21.06.42:816][821]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.06.49:345][987]LogMaterialEditor: Saving and Compiling material HexStylus
+[2017.11.12-21.06.51:259][987]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.06.51:452][987]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.06.51:542][987]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.06.51:686][987]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HexStylus, compiling. 
+[2017.11.12-21.06.57:671][987]TextureStreamingBuild: Display: Compiling optional shaders took 5.995 seconds.
+[2017.11.12-21.07.06:961][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/HexStylus" FILE="P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset" SILENT=true
+[2017.11.12-21.07.07:053][987]LogSavePackage: Save=24.54ms
+[2017.11.12-21.07.07:053][987]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexStylus02443C6C4ABD2C57AACBBD80FE3A70A8.tmp' to 'P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset'
+[2017.11.12-21.07.07:054][987]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset
+[2017.11.12-21.07.07:072][987]MaterialEditorStats: Base pass shader: 119 instructions
+[2017.11.12-21.07.07:072][987]MaterialEditorStats: Base pass shader with Surface Lightmap: 136 instructions
+[2017.11.12-21.07.07:072][987]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2017.11.12-21.07.07:072][987]MaterialEditorStats: Vertex shader: 32 instructions
+[2017.11.12-21.07.07:072][987]MaterialEditorStats: Texture samplers: 5/16
+[2017.11.12-21.07.07:072][987]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.12-21.07.10:181][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.041
+[2017.11.12-21.07.10:195][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NewTextures/cursor-spinner-difuse] ([1] browsable assets)...
+[2017.11.12-21.07.10:213][ 95]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/NewTextures/cursor-spinner-difuse.cursor-spinner-difuse]
+[2017.11.12-21.07.10:213][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewTextures/cursor-spinner-difuse]
+[2017.11.12-21.07.10:213][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewTextures/cursor-spinner-difuse" FILE="P:/ue/Grid1/Saved/Autosaves/Game/NewTextures/cursor-spinner-difuse_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2017.11.12-21.07.10:223][ 95]LogSavePackage: Save=8.84ms
+[2017.11.12-21.07.10:223][ 95]LogSavePackage: Moving 'P:/ue/Grid1/Saved/cursor-spinner-difuse_Auto4E36E7B5244291481A211FEB27E70BD3D.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/NewTextures/cursor-spinner-difuse_Auto4.uasset'
+[2017.11.12-21.07.10:227][ 95]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/NewTextures/cursor-spinner-difuse_Auto4.uasset
+[2017.11.12-21.07.10:227][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NewTextures/cursor-spinner-normal] ([1] browsable assets)...
+[2017.11.12-21.07.10:248][ 95]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/NewTextures/cursor-spinner-normal.cursor-spinner-normal]
+[2017.11.12-21.07.10:249][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewTextures/cursor-spinner-normal]
+[2017.11.12-21.07.10:249][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewTextures/cursor-spinner-normal" FILE="P:/ue/Grid1/Saved/Autosaves/Game/NewTextures/cursor-spinner-normal_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2017.11.12-21.07.10:274][ 95]LogSavePackage: Save=11.92ms
+[2017.11.12-21.07.10:274][ 95]LogSavePackage: Moving 'P:/ue/Grid1/Saved/cursor-spinner-normal_Auto49AF1044B4523809524A9EBA74C5143E8.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/NewTextures/cursor-spinner-normal_Auto4.uasset'
+[2017.11.12-21.07.10:275][ 95]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/NewTextures/cursor-spinner-normal_Auto4.uasset
+[2017.11.12-21.07.10:275][ 95]LogFileHelpers: Auto-saving content packages took 0.092
+[2017.11.12-21.09.16:224][913]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0037 seconds. Added 1 classes and 2 folders.
+[2017.11.12-21.09.45:173][ 22]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.09.45:213][ 22]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.12-21.09.58:007][179]MaterialEditorStats: Base pass shader: 117 instructions
+[2017.11.12-21.09.58:007][179]MaterialEditorStats: Base pass shader with Surface Lightmap: 134 instructions
+[2017.11.12-21.09.58:008][179]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2017.11.12-21.09.58:008][179]MaterialEditorStats: Vertex shader: 32 instructions
+[2017.11.12-21.09.58:008][179]MaterialEditorStats: Texture samplers: 5/16
+[2017.11.12-21.09.58:008][179]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.12-21.11.20:629][838]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.11.20:709][838]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.11.51:412][686]LogMaterialEditor: Saving and Compiling material HexStylus
+[2017.11.12-21.11.52:665][686]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.11.52:859][686]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.11.52:988][686]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.11.53:152][686]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HexStylus, compiling. 
+[2017.11.12-21.12.12:238][686]TextureStreamingBuild: Display: Compiling optional shaders took 19.097 seconds.
+[2017.11.12-21.12.29:786][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/HexStylus" FILE="P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset" SILENT=true
+[2017.11.12-21.12.29:812][686]LogSavePackage: Save=21.63ms
+[2017.11.12-21.12.29:812][686]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexStylusAD2EA46C48096BF40D48FE99A573050B.tmp' to 'P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset'
+[2017.11.12-21.12.29:813][686]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset
+[2017.11.12-21.12.29:826][686]MaterialEditorStats: Base pass shader: 47 instructions
+[2017.11.12-21.12.29:826][686]MaterialEditorStats: Base pass shader with Surface Lightmap: 85 instructions
+[2017.11.12-21.12.29:826][686]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 74 instructions
+[2017.11.12-21.12.29:826][686]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.11.12-21.12.29:826][686]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-21.12.29:826][686]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.12-21.13.15:233][435]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.13.15:291][435]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.12-21.13.17:270][489]LogMaterialEditor: Saving and Compiling material HexStylus
+[2017.11.12-21.13.19:292][489]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.13.19:543][489]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.13.19:674][489]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.13.19:841][489]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HexStylus, compiling. 
+[2017.11.12-21.13.31:794][489]TextureStreamingBuild: Display: Compiling optional shaders took 11.965 seconds.
+[2017.11.12-21.13.49:047][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/HexStylus" FILE="P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset" SILENT=true
+[2017.11.12-21.13.49:072][489]LogSavePackage: Save=21.66ms
+[2017.11.12-21.13.49:073][489]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexStylus5E38993A4C9D60B5327ACB876E6E253B.tmp' to 'P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset'
+[2017.11.12-21.13.49:074][489]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset
+[2017.11.12-21.13.49:098][489]MaterialEditorStats: Base pass shader: 47 instructions
+[2017.11.12-21.13.49:098][489]MaterialEditorStats: Base pass shader with Surface Lightmap: 85 instructions
+[2017.11.12-21.13.49:098][489]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 74 instructions
+[2017.11.12-21.13.49:098][489]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.11.12-21.13.49:098][489]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-21.13.49:098][489]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.12-21.14.21:237][949]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.14.21:292][949]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.12-21.14.25:771][ 69]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.14.41:979][508]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.14.58:658][980]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_81.MaterialExpressionLinearInterpolate_3"')'
+[2017.11.12-21.14.58:674][980]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.15.27:807][749]LogMaterialEditor: Saving and Compiling material HexStylus
+[2017.11.12-21.15.29:230][749]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.15.29:461][749]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.15.29:589][749]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.15.29:753][749]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HexStylus, compiling. 
+[2017.11.12-21.15.40:346][749]TextureStreamingBuild: Display: Compiling optional shaders took 10.604 seconds.
+[2017.11.12-21.15.57:204][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/HexStylus" FILE="P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset" SILENT=true
+[2017.11.12-21.15.57:232][749]LogSavePackage: Save=23.73ms
+[2017.11.12-21.15.57:232][749]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexStylus3C4BAAAE4AC458E80F911EABBA64850C.tmp' to 'P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset'
+[2017.11.12-21.15.57:233][749]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset
+[2017.11.12-21.15.57:247][749]MaterialEditorStats: Base pass shader: 53 instructions
+[2017.11.12-21.15.57:247][749]MaterialEditorStats: Base pass shader with Surface Lightmap: 91 instructions
+[2017.11.12-21.15.57:247][749]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 80 instructions
+[2017.11.12-21.15.57:247][749]MaterialEditorStats: Vertex shader: 125 instructions
+[2017.11.12-21.15.57:247][749]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-21.15.57:247][749]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.12-21.16.20:200][515]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.16.23:699][609]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.16.23:754][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.12-21.16.30:821][798]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.16.34:966][904]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.16.39:904][ 31]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.16.39:962][ 31]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.12-21.16.46:937][215]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.16.48:204][243]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.16.48:261][243]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.12-21.16.49:605][278]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.16.50:723][308]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.16.50:776][308]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.12-21.16.52:290][349]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.16.56:035][440]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.17.12:481][897]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.17.32:681][462]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.17.32:731][462]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.11.12-21.17.37:204][582]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.17.37:260][582]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.11.12-21.17.38:765][621]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.17.38:824][621]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.11.12-21.17.39:437][633]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.17.39:495][633]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.11.12-21.17.45:149][772]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.17.45:204][772]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.11.12-21.17.46:172][797]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.17.46:235][797]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.11.12-21.18.08:586][396]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.18.08:639][396]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.18.08:766][396]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.12-21.18.13:241][513]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.18.13:298][513]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.11.12-21.18.15:909][588]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.18.30:347][  2]LogMaterialEditor: Saving and Compiling material HexStylus
+[2017.11.12-21.18.31:622][  2]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.18.31:768][  2]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.18.31:893][  2]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.18.32:062][  2]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HexStylus, compiling. 
+[2017.11.12-21.18.42:630][  2]TextureStreamingBuild: Display: Compiling optional shaders took 10.578 seconds.
+[2017.11.12-21.19.01:270][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/HexStylus" FILE="P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset" SILENT=true
+[2017.11.12-21.19.01:299][  2]LogSavePackage: Save=23.61ms
+[2017.11.12-21.19.01:299][  2]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexStylus8D4201DD4E859F2F0F11678635577E30.tmp' to 'P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset'
+[2017.11.12-21.19.01:300][  2]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset
+[2017.11.12-21.19.01:320][  2]MaterialEditorStats: Base pass shader: 55 instructions
+[2017.11.12-21.19.01:320][  2]MaterialEditorStats: Base pass shader with Surface Lightmap: 93 instructions
+[2017.11.12-21.19.01:320][  2]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 82 instructions
+[2017.11.12-21.19.01:320][  2]MaterialEditorStats: Vertex shader: 125 instructions
+[2017.11.12-21.19.01:320][  2]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-21.19.01:320][  2]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.12-21.19.50:289][681]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_81.MaterialExpressionLinearInterpolate_7"')'
+[2017.11.12-21.19.50:304][681]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.20.11:660][115]MaterialEditorStats: Base pass shader: 55 instructions
+[2017.11.12-21.20.11:660][115]MaterialEditorStats: Base pass shader with Surface Lightmap: 93 instructions
+[2017.11.12-21.20.11:660][115]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 82 instructions
+[2017.11.12-21.20.11:660][115]MaterialEditorStats: Vertex shader: 125 instructions
+[2017.11.12-21.20.11:660][115]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-21.20.11:661][115]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.12-21.20.15:239][235]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.20.28:126][477]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.20.29:950][520]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.20.39:505][727]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.20.44:391][810]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.20.46:789][852]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.20.50:365][940]LogMaterialEditor: Saving and Compiling material HexStylus
+[2017.11.12-21.20.52:029][940]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.20.52:266][940]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.20.52:398][940]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.20.52:602][940]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HexStylus, compiling. 
+[2017.11.12-21.21.03:223][940]TextureStreamingBuild: Display: Compiling optional shaders took 10.631 seconds.
+[2017.11.12-21.21.19:777][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/HexStylus" FILE="P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset" SILENT=true
+[2017.11.12-21.21.19:805][940]LogSavePackage: Save=24.77ms
+[2017.11.12-21.21.19:805][940]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexStylus7E41BC2E486834487F29F98B3F74B3FD.tmp' to 'P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset'
+[2017.11.12-21.21.19:806][940]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset
+[2017.11.12-21.21.19:827][940]MaterialEditorStats: Base pass shader: 56 instructions
+[2017.11.12-21.21.19:827][940]MaterialEditorStats: Base pass shader with Surface Lightmap: 94 instructions
+[2017.11.12-21.21.19:827][940]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 83 instructions
+[2017.11.12-21.21.19:827][940]MaterialEditorStats: Vertex shader: 125 instructions
+[2017.11.12-21.21.19:827][940]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-21.21.19:827][940]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.12-21.21.27:825][183]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.12-21.21.27:868][183]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.21.27:870][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.12-21.21.27:875][183]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 12, 2017, 11:21:27 AM)
+[2017.11.12-21.21.27:876][183]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.12-21.21.27:958][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082217s)
+[2017.11.12-21.21.27:960][183]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.12-21.21.27:963][183]LogPlayLevel: PIE: World Init took: (0.004158s)
+[2017.11.12-21.21.27:963][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.087283s)
+[2017.11.12-21.21.28:031][183]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.12-21.21.28:048][183]LogInit: FAudioDevice initialized.
+[2017.11.12-21.21.28:094][183]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.12-21.21.28:104][183]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.12-16.21.28
+[2017.11.12-21.21.28:105][183]LogWorld: Bringing up level for play took: 0.003504
+[2017.11.12-21.21.28:128][183]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.12-21.21.28:130][183]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.12-21.21.28:130][183]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_2] Start
+[2017.11.12-21.21.28:132][183]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.69
+[2017.11.12-21.21.28:132][183]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.21.32:103][331]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.12-21.21.40:587][652]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.12-21.21.42:008][706]LogBlueprintUserMessages: [CursorCharacter_C_0] New BasicHexGuy number of= 0
+[2017.11.12-21.21.47:161][903]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.21.47:215][903]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.22.10:865][628]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.22.10:943][628]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.11.12-21.22.10:952][628]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2017.11.12-21.22.16:631][783]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.22.16:685][783]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2017.11.12-21.22.18:680][839]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.22.18:738][839]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2017.11.12-21.22.20:346][882]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.22.20:404][882]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2017.11.12-21.22.22:361][935]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.22.22:417][935]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2017.11.12-21.22.25:550][ 22]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.22.25:608][ 22]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2017.11.12-21.22.37:661][363]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.22.37:715][363]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.22.37:866][363]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.12-21.22.41:448][462]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.22.43:995][528]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.22.45:123][558]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.22.52:871][613]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.22.52:929][613]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.12-21.22.54:609][654]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.22.54:667][654]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2017.11.12-21.23.20:426][869]MaterialEditorStats: Base pass shader: 56 instructions
+[2017.11.12-21.23.20:426][869]MaterialEditorStats: Base pass shader with Surface Lightmap: 94 instructions
+[2017.11.12-21.23.20:426][869]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 83 instructions
+[2017.11.12-21.23.20:426][869]MaterialEditorStats: Vertex shader: 125 instructions
+[2017.11.12-21.23.20:426][869]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-21.23.20:426][869]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.12-21.24.16:089][220]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.24.20:782][349]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.24.21:137][350]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2017.11.12-21.24.41:432][412]MaterialEditorStats: Base pass shader: 56 instructions
+[2017.11.12-21.24.41:433][412]MaterialEditorStats: Base pass shader with Surface Lightmap: 94 instructions
+[2017.11.12-21.24.41:433][412]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 83 instructions
+[2017.11.12-21.24.41:433][412]MaterialEditorStats: Vertex shader: 125 instructions
+[2017.11.12-21.24.41:433][412]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-21.24.41:433][412]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.12-21.24.53:828][787]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.24.53:878][787]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.24.58:141][863]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.25.11:448][964]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.25.12:277][987]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.25.31:088][ 26]MaterialEditorStats: Base pass shader: 56 instructions
+[2017.11.12-21.25.31:088][ 26]MaterialEditorStats: Base pass shader with Surface Lightmap: 94 instructions
+[2017.11.12-21.25.31:088][ 26]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 83 instructions
+[2017.11.12-21.25.31:088][ 26]MaterialEditorStats: Vertex shader: 125 instructions
+[2017.11.12-21.25.31:089][ 26]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-21.25.31:089][ 26]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.12-21.25.46:799][233]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.25.46:850][233]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.26.00:931][495]MaterialEditorStats: Base pass shader: 56 instructions
+[2017.11.12-21.26.00:931][495]MaterialEditorStats: Base pass shader with Surface Lightmap: 94 instructions
+[2017.11.12-21.26.00:932][495]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 83 instructions
+[2017.11.12-21.26.00:932][495]MaterialEditorStats: Vertex shader: 125 instructions
+[2017.11.12-21.26.00:932][495]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-21.26.00:932][495]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.12-21.26.02:142][538]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.26.04:064][585]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.26.30:685][790]MaterialEditorStats: Base pass shader: 56 instructions
+[2017.11.12-21.26.30:686][790]MaterialEditorStats: Base pass shader with Surface Lightmap: 94 instructions
+[2017.11.12-21.26.30:686][790]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 83 instructions
+[2017.11.12-21.26.30:686][790]MaterialEditorStats: Vertex shader: 125 instructions
+[2017.11.12-21.26.30:686][790]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-21.26.30:686][790]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.12-21.27.00:178][ 76]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.27.00:228][ 76]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.27.05:658][224]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.27.05:710][224]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.27.13:741][455]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.27.21:648][572]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.27.25:641][678]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.27.25:698][678]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.27.33:898][914]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.27.36:594][990]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.27.36:652][990]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.12-21.27.42:391][151]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.27.42:445][151]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.12-21.28.15:736][620]MaterialEditorStats: Base pass shader: 60 instructions
+[2017.11.12-21.28.15:736][620]MaterialEditorStats: Base pass shader with Surface Lightmap: 98 instructions
+[2017.11.12-21.28.15:736][620]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2017.11.12-21.28.15:736][620]MaterialEditorStats: Vertex shader: 125 instructions
+[2017.11.12-21.28.15:736][620]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-21.28.15:736][620]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.12-21.29.11:480][102]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.29.13:662][166]LogMaterialEditor: Saving and Compiling material HexStylus
+[2017.11.12-21.29.14:912][166]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.29.15:078][166]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.29.15:203][166]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.29.15:366][166]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HexStylus, compiling. 
+[2017.11.12-21.29.27:083][166]TextureStreamingBuild: Display: Compiling optional shaders took 11.729 seconds.
+[2017.11.12-21.29.50:465][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/HexStylus" FILE="P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset" SILENT=true
+[2017.11.12-21.29.50:593][166]LogSavePackage: Save=123.22ms
+[2017.11.12-21.29.50:594][166]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexStylus5DEBA67A4E0D633DE786F98720F9E2D8.tmp' to 'P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset'
+[2017.11.12-21.29.50:595][166]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset
+[2017.11.12-21.29.50:653][166]MaterialEditorStats: Base pass shader: 60 instructions
+[2017.11.12-21.29.50:654][166]MaterialEditorStats: Base pass shader with Surface Lightmap: 98 instructions
+[2017.11.12-21.29.50:654][166]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2017.11.12-21.29.50:654][166]MaterialEditorStats: Vertex shader: 125 instructions
+[2017.11.12-21.29.50:654][166]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-21.29.50:654][166]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.12-21.30.29:761][888]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.30.52:778][482]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.30.56:187][570]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.31.12:177][873]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.31.12:467][874]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2017.11.12-21.31.27:063][126]MaterialEditorStats: Base pass shader: 60 instructions
+[2017.11.12-21.31.27:063][126]MaterialEditorStats: Base pass shader with Surface Lightmap: 98 instructions
+[2017.11.12-21.31.27:063][126]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2017.11.12-21.31.27:063][126]MaterialEditorStats: Vertex shader: 125 instructions
+[2017.11.12-21.31.27:063][126]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-21.31.27:063][126]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.12-21.31.30:068][200]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.31.41:689][451]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.31.58:073][764]MaterialEditorStats: Base pass shader: 60 instructions
+[2017.11.12-21.31.58:074][764]MaterialEditorStats: Base pass shader with Surface Lightmap: 98 instructions
+[2017.11.12-21.31.58:074][764]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2017.11.12-21.31.58:074][764]MaterialEditorStats: Vertex shader: 125 instructions
+[2017.11.12-21.31.58:074][764]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-21.31.58:074][764]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.12-21.32.02:493][911]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.32.05:756][964]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.32.08:658][ 24]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.32.15:135][131]LogMaterialEditor: Saving and Compiling material HexStylus
+[2017.11.12-21.32.17:695][131]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.32.17:995][131]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.32.18:225][131]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.32.18:392][131]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HexStylus, compiling. 
+[2017.11.12-21.32.29:060][131]TextureStreamingBuild: Display: Compiling optional shaders took 10.680 seconds.
+[2017.11.12-21.32.55:738][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/HexStylus" FILE="P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset" SILENT=true
+[2017.11.12-21.32.55:787][131]LogSavePackage: Save=32.22ms
+[2017.11.12-21.32.55:788][131]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexStylusB7875D6841C9424459F773A6F713F3E9.tmp' to 'P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset'
+[2017.11.12-21.32.55:789][131]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset
+[2017.11.12-21.32.55:814][131]MaterialEditorStats: Base pass shader: 66 instructions
+[2017.11.12-21.32.55:814][131]MaterialEditorStats: Base pass shader with Surface Lightmap: 104 instructions
+[2017.11.12-21.32.55:814][131]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 93 instructions
+[2017.11.12-21.32.55:814][131]MaterialEditorStats: Vertex shader: 125 instructions
+[2017.11.12-21.32.55:814][131]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-21.32.55:814][131]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.12-21.33.32:272][647]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.12-21.33.32:308][647]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.33.32:308][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.12-21.33.32:309][647]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 12, 2017, 11:33:32 AM)
+[2017.11.12-21.33.32:309][647]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.12-21.33.32:382][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072881s)
+[2017.11.12-21.33.32:385][647]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.12-21.33.32:386][647]LogPlayLevel: PIE: World Init took: (0.003928s)
+[2017.11.12-21.33.32:386][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.077355s)
+[2017.11.12-21.33.32:448][647]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.12-21.33.32:456][647]LogInit: FAudioDevice initialized.
+[2017.11.12-21.33.32:495][647]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.12-21.33.32:497][647]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.12-16.33.32
+[2017.11.12-21.33.32:498][647]LogWorld: Bringing up level for play took: 0.002021
+[2017.11.12-21.33.32:502][647]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.12-21.33.32:502][647]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.12-21.33.32:502][647]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_2] Start
+[2017.11.12-21.33.32:503][647]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.031
+[2017.11.12-21.33.32:503][647]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.33.37:417][829]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.12-21.33.41:279][975]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.12-21.33.43:321][ 52]LogBlueprintUserMessages: [CursorCharacter_C_0] New BasicHexGuy number of= 0
+[2017.11.12-21.33.46:056][154]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.12-21.33.51:259][347]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.12-21.33.53:118][416]LogBlueprintUserMessages: [CursorCharacter_C_0] New BasicHexGuy1 number of= 1
+[2017.11.12-21.33.54:669][475]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.33.54:718][475]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.34.04:772][779]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.34.06:803][836]LogMaterialEditor: Saving and Compiling material HexStylus
+[2017.11.12-21.34.08:042][836]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.34.08:214][836]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.34.08:337][836]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.34.08:500][836]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HexStylus, compiling. 
+[2017.11.12-21.34.19:541][836]TextureStreamingBuild: Display: Compiling optional shaders took 11.052 seconds.
+[2017.11.12-21.34.35:941][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/HexStylus" FILE="P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset" SILENT=true
+[2017.11.12-21.34.35:976][836]LogSavePackage: Save=30.85ms
+[2017.11.12-21.34.35:976][836]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexStylus9ED7E4B7425A389FD98F5C9B3C52B63A.tmp' to 'P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset'
+[2017.11.12-21.34.35:977][836]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset
+[2017.11.12-21.34.36:003][836]MaterialEditorStats: Base pass shader: 66 instructions
+[2017.11.12-21.34.36:004][836]MaterialEditorStats: Base pass shader with Surface Lightmap: 104 instructions
+[2017.11.12-21.34.36:004][836]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 93 instructions
+[2017.11.12-21.34.36:004][836]MaterialEditorStats: Vertex shader: 125 instructions
+[2017.11.12-21.34.36:004][836]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-21.34.36:004][836]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.12-21.34.52:455][411]BlueprintLog: New page: Compile HexPlane
+[2017.11.12-21.34.58:193][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HexPlane" FILE="P:/ue/Grid1/Content/Blueprints/HexPlane.uasset" SILENT=true
+[2017.11.12-21.34.58:292][580]LogSavePackage: Save=54.86ms
+[2017.11.12-21.34.58:292][580]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlane6A6EC65442EED1FD734E1F9C6CD033DD.tmp' to 'P:/ue/Grid1/Content/Blueprints/HexPlane.uasset'
+[2017.11.12-21.34.58:293][580]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/Blueprints/HexPlane.uasset
+[2017.11.12-21.35.05:253][827]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.35.07:086][877]LogMaterialEditor: Saving and Compiling material HexStylus
+[2017.11.12-21.35.09:002][877]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.35.09:419][877]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.35.09:635][877]LogMaterial: Missing cached shader map for material HexStylus, compiling. 
+[2017.11.12-21.35.09:830][877]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HexStylus, compiling. 
+[2017.11.12-21.35.19:566][877]TextureStreamingBuild: Display: Compiling optional shaders took 9.747 seconds.
+[2017.11.12-21.35.37:856][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/HexStylus" FILE="P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset" SILENT=true
+[2017.11.12-21.35.37:890][877]LogSavePackage: Save=29.62ms
+[2017.11.12-21.35.37:890][877]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexStylus14CCF6784574136AA3F2459F54B231D7.tmp' to 'P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset'
+[2017.11.12-21.35.37:891][877]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/StarterContent/Materials/HexStylus.uasset
+[2017.11.12-21.35.37:905][877]MaterialEditorStats: Base pass shader: 66 instructions
+[2017.11.12-21.35.37:905][877]MaterialEditorStats: Base pass shader with Surface Lightmap: 104 instructions
+[2017.11.12-21.35.37:905][877]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 93 instructions
+[2017.11.12-21.35.37:905][877]MaterialEditorStats: Vertex shader: 125 instructions
+[2017.11.12-21.35.37:905][877]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.12-21.35.37:905][877]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.12-21.35.44:070][ 66]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.12-21.35.44:105][ 66]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.35.44:105][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.12-21.35.44:105][ 66]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 12, 2017, 11:35:44 AM)
+[2017.11.12-21.35.44:105][ 66]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.12-21.35.44:156][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050784s)
+[2017.11.12-21.35.44:158][ 66]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.12-21.35.44:158][ 66]LogPlayLevel: PIE: World Init took: (0.002106s)
+[2017.11.12-21.35.44:159][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.053397s)
+[2017.11.12-21.35.44:232][ 66]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.12-21.35.44:241][ 66]LogInit: FAudioDevice initialized.
+[2017.11.12-21.35.44:279][ 66]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.12-21.35.44:281][ 66]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.12-16.35.44
+[2017.11.12-21.35.44:282][ 66]LogWorld: Bringing up level for play took: 0.002089
+[2017.11.12-21.35.44:286][ 66]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.12-21.35.44:287][ 66]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.12-21.35.44:287][ 66]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_2] Start
+[2017.11.12-21.35.44:288][ 66]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.808
+[2017.11.12-21.35.44:288][ 66]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.35.47:163][170]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.12-21.35.56:135][501]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.12-21.35.58:986][609]LogBlueprintUserMessages: [CursorCharacter_C_0] New BasicHexGuy number of= 0
+[2017.11.12-21.36.05:793][863]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.12-21.36.12:551][117]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.12-21.36.13:854][166]LogBlueprintUserMessages: [CursorCharacter_C_0] New BasicHexGuy1 number of= 1
+[2017.11.12-21.36.15:938][244]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.36.15:987][244]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.36.40:996][ 47]BlueprintLog: New page: Compile HexPlane
+[2017.11.12-21.36.42:445][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HexPlane" FILE="P:/ue/Grid1/Content/Blueprints/HexPlane.uasset" SILENT=true
+[2017.11.12-21.36.42:505][ 67]LogSavePackage: Save=55.90ms
+[2017.11.12-21.36.42:505][ 67]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlane266A0C404264BC0464F10BA989D38CB1.tmp' to 'P:/ue/Grid1/Content/Blueprints/HexPlane.uasset'
+[2017.11.12-21.36.42:506][ 67]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/Blueprints/HexPlane.uasset
+[2017.11.12-21.36.44:440][113]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.12-21.36.44:475][113]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.36.44:475][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.12-21.36.44:475][113]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 12, 2017, 11:36:44 AM)
+[2017.11.12-21.36.44:475][113]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.12-21.36.44:526][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050481s)
+[2017.11.12-21.36.44:527][113]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.12-21.36.44:528][113]LogPlayLevel: PIE: World Init took: (0.001654s)
+[2017.11.12-21.36.44:528][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.052673s)
+[2017.11.12-21.36.44:595][113]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.12-21.36.44:604][113]LogInit: FAudioDevice initialized.
+[2017.11.12-21.36.44:644][113]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.12-21.36.44:646][113]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.12-16.36.44
+[2017.11.12-21.36.44:646][113]LogWorld: Bringing up level for play took: 0.002004
+[2017.11.12-21.36.44:650][113]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.12-21.36.44:651][113]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.12-21.36.44:651][113]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_2] Start
+[2017.11.12-21.36.44:652][113]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.168
+[2017.11.12-21.36.44:652][113]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.36.51:480][360]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.12-21.36.54:862][482]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.12-21.36.56:046][525]LogBlueprintUserMessages: [CursorCharacter_C_0] New BasicHexGuy number of= 0
+[2017.11.12-21.37.18:914][354]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.37.18:965][354]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.39.29:973][ 65]BlueprintLog: New page: Compile HexPlane
+[2017.11.12-21.39.31:555][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HexPlane" FILE="P:/ue/Grid1/Content/Blueprints/HexPlane.uasset" SILENT=true
+[2017.11.12-21.39.31:612][ 96]LogSavePackage: Save=53.19ms
+[2017.11.12-21.39.31:612][ 96]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlane22A4F673450C3E7AA4B7CB82C554DFA7.tmp' to 'P:/ue/Grid1/Content/Blueprints/HexPlane.uasset'
+[2017.11.12-21.39.31:613][ 96]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/Blueprints/HexPlane.uasset
+[2017.11.12-21.40.01:846][ 24]BlueprintLog: New page: Compile CursorCharacter
+[2017.11.12-21.40.03:043][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/CursorCharacter" FILE="P:/ue/Grid1/Content/ThirdPersonBP/Blueprints/CursorCharacter.uasset" SILENT=true
+[2017.11.12-21.40.03:390][ 33]LogSavePackage: Save=284.44ms
+[2017.11.12-21.40.03:390][ 33]LogSavePackage: Moving 'P:/ue/Grid1/Saved/CursorCharacter26BF20CD454D2654717D2C990EDCBA6D.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/Blueprints/CursorCharacter.uasset'
+[2017.11.12-21.40.03:403][ 33]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/Blueprints/CursorCharacter.uasset
+[2017.11.12-21.40.05:915][ 79]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.12-21.40.05:950][ 79]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.40.05:950][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.12-21.40.05:950][ 79]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 12, 2017, 11:40:05 AM)
+[2017.11.12-21.40.05:950][ 79]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.12-21.40.06:001][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051048s)
+[2017.11.12-21.40.06:005][ 79]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.12-21.40.06:005][ 79]LogPlayLevel: PIE: World Init took: (0.004072s)
+[2017.11.12-21.40.06:006][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.055688s)
+[2017.11.12-21.40.06:069][ 79]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.12-21.40.06:077][ 79]LogInit: FAudioDevice initialized.
+[2017.11.12-21.40.06:116][ 79]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.12-21.40.06:118][ 79]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.12-16.40.06
+[2017.11.12-21.40.06:118][ 79]LogWorld: Bringing up level for play took: 0.002128
+[2017.11.12-21.40.06:122][ 79]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.12-21.40.06:123][ 79]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.12-21.40.06:123][ 79]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_2] Start
+[2017.11.12-21.40.06:124][ 79]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.632
+[2017.11.12-21.40.06:124][ 79]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.40.08:954][150]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.12-21.40.13:461][265]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.12-21.40.15:017][305]LogBlueprintUserMessages: [CursorCharacter_C_0] New BasicHexGuy number of= 0
+[2017.11.12-21.40.18:386][391]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.12-21.40.20:390][442]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.12-21.40.21:364][466]LogBlueprintUserMessages: [CursorCharacter_C_0] New BasicHexGuy1 number of= 1
+[2017.11.12-21.40.24:613][549]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.12-21.40.27:879][632]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.12-21.40.29:013][661]LogBlueprintUserMessages: [CursorCharacter_C_0] New BasicHexGuy2 number of= 2
+[2017.11.12-21.40.30:289][694]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.40.30:337][694]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.41.18:589][239]BlueprintLog: New page: Compile HexPlane
+[2017.11.12-21.41.20:042][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HexPlane" FILE="P:/ue/Grid1/Content/Blueprints/HexPlane.uasset" SILENT=true
+[2017.11.12-21.41.20:111][257]LogSavePackage: Save=65.28ms
+[2017.11.12-21.41.20:112][257]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlaneB06DA4FF433D0EF69A203498EDC76333.tmp' to 'P:/ue/Grid1/Content/Blueprints/HexPlane.uasset'
+[2017.11.12-21.41.20:113][257]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/Blueprints/HexPlane.uasset
+[2017.11.12-21.41.22:661][315]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.12-21.41.22:696][315]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.41.22:696][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.12-21.41.22:697][315]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 12, 2017, 11:41:22 AM)
+[2017.11.12-21.41.22:697][315]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.12-21.41.22:749][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051635s)
+[2017.11.12-21.41.22:750][315]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.12-21.41.22:750][315]LogPlayLevel: PIE: World Init took: (0.001719s)
+[2017.11.12-21.41.22:751][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.053839s)
+[2017.11.12-21.41.22:817][315]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.12-21.41.22:825][315]LogInit: FAudioDevice initialized.
+[2017.11.12-21.41.22:865][315]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.12-21.41.22:868][315]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.12-16.41.22
+[2017.11.12-21.41.22:868][315]LogWorld: Bringing up level for play took: 0.002043
+[2017.11.12-21.41.22:872][315]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.12-21.41.22:873][315]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.12-21.41.22:873][315]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_2] Start
+[2017.11.12-21.41.22:874][315]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.622
+[2017.11.12-21.41.22:874][315]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.41.24:402][369]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.12-21.41.34:200][728]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.12-21.41.35:320][769]LogBlueprintUserMessages: [CursorCharacter_C_0] New BasicHexGuy number of= 0
+[2017.11.12-21.41.37:990][867]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.12-21.41.42:566][ 34]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.12-21.41.43:519][ 69]LogBlueprintUserMessages: [CursorCharacter_C_0] New BasicHexGuy1 number of= 1
+[2017.11.12-21.41.45:381][137]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.12-21.41.46:596][181]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.12-21.41.47:690][221]LogBlueprintUserMessages: [CursorCharacter_C_0] New BasicHexGuy2 number of= 2
+[2017.11.12-21.41.50:393][320]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.12-21.41.54:749][478]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.12-21.41.55:750][513]LogBlueprintUserMessages: [CursorCharacter_C_0] New BasicHexGuy3 number of= 3
+[2017.11.12-21.41.57:541][576]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.12-21.41.58:033][593]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.12-21.41.58:636][614]LogBlueprintUserMessages: [CursorCharacter_C_0] New BasicHexGuy4 number of= 4
+[2017.11.12-21.41.59:387][642]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.12-21.42.00:900][696]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.12-21.42.01:507][718]LogBlueprintUserMessages: [CursorCharacter_C_0] New BasicHexGuy5 number of= 5
+[2017.11.12-21.42.02:619][759]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.12-21.42.03:401][787]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.12-21.42.04:295][819]LogBlueprintUserMessages: [CursorCharacter_C_0] New BasicHexGuy6 number of= 6
+[2017.11.12-21.42.12:386][113]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.12-21.42.13:322][147]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.12-21.42.13:981][170]LogBlueprintUserMessages: [CursorCharacter_C_0] New BasicHexGuy7 number of= 7
+[2017.11.12-21.42.24:195][544]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.12-21.42.25:412][588]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.12-21.42.26:098][613]LogBlueprintUserMessages: [CursorCharacter_C_0] New BasicHexGuy8 number of= 8
+[2017.11.12-21.42.28:087][686]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.42.28:135][686]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.12-21.42.30:679][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap" FILE="P:/ue/Grid1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.12-21.42.31:294][768]LogSavePackage: Save=364.56ms
+[2017.11.12-21.42.31:294][768]LogSavePackage: Moving 'P:/ue/Grid1/Saved/ThirdPersonExampleMapF68D9219463697F9D5A8B7B88FBEE939.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.12-21.42.31:312][768]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.12-21.42.31:366][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="P:/ue/Grid1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2017.11.12-21.42.32:025][768]LogSavePackage: Save=514.64ms
+[2017.11.12-21.42.32:025][768]LogSavePackage: Moving 'P:/ue/Grid1/Saved/ThirdPersonExampleMap_BuiltData244CFFAE465594A90886E7B0C70C2009.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.12-21.42.32:116][768]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
