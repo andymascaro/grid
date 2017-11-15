@@ -1,0 +1,1502 @@
+﻿Log file open, 11/14/17 21:22:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Grid1
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(132544095) SRandInit(132544095).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3709383, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.443573
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3709383
+LogInit: Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Oct 20 2017 10:39:19
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.15-02.22.23:845][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.15-02.22.23:845][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.15-02.22.23:860][  0]LogInit: Computer: AMASCARO2-PC
+[2017.11.15-02.22.23:860][  0]LogInit: User: amascaro
+[2017.11.15-02.22.23:860][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.11.15-02.22.23:860][  0]LogInit: High frequency timer resolution =2.597685 MHz
+[2017.11.15-02.22.23:861][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2017.11.15-02.22.23:861][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.15-02.22.23:861][  0]LogMemory: Process Physical Memory: 271.98 MB used, 271.98 MB peak
+[2017.11.15-02.22.23:861][  0]LogMemory: Process Virtual Memory: 267.99 MB used, 267.99 MB peak
+[2017.11.15-02.22.23:861][  0]LogMemory: Physical Memory: 2381.23 MB used,  1648.39 MB free, 4029.62 MB total
+[2017.11.15-02.22.23:861][  0]LogMemory: Virtual Memory: 612.07 MB used,  1648.39 MB free, 8388608.00 MB total
+[2017.11.15-02.22.24:207][  0]LogInit: Using OS detected language (en-US).
+[2017.11.15-02.22.24:207][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.15-02.22.24:218][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.15-02.22.24:958][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2017.11.15-02.22.24:958][  0]LogWindows: File 'shcore.dll' does not exist
+[2017.11.15-02.22.24:958][  0]LogInit: Setting process to DPI aware
+[2017.11.15-02.22.24:967][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2017.11.15-02.22.24:967][  0]LogWindows: File 'shcore.dll' does not exist
+[2017.11.15-02.22.24:967][  0]LogInit: Setting process to DPI aware
+[2017.11.15-02.22.25:501][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.15-02.22.25:544][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660' (Feature Level 11_0)
+[2017.11.15-02.22.25:544][  0]LogD3D11RHI:       1988/0/1758 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.15-02.22.25:544][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.15-02.22.25:559][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.15-02.22.25:560][  0]LogD3D11RHI:     GPU DeviceId: 0x11c0 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.15-02.22.25:560][  0]LogWindows: EnumDisplayDevices:
+[2017.11.15-02.22.25:562][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660' (P:1 D:1)
+[2017.11.15-02.22.25:562][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2017.11.15-02.22.25:562][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2017.11.15-02.22.25:563][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2017.11.15-02.22.25:563][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2017.11.15-02.22.25:563][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.11.15-02.22.25:563][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.11.15-02.22.25:563][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.11.15-02.22.25:563][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660
+[2017.11.15-02.22.25:564][  0]LogD3D11RHI:   Driver Version: 387.92 (internal:23.21.13.8792, unified:387.92)
+[2017.11.15-02.22.25:564][  0]LogD3D11RHI:      Driver Date: 10-6-2017
+[2017.11.15-02.22.25:564][  0]LogRHI: Texture pool is 1391 MB (70% of 1988 MB)
+[2017.11.15-02.22.25:584][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.15-02.22.25:606][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.11.15-02.22.25:618][  0]LogShaderCompilers: Guid format shader working directory is 37 characters bigger than the processId version (P:/ue/Grid1/Intermediate/Shaders/WorkingDirectory/26248/).
+[2017.11.15-02.22.25:618][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/amascaro/AppData/Local/Temp/UnrealShaderWorkingDir/4208020F4C9CBABAEAA802B81D506CA8/'.
+[2017.11.15-02.22.25:618][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.15-02.22.27:942][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.15-02.22.28:035][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.15-02.22.28:129][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.15-02.22.28:223][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.15-02.22.28:319][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.15-02.22.28:413][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.15-02.22.28:512][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.15-02.22.28:646][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.15-02.22.28:767][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.15-02.22.28:860][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.15-02.22.28:952][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.15-02.22.29:044][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.15-02.22.29:136][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.15-02.22.29:228][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.15-02.22.29:415][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.15-02.22.29:415][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.15-02.22.29:508][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.15-02.22.29:579][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.15-02.22.29:724][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.15-02.22.29:775][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.15-02.22.29:867][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.15-02.22.29:958][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.15-02.22.30:049][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.15-02.22.30:142][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.15-02.22.30:142][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.15-02.22.30:985][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.15-02.22.31:489][  0]LogDerivedDataCache: Loaded boot cache 0.50s 78MB C:/Users/amascaro/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.15-02.22.31:490][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/amascaro/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.15-02.22.31:490][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file P:/ue/Grid1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.15-02.22.31:490][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.15-02.22.31:490][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file P:/ue/Grid1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.15-02.22.31:490][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.15-02.22.31:531][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.15-02.22.31:542][  0]LogDerivedDataCache: Using Local data cache path C:/Users/amascaro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.15-02.22.31:565][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.15-02.22.31:566][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.15-02.22.31:569][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.15-02.22.31:569][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.15-02.22.32:532][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.15-02.22.33:161][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.15-02.22.33:235][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.15-02.22.33:236][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.15-02.22.33:236][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.15-02.22.33:236][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.15-02.22.33:236][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.15-02.22.33:283][  0]LogNetVersion: Grid1 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1394303240)
+[2017.11.15-02.22.33:666][  0]LogAssetRegistry: FAssetRegistry took 0.0302 seconds to start up
+[2017.11.15-02.22.34:849][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.080851 seconds
+[2017.11.15-02.22.34:860][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.11.15-02.22.34:860][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.11.15-02.22.34:860][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.15-02.22.34:954][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.15-02.22.40:928][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.15-02.22.40:990][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.15-02.22.42:213][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.15-02.22.42:964][  0]SourceControl: Source control is disabled
+[2017.11.15-02.22.42:964][  0]SourceControl: Source control is disabled
+[2017.11.15-02.22.43:093][  0]SourceControl: Source control is disabled
+[2017.11.15-02.22.43:219][  0]SourceControl: Source control is disabled
+[2017.11.15-02.22.44:688][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.15-02.22.45:171][  0]LogOcInput: OculusInput pre-init called
+[2017.11.15-02.22.45:723][  0]LogEngine: Initializing Engine...
+[2017.11.15-02.22.45:729][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.15-02.22.46:472][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.15-02.22.46:473][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.15-02.22.47:117][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.15-02.22.47:179][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.15-02.22.47:206][  0]LogInit: FAudioDevice initialized.
+[2017.11.15-02.22.47:432][  0]LogDerivedDataCache: Saved boot cache 0.23s 78MB C:/Users/amascaro/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.15-02.22.47:530][  0]LogInit: Texture streaming: Enabled
+[2017.11.15-02.22.47:771][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.15-02.22.48:039][  0]LogInit: Transaction tracking system initialized
+[2017.11.15-02.22.48:868][  0]BlueprintLog: New page: Editor Load
+[2017.11.15-02.22.51:153][  0]LocalizationService: Localization service is disabled
+[2017.11.15-02.22.52:696][  0]LogConsoleResponse: Display: 
+[2017.11.15-02.22.53:048][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.15-02.22.53:049][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.15-02.22.53:049][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.15-02.22.53:433][  0]LogFileCache: Scanning file cache for directory 'P:/ue/Grid1/Content/' took 0.02s
+[2017.11.15-02.22.55:382][  0]SourceControl: Source control is disabled
+[2017.11.15-02.22.55:385][  0]Cmd: MAP LOAD FILE="P:/ue/Grid1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.15-02.22.55:451][  0]LightingResults: New page: Lighting Build
+[2017.11.15-02.22.55:530][  0]MapCheck: New page: Map Check
+[2017.11.15-02.22.55:530][  0]LightingResults: New page: Lighting Build
+[2017.11.15-02.22.59:828][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.15-02.22.59:846][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.15-02.22.59:879][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.15-02.22.59:970][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 90.41ms to complete.
+[2017.11.15-02.22.59:970][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.594
+[2017.11.15-02.23.00:085][  0]LogCollectionManager: Loaded 0 collections in 0.002620 seconds
+[2017.11.15-02.23.00:211][  0]LogFileCache: Scanning file cache for directory 'P:/ue/Grid1/Saved/Collections/' took 0.01s
+[2017.11.15-02.23.00:211][  0]LogFileCache: Scanning file cache for directory 'P:/ue/Grid1/Content/Developers/amascaro/Collections/' took 0.01s
+[2017.11.15-02.23.00:211][  0]LogFileCache: Scanning file cache for directory 'P:/ue/Grid1/Content/Collections/' took 0.01s
+[2017.11.15-02.23.00:211][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.15-02.23.00:230][  0]LogContentBrowser: Native class hierarchy populated in 0.0168 seconds. Added 2363 classes and 519 folders.
+[2017.11.15-02.23.00:348][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.11.15-02.23.00:492][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.11.15-02.23.00:676][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.11.15-02.23.00:828][  0]LogSlate: Took 0.001229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.15-02.23.00:832][  0]LogSlate: Took 0.001266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.15-02.23.00:833][  0]LogSlate: Took 0.001233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.15-02.23.00:862][  0]LogSlate: Took 0.001388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.15-02.23.01:092][  0]LogRenderer: Reallocating scene render targets to support 848x912 Format 10 NumSamples 1 (Frame:1).
+[2017.11.15-02.23.01:498][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.11.15-02.23.01:498][  0]LogLoad: (Engine Initialization) Total time: 42.59 seconds
+[2017.11.15-02.23.01:498][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.15-02.23.01:498][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.15-02.23.01:863][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.15-02.23.02:533][  2]LogAssetRegistry: Asset discovery search completed in 28.9004 seconds
+[2017.11.15-02.23.02:537][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.15-02.23.02:537][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000095 seconds (updated 0 objects)
+[2017.11.15-02.25.13:499][101]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.15-02.25.13:775][101]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.15-02.25.13:953][101]LogAIModule: Creating AISystem for world 60HexDark
+[2017.11.15-02.25.25:473][169]LogAIModule: Creating AISystem for world ScaleTest
+[2017.11.15-02.25.30:062][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ScaleTest" FILE="P:/ue/Grid1/Content/ThirdPersonBP/Maps/ScaleTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.15-02.25.30:362][337]LogSavePackage: Save=265.55ms
+[2017.11.15-02.25.30:362][337]LogSavePackage: Moving 'P:/ue/Grid1/Saved/ScaleTest2F2F604F46BC9DB9D738ED895AE9E1B0.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/Maps/ScaleTest.umap'
+[2017.11.15-02.25.30:365][337]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/Maps/ScaleTest.umap
+[2017.11.15-02.25.30:372][337]LogFileHelpers: Saving map 'ScaleTest' took 0.406
+[2017.11.15-02.25.30:373][337]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.15-02.25.30:390][337]Cmd: MAP LOAD FILE="P:/ue/Grid1/Content/ThirdPersonBP/Maps/ScaleTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.15-02.25.30:390][337]LightingResults: New page: Lighting Build
+[2017.11.15-02.25.30:392][337]LoadErrors: New page: Loading map: ScaleTest.umap
+[2017.11.15-02.25.30:394][337]MapCheck: New page: Map Check
+[2017.11.15-02.25.30:394][337]LightingResults: New page: Lighting Build
+[2017.11.15-02.25.30:621][337]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.15-02.25.30:712][337]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.15-02.25.30:804][337]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 92.233ms to complete.
+[2017.11.15-02.25.30:805][337]LogFileHelpers: Loading map 'ScaleTest' took 0.419
+[2017.11.15-02.25.35:434][655]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.15-02.25.35:618][655]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ScaleTest.ScaleTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ScaleTest.ScaleTest:PersistentLevel.ScaleTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/ScaleTest.ScaleTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ScaleTest.ScaleTest:PersistentLevel.ScaleTest'
+[2017.11.15-02.25.35:619][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.15-02.25.35:622][655]PIE: New page: PIE session: ScaleTest (Nov 14, 2017, 4:25:35 PM)
+[2017.11.15-02.25.35:622][655]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ScaleTest
+[2017.11.15-02.25.35:684][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062006s)
+[2017.11.15-02.25.35:686][655]LogAIModule: Creating AISystem for world ScaleTest
+[2017.11.15-02.25.35:687][655]LogPlayLevel: PIE: World Init took: (0.003070s)
+[2017.11.15-02.25.35:693][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ScaleTest.ScaleTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_ScaleTest.ScaleTest (0.071173s)
+[2017.11.15-02.25.35:735][655]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.15-02.25.35:744][655]LogInit: FAudioDevice initialized.
+[2017.11.15-02.25.35:795][655]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.15-02.25.35:809][655]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ScaleTest.ScaleTest up for play (max tick rate 0) at 2017.11.14-21.25.35
+[2017.11.15-02.25.35:811][655]LogWorld: Bringing up level for play took: 0.006379
+[2017.11.15-02.25.35:903][655]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2017.11.15-02.25.35:928][655]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.15-02.25.35:930][655]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.15-02.25.35:930][655]LogBlueprintUserMessages: [ScaleTest_C_1] Start
+[2017.11.15-02.25.35:931][655]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ScaleTest 0.033
+[2017.11.15-02.25.35:932][655]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ScaleTest.ScaleTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ScaleTest.ScaleTest:PersistentLevel.ScaleTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/ScaleTest.ScaleTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ScaleTest.ScaleTest:PersistentLevel.ScaleTest'
+[2017.11.15-02.25.36:096][656]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.061108 > MaxSimulationTimeStep (0.050) for 'CursorCharacter_C_0', movement 'Walking'
+[2017.11.15-02.25.37:361][711]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.15-02.25.37:659][724]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.15-02.25.37:985][737]LogBlueprintUserMessages: [HexPlayerCam_C_0] Cam Added
+[2017.11.15-02.25.37:985][737]LogBlueprintUserMessages: [CursorCharacter_C_0] New HexAICharacter number of= 0
+[2017.11.15-02.25.39:405][794]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.15-02.25.39:529][799]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.15-02.25.39:850][812]LogBlueprintUserMessages: [CursorCharacter_C_0] New HexAICharacter1 number of= 0
+[2017.11.15-02.25.43:830][991]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ScaleTest.ScaleTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ScaleTest.ScaleTest:PersistentLevel.ScaleTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/ScaleTest.ScaleTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ScaleTest.ScaleTest:PersistentLevel.ScaleTest'
+[2017.11.15-02.25.43:877][991]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ScaleTest.ScaleTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ScaleTest.ScaleTest:PersistentLevel.ScaleTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/ScaleTest.ScaleTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ScaleTest.ScaleTest:PersistentLevel.ScaleTest'
+[2017.11.15-02.25.50:843][653]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.11.15-02.27.31:120][784]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\amascaro\Downloads\RoadV2\Road.fbx\roadV2.fbx)
+[2017.11.15-02.27.31:203][784]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.15-02.27.31:203][784]LogFbx: ItemName: Model, ItemCount : 2
+[2017.11.15-02.27.31:203][784]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.15-02.27.31:203][784]LogFbx: ItemName: Material, ItemCount : 1
+[2017.11.15-02.27.31:223][784]LogFbx: Loading FBX Scene from C:\Users\amascaro\Downloads\RoadV2\Road.fbx\roadV2.fbx
+[2017.11.15-02.27.31:247][784]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.15-02.27.44:372][784]LogSlate: Took 0.001334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.15-02.27.52:003][784]LogFbx: Loading FBX Scene from C:\Users\amascaro\Downloads\RoadV2\Road.fbx\roadV2.fbx
+[2017.11.15-02.27.52:018][784]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.15-02.27.52:020][784]LogFbx: Warning: Triangulating static mesh Mesh1
+[2017.11.15-02.27.52:028][784]LogStaticMesh: Building static mesh roadV2...
+[2017.11.15-02.27.52:041][784]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/roadV2.roadV2
+[2017.11.15-02.27.52:061][784]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.15-02.27.52:061][784]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.28.14:776][921]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\amascaro\Downloads\Gost House\3D models\Gost House (3).FBX)
+[2017.11.15-02.28.14:793][921]LogFbx: ItemName: Model, ItemCount : 10
+[2017.11.15-02.28.14:793][921]LogFbx: ItemName: Geometry, ItemCount : 2
+[2017.11.15-02.28.14:794][921]LogFbx: ItemName: Material, ItemCount : 2
+[2017.11.15-02.28.14:794][921]LogFbx: ItemName: Texture, ItemCount : 2
+[2017.11.15-02.28.14:794][921]LogFbx: ItemName: Video, ItemCount : 2
+[2017.11.15-02.28.14:794][921]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.15-02.28.14:804][921]LogFbx: Loading FBX Scene from C:\Users\amascaro\Downloads\Gost House\3D models\Gost House (3).FBX
+[2017.11.15-02.28.14:868][921]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.15-02.28.17:670][921]LogFbx: Loading FBX Scene from C:\Users\amascaro\Downloads\Gost House\3D models\Gost House (3).FBX
+[2017.11.15-02.28.17:734][921]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.15-02.28.17:780][921]LogStaticMesh: Building static mesh Gost_House__3__Gost_House__www_3dislands_blogspot_com_...
+[2017.11.15-02.28.18:144][921]LogStaticMesh: Built static mesh [0.36s] /Game/RefScales/Gost_House__3__Gost_House__www_3dislands_blogspot_com_.Gost_House__3__Gost_House__www_3dislands_blogspot_com_
+[2017.11.15-02.28.18:177][921]LogStaticMesh: Warning: Gost_House__3__Gost_House__www_3dislands_blogspot_com_ has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.28.18:178][921]LogStaticMesh: Warning: Gost_House__3__Gost_House__www_3dislands_blogspot_com_ has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.28.18:219][921]LogStaticMesh: Building static mesh Gost_House__3__plants...
+[2017.11.15-02.28.18:246][921]LogStaticMesh: Built static mesh [0.03s] /Game/RefScales/Gost_House__3__plants.Gost_House__3__plants
+[2017.11.15-02.28.18:268][921]FBXImport: Warning: Gost_House__3__Gost_House__www_3dislands_blogspot_com_ has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.28.18:268][921]FBXImport: Warning: Gost_House__3__Gost_House__www_3dislands_blogspot_com_ has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.28.47:322][917]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\amascaro\Downloads\UH60\1.FBX)
+[2017.11.15-02.28.47:342][917]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.15-02.28.47:342][917]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.15-02.28.47:342][917]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.15-02.28.47:342][917]LogFbx: ItemName: Model, ItemCount : 16
+[2017.11.15-02.28.47:342][917]LogFbx: ItemName: Geometry, ItemCount : 16
+[2017.11.15-02.28.47:343][917]LogFbx: ItemName: Material, ItemCount : 10
+[2017.11.15-02.28.47:343][917]LogFbx: ItemName: Texture, ItemCount : 5
+[2017.11.15-02.28.47:343][917]LogFbx: ItemName: Video, ItemCount : 5
+[2017.11.15-02.28.47:352][917]LogFbx: Loading FBX Scene from C:\Users\amascaro\Downloads\UH60\1.FBX
+[2017.11.15-02.28.47:429][917]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.15-02.28.49:607][917]LogFbx: Loading FBX Scene from C:\Users\amascaro\Downloads\UH60\1.FBX
+[2017.11.15-02.28.49:697][917]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.15-02.28.49:700][917]LogStaticMesh: Building static mesh 1_window_R1...
+[2017.11.15-02.28.49:706][917]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/1_window_R1.1_window_R1
+[2017.11.15-02.28.49:724][917]LogStaticMesh: Building static mesh 1_Window_R2...
+[2017.11.15-02.28.49:728][917]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/1_Window_R2.1_Window_R2
+[2017.11.15-02.28.49:740][917]LogStaticMesh: Building static mesh 1_Window_L1...
+[2017.11.15-02.28.49:744][917]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/1_Window_L1.1_Window_L1
+[2017.11.15-02.28.49:755][917]LogStaticMesh: Building static mesh 1_Window_L2...
+[2017.11.15-02.28.49:759][917]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/1_Window_L2.1_Window_L2
+[2017.11.15-02.28.49:772][917]LogStaticMesh: Building static mesh 1_Tyre_L...
+[2017.11.15-02.28.49:822][917]LogStaticMesh: Built static mesh [0.05s] /Game/RefScales/1_Tyre_L.1_Tyre_L
+[2017.11.15-02.28.49:842][917]LogStaticMesh: Building static mesh 1_rear_Tyre...
+[2017.11.15-02.28.49:852][917]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/1_rear_Tyre.1_rear_Tyre
+[2017.11.15-02.28.49:867][917]LogStaticMesh: Building static mesh 1_tyre_R...
+[2017.11.15-02.28.49:917][917]LogStaticMesh: Built static mesh [0.05s] /Game/RefScales/1_tyre_R.1_tyre_R
+[2017.11.15-02.28.49:934][917]LogStaticMesh: Building static mesh 1_rear_rotor...
+[2017.11.15-02.28.49:958][917]LogStaticMesh: Built static mesh [0.03s] /Game/RefScales/1_rear_rotor.1_rear_rotor
+[2017.11.15-02.28.49:976][917]LogStaticMesh: Building static mesh 1_main_rotor...
+[2017.11.15-02.28.50:110][917]LogStaticMesh: Built static mesh [0.13s] /Game/RefScales/1_main_rotor.1_main_rotor
+[2017.11.15-02.28.50:119][917]LogStaticMesh: Warning: 1_main_rotor has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.28.50:119][917]LogStaticMesh: Warning: 1_main_rotor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.28.50:135][917]LogStaticMesh: Building static mesh 1_elevator...
+[2017.11.15-02.28.50:137][917]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/1_elevator.1_elevator
+[2017.11.15-02.28.50:138][917]LogStaticMesh: Warning: 1_elevator has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.28.50:138][917]LogStaticMesh: Warning: 1_elevator has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.28.50:149][917]LogStaticMesh: Building static mesh 1_Door_L...
+[2017.11.15-02.28.50:192][917]LogStaticMesh: Built static mesh [0.04s] /Game/RefScales/1_Door_L.1_Door_L
+[2017.11.15-02.28.50:207][917]LogStaticMesh: Building static mesh 1_Door_R...
+[2017.11.15-02.28.50:251][917]LogStaticMesh: Built static mesh [0.04s] /Game/RefScales/1_Door_R.1_Door_R
+[2017.11.15-02.28.50:267][917]LogStaticMesh: Building static mesh 1_cabinDoor_R...
+[2017.11.15-02.28.50:304][917]LogStaticMesh: Built static mesh [0.04s] /Game/RefScales/1_cabinDoor_R.1_cabinDoor_R
+[2017.11.15-02.28.50:344][917]LogStaticMesh: Building static mesh 1_cabinDoor_L...
+[2017.11.15-02.28.50:386][917]LogStaticMesh: Built static mesh [0.04s] /Game/RefScales/1_cabinDoor_L.1_cabinDoor_L
+[2017.11.15-02.28.50:431][917]LogStaticMesh: Building static mesh 1_pilot...
+[2017.11.15-02.28.54:996][917]LogStaticMesh: Built static mesh [4.57s] /Game/RefScales/1_pilot.1_pilot
+[2017.11.15-02.28.55:228][917]LogStaticMesh: Building static mesh 1_fuselage...
+[2017.11.15-02.28.58:421][917]LogStaticMesh: Built static mesh [3.19s] /Game/RefScales/1_fuselage.1_fuselage
+[2017.11.15-02.28.58:580][917]LogStaticMesh: Warning: 1_fuselage has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.28.58:580][917]LogStaticMesh: Warning: 1_fuselage has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.28.58:744][917]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.15-02.28.58:744][917]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.28.58:744][917]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.28.58:744][917]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.28.58:744][917]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.28.58:744][917]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.28.58:744][917]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.28.58:744][917]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.28.58:744][917]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.28.58:744][917]FBXImport: Warning: 1_main_rotor has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.28.58:744][917]FBXImport: Warning: 1_main_rotor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.28.58:744][917]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.28.58:744][917]FBXImport: Warning: 1_elevator has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.28.58:744][917]FBXImport: Warning: 1_elevator has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.28.58:744][917]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.28.58:744][917]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.28.58:744][917]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.28.58:744][917]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.28.58:744][917]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.28.58:745][917]FBXImport: Warning: 1_fuselage has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.28.58:745][917]FBXImport: Warning: 1_fuselage has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.29.30:900][765]LogAssetTools: Warning: Failed to import 'C:\Users\amascaro\Downloads\UH60\uh60.3ds'. Unknown extension '3ds'.
+[2017.11.15-02.29.39:069][ 23]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\amascaro\Downloads\UH60\uh60.obj)
+[2017.11.15-02.29.39:117][ 23]LogFbx: Loading FBX Scene from C:\Users\amascaro\Downloads\UH60\uh60.obj
+[2017.11.15-02.29.40:300][ 23]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.15-02.29.40:310][ 23]FBXImport: Warning: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'Material__29' was rename 'Material__29_ncl1_1' 
+[2017.11.15-02.29.40:310][ 23]FBXImport: Warning: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'Material__29' was rename 'Material__29_ncl1_2' 
+[2017.11.15-02.29.44:879][ 23]LogFbx: Loading FBX Scene from C:\Users\amascaro\Downloads\UH60\uh60.obj
+[2017.11.15-02.29.46:027][ 23]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.15-02.29.46:033][ 23]LogStaticMesh: Building static mesh uh60_cabinDoor_L...
+[2017.11.15-02.29.46:075][ 23]LogStaticMesh: Built static mesh [0.04s] /Game/RefScales/uh60_cabinDoor_L.uh60_cabinDoor_L
+[2017.11.15-02.29.46:093][ 23]LogStaticMesh: Building static mesh uh60_cabinDoor_R...
+[2017.11.15-02.29.46:129][ 23]LogStaticMesh: Built static mesh [0.04s] /Game/RefScales/uh60_cabinDoor_R.uh60_cabinDoor_R
+[2017.11.15-02.29.46:145][ 23]LogStaticMesh: Building static mesh uh60_Door_L...
+[2017.11.15-02.29.46:188][ 23]LogStaticMesh: Built static mesh [0.04s] /Game/RefScales/uh60_Door_L.uh60_Door_L
+[2017.11.15-02.29.46:203][ 23]LogStaticMesh: Building static mesh uh60_Door_R...
+[2017.11.15-02.29.46:247][ 23]LogStaticMesh: Built static mesh [0.04s] /Game/RefScales/uh60_Door_R.uh60_Door_R
+[2017.11.15-02.29.46:264][ 23]LogStaticMesh: Building static mesh uh60_elevator...
+[2017.11.15-02.29.46:266][ 23]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/uh60_elevator.uh60_elevator
+[2017.11.15-02.29.46:266][ 23]LogStaticMesh: Warning: uh60_elevator has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.29.46:266][ 23]LogStaticMesh: Warning: uh60_elevator has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.29.46:367][ 23]LogStaticMesh: Building static mesh uh60_fuselage...
+[2017.11.15-02.29.49:454][ 23]LogStaticMesh: Built static mesh [3.09s] /Game/RefScales/uh60_fuselage.uh60_fuselage
+[2017.11.15-02.29.49:611][ 23]LogStaticMesh: Warning: uh60_fuselage has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.29.49:616][ 23]LogStaticMesh: Warning: uh60_fuselage has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.29.49:813][ 23]LogStaticMesh: Building static mesh uh60_main_rotor...
+[2017.11.15-02.29.49:975][ 23]LogStaticMesh: Built static mesh [0.16s] /Game/RefScales/uh60_main_rotor.uh60_main_rotor
+[2017.11.15-02.29.49:983][ 23]LogStaticMesh: Warning: uh60_main_rotor has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.29.49:983][ 23]LogStaticMesh: Warning: uh60_main_rotor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.29.50:046][ 23]LogStaticMesh: Building static mesh uh60_pilot...
+[2017.11.15-02.29.54:486][ 23]LogStaticMesh: Built static mesh [4.44s] /Game/RefScales/uh60_pilot.uh60_pilot
+[2017.11.15-02.29.54:592][ 23]LogStaticMesh: Building static mesh uh60_rear_rotor...
+[2017.11.15-02.29.54:617][ 23]LogStaticMesh: Built static mesh [0.03s] /Game/RefScales/uh60_rear_rotor.uh60_rear_rotor
+[2017.11.15-02.29.54:636][ 23]LogStaticMesh: Building static mesh uh60_rear_Tyre...
+[2017.11.15-02.29.54:649][ 23]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/uh60_rear_Tyre.uh60_rear_Tyre
+[2017.11.15-02.29.54:671][ 23]LogStaticMesh: Building static mesh uh60_Tyre_L...
+[2017.11.15-02.29.54:723][ 23]LogStaticMesh: Built static mesh [0.05s] /Game/RefScales/uh60_Tyre_L.uh60_Tyre_L
+[2017.11.15-02.29.54:762][ 23]LogStaticMesh: Building static mesh uh60_tyre_R...
+[2017.11.15-02.29.54:815][ 23]LogStaticMesh: Built static mesh [0.05s] /Game/RefScales/uh60_tyre_R.uh60_tyre_R
+[2017.11.15-02.29.54:831][ 23]LogStaticMesh: Building static mesh uh60_Window_L1...
+[2017.11.15-02.29.54:835][ 23]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/uh60_Window_L1.uh60_Window_L1
+[2017.11.15-02.29.54:845][ 23]LogStaticMesh: Building static mesh uh60_Window_L2...
+[2017.11.15-02.29.54:848][ 23]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/uh60_Window_L2.uh60_Window_L2
+[2017.11.15-02.29.54:857][ 23]LogStaticMesh: Building static mesh uh60_window_R1...
+[2017.11.15-02.29.54:861][ 23]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/uh60_window_R1.uh60_window_R1
+[2017.11.15-02.29.54:871][ 23]LogStaticMesh: Building static mesh uh60_Window_R2...
+[2017.11.15-02.29.54:875][ 23]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/uh60_Window_R2.uh60_Window_R2
+[2017.11.15-02.29.54:893][ 23]FBXImport: Warning: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'Material__29' was rename 'Material__29_ncl1_1' 
+[2017.11.15-02.29.54:893][ 23]FBXImport: Warning: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'Material__29' was rename 'Material__29_ncl1_2' 
+[2017.11.15-02.29.54:893][ 23]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.15-02.29.54:893][ 23]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.29.54:893][ 23]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.29.54:893][ 23]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.29.54:893][ 23]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.29.54:893][ 23]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.29.54:893][ 23]FBXImport: Warning: uh60_elevator has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.29.54:893][ 23]FBXImport: Warning: uh60_elevator has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.29.54:893][ 23]FBXImport: Warning: uh60_fuselage has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.29.54:893][ 23]FBXImport: Warning: uh60_fuselage has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.29.54:893][ 23]FBXImport: Warning: uh60_main_rotor has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.29.54:893][ 23]FBXImport: Warning: uh60_main_rotor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.29.54:893][ 23]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.29.54:893][ 23]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.29.54:894][ 23]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.29.54:894][ 23]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.29.54:894][ 23]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.29.54:894][ 23]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.29.54:894][ 23]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.29.54:894][ 23]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.29.54:894][ 23]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.30.15:367][531]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\amascaro\Downloads\Leopard_2A6\Leopard_2A6.fbx)
+[2017.11.15-02.30.15:482][531]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.15-02.30.15:482][531]LogFbx: ItemName: NodeAttribute, ItemCount : 4
+[2017.11.15-02.30.15:482][531]LogFbx: ItemName: Geometry, ItemCount : 17
+[2017.11.15-02.30.15:482][531]LogFbx: ItemName: Model, ItemCount : 21
+[2017.11.15-02.30.15:482][531]LogFbx: ItemName: Material, ItemCount : 25
+[2017.11.15-02.30.15:482][531]LogFbx: ItemName: Texture, ItemCount : 30
+[2017.11.15-02.30.15:482][531]LogFbx: ItemName: Video, ItemCount : 15
+[2017.11.15-02.30.15:492][531]LogFbx: Loading FBX Scene from C:\Users\amascaro\Downloads\Leopard_2A6\Leopard_2A6.fbx
+[2017.11.15-02.30.15:982][531]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.15-02.30.19:573][531]LogFbx: Loading FBX Scene from C:\Users\amascaro\Downloads\Leopard_2A6\Leopard_2A6.fbx
+[2017.11.15-02.30.20:072][531]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.15-02.30.20:076][531]LogStaticMesh: Building static mesh Leopard_2A6_Tank_Base_001...
+[2017.11.15-02.30.20:077][531]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/Leopard_2A6_Tank_Base_001.Leopard_2A6_Tank_Base_001
+[2017.11.15-02.30.20:090][531]LogFbx: Warning: Triangulating static mesh Up3
+[2017.11.15-02.30.20:583][531]LogStaticMesh: Building static mesh Leopard_2A6_Up3...
+[2017.11.15-02.30.31:368][531]LogStaticMesh: Built static mesh [10.78s] /Game/RefScales/Leopard_2A6_Up3.Leopard_2A6_Up3
+[2017.11.15-02.30.31:692][531]LogFbx: Warning: Triangulating static mesh Tank_Base
+[2017.11.15-02.30.33:046][531]LogStaticMesh: Building static mesh Leopard_2A6_Tank_Base...
+[2017.11.15-02.30.45:244][531]LogStaticMesh: Built static mesh [12.20s] /Game/RefScales/Leopard_2A6_Tank_Base.Leopard_2A6_Tank_Base
+[2017.11.15-02.30.46:397][531]LogFbx: Warning: Triangulating static mesh Circle.003_Circle.020
+[2017.11.15-02.30.47:997][531]LogStaticMesh: Building static mesh Leopard_2A6_Circle_003_Circle_020...
+[2017.11.15-02.31.11:561][531]LogStaticMesh: Built static mesh [23.57s] /Game/RefScales/Leopard_2A6_Circle_003_Circle_020.Leopard_2A6_Circle_003_Circle_020
+[2017.11.15-02.31.12:906][531]LogFbx: Warning: Triangulating static mesh Circle.009_Circle.013
+[2017.11.15-02.31.14:008][531]LogStaticMesh: Building static mesh Leopard_2A6_Circle_009_Circle_013...
+[2017.11.15-02.31.20:076][531]LogStaticMesh: Built static mesh [6.07s] /Game/RefScales/Leopard_2A6_Circle_009_Circle_013.Leopard_2A6_Circle_009_Circle_013
+[2017.11.15-02.31.20:584][531]LogFbx: Warning: Triangulating static mesh Circle.002
+[2017.11.15-02.31.20:673][531]LogStaticMesh: Building static mesh Leopard_2A6_Circle_002...
+[2017.11.15-02.31.21:009][531]LogStaticMesh: Built static mesh [0.34s] /Game/RefScales/Leopard_2A6_Circle_002.Leopard_2A6_Circle_002
+[2017.11.15-02.31.21:061][531]LogFbx: Warning: Triangulating static mesh Cube.000_Cube.000
+[2017.11.15-02.31.22:637][531]LogStaticMesh: Building static mesh Leopard_2A6_Cube_000_Cube_000...
+[2017.11.15-02.31.27:681][531]LogStaticMesh: Built static mesh [5.04s] /Game/RefScales/Leopard_2A6_Cube_000_Cube_000.Leopard_2A6_Cube_000_Cube_000
+[2017.11.15-02.31.28:210][531]LogStaticMesh: Warning: Leopard_2A6_Cube_000_Cube_000 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.31.28:210][531]LogStaticMesh: Warning: Leopard_2A6_Cube_000_Cube_000 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.31.28:721][531]LogFbx: Warning: Triangulating static mesh Box0ewfef
+[2017.11.15-02.31.28:974][531]LogStaticMesh: Building static mesh Leopard_2A6_Box0ewfef...
+[2017.11.15-02.31.30:267][531]LogStaticMesh: Built static mesh [1.29s] /Game/RefScales/Leopard_2A6_Box0ewfef.Leopard_2A6_Box0ewfef
+[2017.11.15-02.31.30:402][531]LogFbx: Warning: Triangulating static mesh Box72
+[2017.11.15-02.31.30:404][531]LogStaticMesh: Building static mesh Leopard_2A6_Box72...
+[2017.11.15-02.31.30:407][531]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/Leopard_2A6_Box72.Leopard_2A6_Box72
+[2017.11.15-02.31.30:417][531]LogFbx: Warning: Triangulating static mesh Cylinder80
+[2017.11.15-02.31.30:420][531]LogStaticMesh: Building static mesh Leopard_2A6_Cylinder80...
+[2017.11.15-02.31.30:423][531]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/Leopard_2A6_Cylinder80.Leopard_2A6_Cylinder80
+[2017.11.15-02.31.30:426][531]LogFbx: Warning: Triangulating static mesh Cylinder303
+[2017.11.15-02.31.30:430][531]LogStaticMesh: Building static mesh Leopard_2A6_Cylinder303...
+[2017.11.15-02.31.30:433][531]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/Leopard_2A6_Cylinder303.Leopard_2A6_Cylinder303
+[2017.11.15-02.31.30:441][531]LogFbx: Warning: Triangulating static mesh Cylinder304
+[2017.11.15-02.31.30:443][531]LogStaticMesh: Building static mesh Leopard_2A6_Cylinder304...
+[2017.11.15-02.31.30:446][531]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/Leopard_2A6_Cylinder304.Leopard_2A6_Cylinder304
+[2017.11.15-02.31.30:458][531]LogFbx: Warning: Triangulating static mesh Cylinder305
+[2017.11.15-02.31.30:461][531]LogStaticMesh: Building static mesh Leopard_2A6_Cylinder305...
+[2017.11.15-02.31.30:464][531]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/Leopard_2A6_Cylinder305.Leopard_2A6_Cylinder305
+[2017.11.15-02.31.30:477][531]LogFbx: Warning: Triangulating static mesh Up1
+[2017.11.15-02.31.30:890][531]LogStaticMesh: Building static mesh Leopard_2A6_Up1...
+[2017.11.15-02.31.33:310][531]LogStaticMesh: Built static mesh [2.42s] /Game/RefScales/Leopard_2A6_Up1.Leopard_2A6_Up1
+[2017.11.15-02.31.33:557][531]LogFbx: Warning: Triangulating static mesh Up2
+[2017.11.15-02.31.34:474][531]LogStaticMesh: Building static mesh Leopard_2A6_Up2...
+[2017.11.15-02.31.45:826][531]LogStaticMesh: Built static mesh [11.35s] /Game/RefScales/Leopard_2A6_Up2.Leopard_2A6_Up2
+[2017.11.15-02.31.46:135][531]LogStaticMesh: Warning: Leopard_2A6_Up2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.31.46:135][531]LogStaticMesh: Warning: Leopard_2A6_Up2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.31.46:452][531]LogFbx: Warning: Triangulating static mesh Tube02.001
+[2017.11.15-02.31.46:608][531]LogStaticMesh: Building static mesh Leopard_2A6_Tube02_001...
+[2017.11.15-02.31.47:255][531]LogStaticMesh: Built static mesh [0.65s] /Game/RefScales/Leopard_2A6_Tube02_001.Leopard_2A6_Tube02_001
+[2017.11.15-02.31.47:382][531]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.15-02.31.47:382][531]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.31.47:382][531]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.31.47:382][531]FBXImport: Error: No triangles were found on mesh  'Mesh.006' 
+[2017.11.15-02.31.47:382][531]FBXImport: Warning: Leopard_2A6_Cube_000_Cube_000 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.31.47:382][531]FBXImport: Warning: Leopard_2A6_Cube_000_Cube_000 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.31.47:382][531]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.31.47:382][531]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.31.47:383][531]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.31.47:383][531]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.31.47:383][531]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.31.47:383][531]FBXImport: Warning: Leopard_2A6_Up2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.31.47:383][531]FBXImport: Warning: Leopard_2A6_Up2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.31.47:383][531]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.31.53:584][ 49]LogActorFactory: Actor Factory created Leopard_2A6_Tank_Base
+[2017.11.15-02.32.24:736][872]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\amascaro\Downloads\t_34_fbx.FBX)
+[2017.11.15-02.32.24:758][872]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.15-02.32.24:758][872]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.15-02.32.24:758][872]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.15-02.32.24:758][872]LogFbx: ItemName: Model, ItemCount : 109
+[2017.11.15-02.32.24:758][872]LogFbx: ItemName: NodeAttribute, ItemCount : 13
+[2017.11.15-02.32.24:758][872]LogFbx: ItemName: Geometry, ItemCount : 96
+[2017.11.15-02.32.24:758][872]LogFbx: ItemName: Material, ItemCount : 1
+[2017.11.15-02.32.24:758][872]LogFbx: ItemName: Texture, ItemCount : 1
+[2017.11.15-02.32.24:768][872]LogFbx: Loading FBX Scene from C:\Users\amascaro\Downloads\t_34_fbx.FBX
+[2017.11.15-02.32.24:849][872]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.15-02.32.27:539][872]LogFbx: Loading FBX Scene from C:\Users\amascaro\Downloads\t_34_fbx.FBX
+[2017.11.15-02.32.27:620][872]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.15-02.32.27:630][872]LogFbx: Warning: Triangulating static mesh Box027
+[2017.11.15-02.32.27:632][872]LogStaticMesh: Building static mesh t_34_fbx_Box027...
+[2017.11.15-02.32.27:635][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box027.t_34_fbx_Box027
+[2017.11.15-02.32.27:647][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder051...
+[2017.11.15-02.32.27:650][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder051.t_34_fbx_Cylinder051
+[2017.11.15-02.32.27:659][872]LogFbx: Warning: Triangulating static mesh Sphere002
+[2017.11.15-02.32.27:661][872]LogStaticMesh: Building static mesh t_34_fbx_Sphere002...
+[2017.11.15-02.32.27:663][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Sphere002.t_34_fbx_Sphere002
+[2017.11.15-02.32.27:672][872]LogFbx: Warning: Triangulating static mesh Sphere003
+[2017.11.15-02.32.27:674][872]LogStaticMesh: Building static mesh t_34_fbx_Sphere003...
+[2017.11.15-02.32.27:677][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Sphere003.t_34_fbx_Sphere003
+[2017.11.15-02.32.27:686][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder044...
+[2017.11.15-02.32.27:690][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder044.t_34_fbx_Cylinder044
+[2017.11.15-02.32.27:707][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder045...
+[2017.11.15-02.32.27:710][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder045.t_34_fbx_Cylinder045
+[2017.11.15-02.32.27:719][872]LogFbx: Warning: Triangulating static mesh Box024
+[2017.11.15-02.32.27:723][872]LogStaticMesh: Building static mesh t_34_fbx_Box024...
+[2017.11.15-02.32.27:727][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box024.t_34_fbx_Box024
+[2017.11.15-02.32.27:736][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder046...
+[2017.11.15-02.32.27:740][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder046.t_34_fbx_Cylinder046
+[2017.11.15-02.32.27:750][872]LogFbx: Warning: Triangulating static mesh Box025
+[2017.11.15-02.32.27:751][872]LogStaticMesh: Building static mesh t_34_fbx_Box025...
+[2017.11.15-02.32.27:755][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box025.t_34_fbx_Box025
+[2017.11.15-02.32.27:763][872]LogFbx: Warning: Triangulating static mesh Box026
+[2017.11.15-02.32.27:765][872]LogStaticMesh: Building static mesh t_34_fbx_Box026...
+[2017.11.15-02.32.27:768][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box026.t_34_fbx_Box026
+[2017.11.15-02.32.27:779][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder050...
+[2017.11.15-02.32.27:782][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder050.t_34_fbx_Cylinder050
+[2017.11.15-02.32.27:792][872]LogFbx: Warning: Triangulating static mesh Box028
+[2017.11.15-02.32.27:794][872]LogStaticMesh: Building static mesh t_34_fbx_Box028...
+[2017.11.15-02.32.27:797][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box028.t_34_fbx_Box028
+[2017.11.15-02.32.27:807][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder047...
+[2017.11.15-02.32.27:809][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder047.t_34_fbx_Cylinder047
+[2017.11.15-02.32.27:819][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder048...
+[2017.11.15-02.32.27:822][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder048.t_34_fbx_Cylinder048
+[2017.11.15-02.32.27:831][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder049...
+[2017.11.15-02.32.27:834][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder049.t_34_fbx_Cylinder049
+[2017.11.15-02.32.27:843][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder052...
+[2017.11.15-02.32.27:846][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder052.t_34_fbx_Cylinder052
+[2017.11.15-02.32.27:855][872]LogFbx: Warning: Triangulating static mesh Cylinder002
+[2017.11.15-02.32.27:857][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder002...
+[2017.11.15-02.32.27:859][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder002.t_34_fbx_Cylinder002
+[2017.11.15-02.32.27:869][872]LogStaticMesh: Building static mesh t_34_fbx_Box002...
+[2017.11.15-02.32.27:877][872]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Box002.t_34_fbx_Box002
+[2017.11.15-02.32.27:880][872]LogStaticMesh: Warning: t_34_fbx_Box002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.32.27:880][872]LogStaticMesh: Warning: t_34_fbx_Box002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.32.27:890][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder053...
+[2017.11.15-02.32.27:893][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder053.t_34_fbx_Cylinder053
+[2017.11.15-02.32.27:902][872]LogFbx: Warning: Triangulating static mesh Box029
+[2017.11.15-02.32.27:904][872]LogStaticMesh: Building static mesh t_34_fbx_Box029...
+[2017.11.15-02.32.27:908][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box029.t_34_fbx_Box029
+[2017.11.15-02.32.27:919][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder001...
+[2017.11.15-02.32.27:923][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder001.t_34_fbx_Cylinder001
+[2017.11.15-02.32.27:936][872]LogFbx: Warning: Triangulating static mesh Line003
+[2017.11.15-02.32.27:937][872]LogStaticMesh: Building static mesh t_34_fbx_Line003...
+[2017.11.15-02.32.27:938][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line003.t_34_fbx_Line003
+[2017.11.15-02.32.27:947][872]LogFbx: Warning: Triangulating static mesh Line010
+[2017.11.15-02.32.27:950][872]LogStaticMesh: Building static mesh t_34_fbx_Line010...
+[2017.11.15-02.32.27:951][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line010.t_34_fbx_Line010
+[2017.11.15-02.32.27:960][872]LogFbx: Warning: Triangulating static mesh Line001
+[2017.11.15-02.32.27:962][872]LogStaticMesh: Building static mesh t_34_fbx_Line001...
+[2017.11.15-02.32.27:963][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line001.t_34_fbx_Line001
+[2017.11.15-02.32.27:973][872]LogFbx: Warning: Triangulating static mesh Line004
+[2017.11.15-02.32.27:975][872]LogStaticMesh: Building static mesh t_34_fbx_Line004...
+[2017.11.15-02.32.27:976][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line004.t_34_fbx_Line004
+[2017.11.15-02.32.27:976][872]LogStaticMesh: Warning: t_34_fbx_Line004 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.32.27:977][872]LogStaticMesh: Warning: t_34_fbx_Line004 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.32.27:986][872]LogFbx: Warning: Triangulating static mesh Line005
+[2017.11.15-02.32.27:988][872]LogStaticMesh: Building static mesh t_34_fbx_Line005...
+[2017.11.15-02.32.27:988][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line005.t_34_fbx_Line005
+[2017.11.15-02.32.27:989][872]LogStaticMesh: Warning: t_34_fbx_Line005 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.32.27:989][872]LogStaticMesh: Warning: t_34_fbx_Line005 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.32.27:997][872]LogFbx: Warning: Triangulating static mesh Line008
+[2017.11.15-02.32.27:999][872]LogStaticMesh: Building static mesh t_34_fbx_Line008...
+[2017.11.15-02.32.28:000][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line008.t_34_fbx_Line008
+[2017.11.15-02.32.28:003][872]LogStaticMesh: Warning: t_34_fbx_Line008 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.32.28:003][872]LogStaticMesh: Warning: t_34_fbx_Line008 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.32.28:011][872]LogFbx: Warning: Triangulating static mesh Line011
+[2017.11.15-02.32.28:013][872]LogStaticMesh: Building static mesh t_34_fbx_Line011...
+[2017.11.15-02.32.28:014][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line011.t_34_fbx_Line011
+[2017.11.15-02.32.28:022][872]LogFbx: Warning: Triangulating static mesh Line012
+[2017.11.15-02.32.28:025][872]LogStaticMesh: Building static mesh t_34_fbx_Line012...
+[2017.11.15-02.32.28:026][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line012.t_34_fbx_Line012
+[2017.11.15-02.32.28:034][872]LogFbx: Warning: Triangulating static mesh Line007
+[2017.11.15-02.32.28:036][872]LogStaticMesh: Building static mesh t_34_fbx_Line007...
+[2017.11.15-02.32.28:037][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line007.t_34_fbx_Line007
+[2017.11.15-02.32.28:038][872]LogStaticMesh: Warning: t_34_fbx_Line007 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.32.28:038][872]LogStaticMesh: Warning: t_34_fbx_Line007 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.32.28:046][872]LogFbx: Warning: Triangulating static mesh Line006
+[2017.11.15-02.32.28:048][872]LogStaticMesh: Building static mesh t_34_fbx_Line006...
+[2017.11.15-02.32.28:049][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line006.t_34_fbx_Line006
+[2017.11.15-02.32.28:050][872]LogStaticMesh: Warning: t_34_fbx_Line006 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.32.28:050][872]LogStaticMesh: Warning: t_34_fbx_Line006 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.32.28:058][872]LogFbx: Warning: Triangulating static mesh Line009
+[2017.11.15-02.32.28:060][872]LogStaticMesh: Building static mesh t_34_fbx_Line009...
+[2017.11.15-02.32.28:061][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line009.t_34_fbx_Line009
+[2017.11.15-02.32.28:062][872]LogStaticMesh: Warning: t_34_fbx_Line009 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.32.28:063][872]LogStaticMesh: Warning: t_34_fbx_Line009 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.32.28:065][872]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.18+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.11.15-02.32.28:065][872]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.18+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.11.15-02.32.28:065][872]LogPhysics: Warning: Failed to cook convex: /Game/RefScales/t_34_fbx_Line009.t_34_fbx_Line009 0 (FlipX:0). The remaining elements will not get cooked.
+[2017.11.15-02.32.28:065][872]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.18+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.11.15-02.32.28:065][872]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.18+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.11.15-02.32.28:065][872]LogPhysics: Warning: Failed to cook convex: /Game/RefScales/t_34_fbx_Line009.t_34_fbx_Line009 0 (FlipX:1). The remaining elements will not get cooked.
+[2017.11.15-02.32.28:066][872]LogPhysics: Warning: Attempt to build physics data for /Game/RefScales/t_34_fbx_Line009.t_34_fbx_Line009:BodySetup_0 when we are unable to.
+[2017.11.15-02.32.28:073][872]LogStaticMesh: Building static mesh t_34_fbx_body...
+[2017.11.15-02.32.28:078][872]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_body.t_34_fbx_body
+[2017.11.15-02.32.28:089][872]LogFbx: Warning: Triangulating static mesh Plane006
+[2017.11.15-02.32.28:091][872]LogStaticMesh: Building static mesh t_34_fbx_Plane006...
+[2017.11.15-02.32.28:092][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Plane006.t_34_fbx_Plane006
+[2017.11.15-02.32.28:102][872]LogFbx: Warning: Triangulating static mesh Plane007
+[2017.11.15-02.32.28:104][872]LogStaticMesh: Building static mesh t_34_fbx_Plane007...
+[2017.11.15-02.32.28:105][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Plane007.t_34_fbx_Plane007
+[2017.11.15-02.32.28:114][872]LogFbx: Warning: Triangulating static mesh Cylinder031
+[2017.11.15-02.32.28:116][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder031...
+[2017.11.15-02.32.28:118][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder031.t_34_fbx_Cylinder031
+[2017.11.15-02.32.28:130][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder032...
+[2017.11.15-02.32.28:133][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder032.t_34_fbx_Cylinder032
+[2017.11.15-02.32.28:145][872]LogStaticMesh: Building static mesh t_34_fbx_Box008...
+[2017.11.15-02.32.28:150][872]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Box008.t_34_fbx_Box008
+[2017.11.15-02.32.28:158][872]LogFbx: Warning: Triangulating static mesh Cylinder033
+[2017.11.15-02.32.28:160][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder033...
+[2017.11.15-02.32.28:162][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder033.t_34_fbx_Cylinder033
+[2017.11.15-02.32.28:170][872]LogFbx: Warning: Triangulating static mesh Box003
+[2017.11.15-02.32.28:172][872]LogStaticMesh: Building static mesh t_34_fbx_Box003...
+[2017.11.15-02.32.28:175][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box003.t_34_fbx_Box003
+[2017.11.15-02.32.28:176][872]LogStaticMesh: Warning: t_34_fbx_Box003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.32.28:183][872]LogFbx: Warning: Triangulating static mesh Box004
+[2017.11.15-02.32.28:185][872]LogStaticMesh: Building static mesh t_34_fbx_Box004...
+[2017.11.15-02.32.28:189][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box004.t_34_fbx_Box004
+[2017.11.15-02.32.28:189][872]LogStaticMesh: Warning: t_34_fbx_Box004 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.32.28:197][872]LogFbx: Warning: Triangulating static mesh Box021
+[2017.11.15-02.32.28:199][872]LogStaticMesh: Building static mesh t_34_fbx_Box021...
+[2017.11.15-02.32.28:203][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box021.t_34_fbx_Box021
+[2017.11.15-02.32.28:211][872]LogFbx: Warning: Triangulating static mesh Box020
+[2017.11.15-02.32.28:213][872]LogStaticMesh: Building static mesh t_34_fbx_Box020...
+[2017.11.15-02.32.28:216][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box020.t_34_fbx_Box020
+[2017.11.15-02.32.28:226][872]LogStaticMesh: Building static mesh t_34_fbx_Object003...
+[2017.11.15-02.32.28:234][872]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Object003.t_34_fbx_Object003
+[2017.11.15-02.32.28:235][872]LogStaticMesh: Warning: t_34_fbx_Object003 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.32.28:235][872]LogStaticMesh: Warning: t_34_fbx_Object003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.32.28:245][872]LogStaticMesh: Building static mesh t_34_fbx_Object004...
+[2017.11.15-02.32.28:253][872]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Object004.t_34_fbx_Object004
+[2017.11.15-02.32.28:254][872]LogStaticMesh: Warning: t_34_fbx_Object004 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.32.28:254][872]LogStaticMesh: Warning: t_34_fbx_Object004 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.32.28:264][872]LogStaticMesh: Building static mesh t_34_fbx_Box016...
+[2017.11.15-02.32.28:272][872]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Box016.t_34_fbx_Box016
+[2017.11.15-02.32.28:273][872]LogStaticMesh: Warning: t_34_fbx_Box016 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.32.28:274][872]LogStaticMesh: Warning: t_34_fbx_Box016 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.32.28:283][872]LogStaticMesh: Building static mesh t_34_fbx_Object002...
+[2017.11.15-02.32.28:291][872]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Object002.t_34_fbx_Object002
+[2017.11.15-02.32.28:293][872]LogStaticMesh: Warning: t_34_fbx_Object002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.32.28:293][872]LogStaticMesh: Warning: t_34_fbx_Object002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.32.28:302][872]LogFbx: Warning: Triangulating static mesh Plane008
+[2017.11.15-02.32.28:307][872]LogStaticMesh: Building static mesh t_34_fbx_Plane008...
+[2017.11.15-02.32.28:312][872]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Plane008.t_34_fbx_Plane008
+[2017.11.15-02.32.28:323][872]LogFbx: Warning: Triangulating static mesh Plane009
+[2017.11.15-02.32.28:331][872]LogStaticMesh: Building static mesh t_34_fbx_Plane009...
+[2017.11.15-02.32.28:336][872]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Plane009.t_34_fbx_Plane009
+[2017.11.15-02.32.28:350][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder003...
+[2017.11.15-02.32.28:353][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder003.t_34_fbx_Cylinder003
+[2017.11.15-02.32.28:363][872]LogFbx: Warning: Triangulating static mesh Cylinder004
+[2017.11.15-02.32.28:365][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder004...
+[2017.11.15-02.32.28:366][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder004.t_34_fbx_Cylinder004
+[2017.11.15-02.32.28:376][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder005...
+[2017.11.15-02.32.28:380][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder005.t_34_fbx_Cylinder005
+[2017.11.15-02.32.28:388][872]LogFbx: Warning: Triangulating static mesh Cylinder006
+[2017.11.15-02.32.28:390][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder006...
+[2017.11.15-02.32.28:391][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder006.t_34_fbx_Cylinder006
+[2017.11.15-02.32.28:401][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder007...
+[2017.11.15-02.32.28:404][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder007.t_34_fbx_Cylinder007
+[2017.11.15-02.32.28:413][872]LogFbx: Warning: Triangulating static mesh Cylinder008
+[2017.11.15-02.32.28:415][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder008...
+[2017.11.15-02.32.28:416][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder008.t_34_fbx_Cylinder008
+[2017.11.15-02.32.28:426][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder009...
+[2017.11.15-02.32.28:430][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder009.t_34_fbx_Cylinder009
+[2017.11.15-02.32.28:441][872]LogFbx: Warning: Triangulating static mesh Cylinder010
+[2017.11.15-02.32.28:443][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder010...
+[2017.11.15-02.32.28:445][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder010.t_34_fbx_Cylinder010
+[2017.11.15-02.32.28:463][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder011...
+[2017.11.15-02.32.28:466][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder011.t_34_fbx_Cylinder011
+[2017.11.15-02.32.28:476][872]LogFbx: Warning: Triangulating static mesh Cylinder012
+[2017.11.15-02.32.28:478][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder012...
+[2017.11.15-02.32.28:479][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder012.t_34_fbx_Cylinder012
+[2017.11.15-02.32.28:489][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder013...
+[2017.11.15-02.32.28:492][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder013.t_34_fbx_Cylinder013
+[2017.11.15-02.32.28:501][872]LogFbx: Warning: Triangulating static mesh Cylinder014
+[2017.11.15-02.32.28:503][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder014...
+[2017.11.15-02.32.28:504][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder014.t_34_fbx_Cylinder014
+[2017.11.15-02.32.28:515][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder015...
+[2017.11.15-02.32.28:518][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder015.t_34_fbx_Cylinder015
+[2017.11.15-02.32.28:528][872]LogFbx: Warning: Triangulating static mesh Cylinder016
+[2017.11.15-02.32.28:532][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder016...
+[2017.11.15-02.32.28:533][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder016.t_34_fbx_Cylinder016
+[2017.11.15-02.32.28:543][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder017...
+[2017.11.15-02.32.28:546][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder017.t_34_fbx_Cylinder017
+[2017.11.15-02.32.28:556][872]LogFbx: Warning: Triangulating static mesh Cylinder018
+[2017.11.15-02.32.28:560][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder018...
+[2017.11.15-02.32.28:561][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder018.t_34_fbx_Cylinder018
+[2017.11.15-02.32.28:571][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder019...
+[2017.11.15-02.32.28:574][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder019.t_34_fbx_Cylinder019
+[2017.11.15-02.32.28:584][872]LogFbx: Warning: Triangulating static mesh Cylinder020
+[2017.11.15-02.32.28:585][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder020...
+[2017.11.15-02.32.28:587][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder020.t_34_fbx_Cylinder020
+[2017.11.15-02.32.28:597][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder021...
+[2017.11.15-02.32.28:601][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder021.t_34_fbx_Cylinder021
+[2017.11.15-02.32.28:609][872]LogFbx: Warning: Triangulating static mesh Cylinder022
+[2017.11.15-02.32.28:611][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder022...
+[2017.11.15-02.32.28:612][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder022.t_34_fbx_Cylinder022
+[2017.11.15-02.32.28:622][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder023...
+[2017.11.15-02.32.28:626][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder023.t_34_fbx_Cylinder023
+[2017.11.15-02.32.28:634][872]LogFbx: Warning: Triangulating static mesh Cylinder024
+[2017.11.15-02.32.28:635][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder024...
+[2017.11.15-02.32.28:637][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder024.t_34_fbx_Cylinder024
+[2017.11.15-02.32.28:646][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder025...
+[2017.11.15-02.32.28:649][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder025.t_34_fbx_Cylinder025
+[2017.11.15-02.32.28:658][872]LogFbx: Warning: Triangulating static mesh Cylinder026
+[2017.11.15-02.32.28:659][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder026...
+[2017.11.15-02.32.28:660][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder026.t_34_fbx_Cylinder026
+[2017.11.15-02.32.28:671][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder027...
+[2017.11.15-02.32.28:675][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder027.t_34_fbx_Cylinder027
+[2017.11.15-02.32.28:685][872]LogFbx: Warning: Triangulating static mesh Cylinder028
+[2017.11.15-02.32.28:687][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder028...
+[2017.11.15-02.32.28:688][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder028.t_34_fbx_Cylinder028
+[2017.11.15-02.32.28:697][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder029...
+[2017.11.15-02.32.28:701][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder029.t_34_fbx_Cylinder029
+[2017.11.15-02.32.28:710][872]LogFbx: Warning: Triangulating static mesh Cylinder030
+[2017.11.15-02.32.28:711][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder030...
+[2017.11.15-02.32.28:713][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder030.t_34_fbx_Cylinder030
+[2017.11.15-02.32.28:722][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder042...
+[2017.11.15-02.32.28:726][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder042.t_34_fbx_Cylinder042
+[2017.11.15-02.32.28:735][872]LogFbx: Warning: Triangulating static mesh Capsule001
+[2017.11.15-02.32.28:758][872]LogStaticMesh: Building static mesh t_34_fbx_Capsule001...
+[2017.11.15-02.32.28:763][872]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Capsule001.t_34_fbx_Capsule001
+[2017.11.15-02.32.28:773][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder043...
+[2017.11.15-02.32.28:777][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder043.t_34_fbx_Cylinder043
+[2017.11.15-02.32.28:786][872]LogFbx: Warning: Triangulating static mesh Capsule002
+[2017.11.15-02.32.28:790][872]LogStaticMesh: Building static mesh t_34_fbx_Capsule002...
+[2017.11.15-02.32.28:795][872]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Capsule002.t_34_fbx_Capsule002
+[2017.11.15-02.32.28:805][872]LogStaticMesh: Building static mesh t_34_fbx_Cylinder054...
+[2017.11.15-02.32.28:807][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder054.t_34_fbx_Cylinder054
+[2017.11.15-02.32.28:816][872]LogFbx: Warning: Triangulating static mesh Box019
+[2017.11.15-02.32.28:818][872]LogStaticMesh: Building static mesh t_34_fbx_Box019...
+[2017.11.15-02.32.28:822][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box019.t_34_fbx_Box019
+[2017.11.15-02.32.28:825][872]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.18+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.11.15-02.32.28:825][872]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.18+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.11.15-02.32.28:825][872]LogPhysics: Warning: Failed to cook convex: /Game/RefScales/t_34_fbx_Box019.t_34_fbx_Box019 0 (FlipX:0). The remaining elements will not get cooked.
+[2017.11.15-02.32.28:825][872]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.18+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.11.15-02.32.28:825][872]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.18+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.11.15-02.32.28:825][872]LogPhysics: Warning: Failed to cook convex: /Game/RefScales/t_34_fbx_Box019.t_34_fbx_Box019 0 (FlipX:1). The remaining elements will not get cooked.
+[2017.11.15-02.32.28:825][872]LogPhysics: Warning: Attempt to build physics data for /Game/RefScales/t_34_fbx_Box019.t_34_fbx_Box019:BodySetup_0 when we are unable to.
+[2017.11.15-02.32.28:830][872]LogFbx: Warning: Triangulating static mesh Box018
+[2017.11.15-02.32.28:832][872]LogStaticMesh: Building static mesh t_34_fbx_Box018...
+[2017.11.15-02.32.28:836][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box018.t_34_fbx_Box018
+[2017.11.15-02.32.28:846][872]LogStaticMesh: Building static mesh t_34_fbx_Box009...
+[2017.11.15-02.32.28:850][872]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Box009.t_34_fbx_Box009
+[2017.11.15-02.32.28:858][872]LogFbx: Warning: Triangulating static mesh Box011
+[2017.11.15-02.32.28:860][872]LogStaticMesh: Building static mesh t_34_fbx_Box011...
+[2017.11.15-02.32.28:864][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box011.t_34_fbx_Box011
+[2017.11.15-02.32.28:873][872]LogFbx: Warning: Triangulating static mesh Box010
+[2017.11.15-02.32.28:874][872]LogStaticMesh: Building static mesh t_34_fbx_Box010...
+[2017.11.15-02.32.28:878][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box010.t_34_fbx_Box010
+[2017.11.15-02.32.28:887][872]LogFbx: Warning: Triangulating static mesh Box013
+[2017.11.15-02.32.28:889][872]LogStaticMesh: Building static mesh t_34_fbx_Box013...
+[2017.11.15-02.32.28:891][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box013.t_34_fbx_Box013
+[2017.11.15-02.32.28:900][872]LogFbx: Warning: Triangulating static mesh Box012
+[2017.11.15-02.32.28:902][872]LogStaticMesh: Building static mesh t_34_fbx_Box012...
+[2017.11.15-02.32.28:904][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box012.t_34_fbx_Box012
+[2017.11.15-02.32.28:917][872]LogFbx: Warning: Triangulating static mesh Box022
+[2017.11.15-02.32.28:918][872]LogStaticMesh: Building static mesh t_34_fbx_Box022...
+[2017.11.15-02.32.28:923][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box022.t_34_fbx_Box022
+[2017.11.15-02.32.28:932][872]LogFbx: Warning: Triangulating static mesh Box023
+[2017.11.15-02.32.28:934][872]LogStaticMesh: Building static mesh t_34_fbx_Box023...
+[2017.11.15-02.32.28:938][872]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Box023.t_34_fbx_Box023
+[2017.11.15-02.32.28:949][872]LogFbx: Warning: Triangulating static mesh Sphere001
+[2017.11.15-02.32.28:952][872]LogStaticMesh: Building static mesh t_34_fbx_Sphere001...
+[2017.11.15-02.32.28:954][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Sphere001.t_34_fbx_Sphere001
+[2017.11.15-02.32.28:964][872]LogFbx: Warning: Triangulating static mesh Box005
+[2017.11.15-02.32.28:965][872]LogStaticMesh: Building static mesh t_34_fbx_Box005...
+[2017.11.15-02.32.28:969][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box005.t_34_fbx_Box005
+[2017.11.15-02.32.28:977][872]LogFbx: Warning: Triangulating static mesh Box006
+[2017.11.15-02.32.28:978][872]LogStaticMesh: Building static mesh t_34_fbx_Box006...
+[2017.11.15-02.32.28:981][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box006.t_34_fbx_Box006
+[2017.11.15-02.32.28:989][872]LogFbx: Warning: Triangulating static mesh Box007
+[2017.11.15-02.32.28:990][872]LogStaticMesh: Building static mesh t_34_fbx_Box007...
+[2017.11.15-02.32.28:993][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box007.t_34_fbx_Box007
+[2017.11.15-02.32.29:001][872]LogFbx: Warning: Triangulating static mesh Plane010
+[2017.11.15-02.32.29:002][872]LogStaticMesh: Building static mesh t_34_fbx_Plane010...
+[2017.11.15-02.32.29:003][872]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Plane010.t_34_fbx_Plane010
+[2017.11.15-02.32.29:024][872]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.15-02.32.29:024][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:024][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:024][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:024][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:024][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:024][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:024][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:024][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:024][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:024][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:024][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:025][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:025][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:025][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:025][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:025][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:025][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:025][872]FBXImport: Warning: t_34_fbx_Box002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.32.29:025][872]FBXImport: Warning: t_34_fbx_Box002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.32.29:025][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:025][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:025][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:025][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:025][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:025][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:025][872]FBXImport: Warning: t_34_fbx_Line004 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.32.29:025][872]FBXImport: Warning: t_34_fbx_Line004 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.32.29:025][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: t_34_fbx_Line005 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: t_34_fbx_Line005 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: t_34_fbx_Line008 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: t_34_fbx_Line008 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: t_34_fbx_Line007 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: t_34_fbx_Line007 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: t_34_fbx_Line006 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: t_34_fbx_Line006 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: t_34_fbx_Line009 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: t_34_fbx_Line009 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: t_34_fbx_Box003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.32.29:026][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: t_34_fbx_Box004 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: t_34_fbx_Object003 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: t_34_fbx_Object003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: t_34_fbx_Object004 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: t_34_fbx_Object004 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: t_34_fbx_Box016 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: t_34_fbx_Box016 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: t_34_fbx_Object002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: t_34_fbx_Object002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:027][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:028][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:029][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:029][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:029][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:029][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:029][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:029][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:029][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:029][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:029][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:029][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:029][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:029][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:029][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.29:029][872]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.32.34:639][280]LogActorFactory: Actor Factory created t_34_fbx_Box002
+[2017.11.15-02.33.10:746][335]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\amascaro\Downloads\t_34_fbx.FBX)
+[2017.11.15-02.33.10:759][335]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.15-02.33.10:759][335]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.15-02.33.10:759][335]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.15-02.33.10:759][335]LogFbx: ItemName: Model, ItemCount : 109
+[2017.11.15-02.33.10:759][335]LogFbx: ItemName: NodeAttribute, ItemCount : 13
+[2017.11.15-02.33.10:759][335]LogFbx: ItemName: Geometry, ItemCount : 96
+[2017.11.15-02.33.10:759][335]LogFbx: ItemName: Material, ItemCount : 1
+[2017.11.15-02.33.10:759][335]LogFbx: ItemName: Texture, ItemCount : 1
+[2017.11.15-02.33.10:769][335]LogFbx: Loading FBX Scene from C:\Users\amascaro\Downloads\t_34_fbx.FBX
+[2017.11.15-02.33.10:849][335]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.15-02.33.20:510][335]LogFbx: Loading FBX Scene from C:\Users\amascaro\Downloads\t_34_fbx.FBX
+[2017.11.15-02.33.20:592][335]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.15-02.33.20:601][335]LogFbx: Warning: Triangulating static mesh Box027
+[2017.11.15-02.33.20:603][335]LogStaticMesh: Building static mesh t_34_fbx_Box027...
+[2017.11.15-02.33.20:606][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box027.t_34_fbx_Box027
+[2017.11.15-02.33.20:616][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder051...
+[2017.11.15-02.33.20:619][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder051.t_34_fbx_Cylinder051
+[2017.11.15-02.33.20:627][335]LogFbx: Warning: Triangulating static mesh Sphere002
+[2017.11.15-02.33.20:629][335]LogStaticMesh: Building static mesh t_34_fbx_Sphere002...
+[2017.11.15-02.33.20:631][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Sphere002.t_34_fbx_Sphere002
+[2017.11.15-02.33.20:639][335]LogFbx: Warning: Triangulating static mesh Sphere003
+[2017.11.15-02.33.20:641][335]LogStaticMesh: Building static mesh t_34_fbx_Sphere003...
+[2017.11.15-02.33.20:643][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Sphere003.t_34_fbx_Sphere003
+[2017.11.15-02.33.20:653][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder044...
+[2017.11.15-02.33.20:656][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder044.t_34_fbx_Cylinder044
+[2017.11.15-02.33.20:666][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder045...
+[2017.11.15-02.33.20:669][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder045.t_34_fbx_Cylinder045
+[2017.11.15-02.33.20:676][335]LogFbx: Warning: Triangulating static mesh Box024
+[2017.11.15-02.33.20:677][335]LogStaticMesh: Building static mesh t_34_fbx_Box024...
+[2017.11.15-02.33.20:681][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box024.t_34_fbx_Box024
+[2017.11.15-02.33.20:692][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder046...
+[2017.11.15-02.33.20:697][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder046.t_34_fbx_Cylinder046
+[2017.11.15-02.33.20:706][335]LogFbx: Warning: Triangulating static mesh Box025
+[2017.11.15-02.33.20:707][335]LogStaticMesh: Building static mesh t_34_fbx_Box025...
+[2017.11.15-02.33.20:711][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box025.t_34_fbx_Box025
+[2017.11.15-02.33.20:719][335]LogFbx: Warning: Triangulating static mesh Box026
+[2017.11.15-02.33.20:720][335]LogStaticMesh: Building static mesh t_34_fbx_Box026...
+[2017.11.15-02.33.20:724][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box026.t_34_fbx_Box026
+[2017.11.15-02.33.20:732][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder050...
+[2017.11.15-02.33.20:734][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder050.t_34_fbx_Cylinder050
+[2017.11.15-02.33.20:743][335]LogFbx: Warning: Triangulating static mesh Box028
+[2017.11.15-02.33.20:744][335]LogStaticMesh: Building static mesh t_34_fbx_Box028...
+[2017.11.15-02.33.20:748][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box028.t_34_fbx_Box028
+[2017.11.15-02.33.20:756][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder047...
+[2017.11.15-02.33.20:759][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder047.t_34_fbx_Cylinder047
+[2017.11.15-02.33.20:767][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder048...
+[2017.11.15-02.33.20:770][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder048.t_34_fbx_Cylinder048
+[2017.11.15-02.33.20:778][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder049...
+[2017.11.15-02.33.20:781][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder049.t_34_fbx_Cylinder049
+[2017.11.15-02.33.20:789][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder052...
+[2017.11.15-02.33.20:791][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder052.t_34_fbx_Cylinder052
+[2017.11.15-02.33.20:798][335]LogFbx: Warning: Triangulating static mesh Cylinder002
+[2017.11.15-02.33.20:800][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder002...
+[2017.11.15-02.33.20:802][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder002.t_34_fbx_Cylinder002
+[2017.11.15-02.33.20:810][335]LogStaticMesh: Building static mesh t_34_fbx_Box002...
+[2017.11.15-02.33.20:818][335]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Box002.t_34_fbx_Box002
+[2017.11.15-02.33.20:820][335]LogStaticMesh: Warning: t_34_fbx_Box002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.33.20:820][335]LogStaticMesh: Warning: t_34_fbx_Box002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.33.20:829][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder053...
+[2017.11.15-02.33.20:832][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder053.t_34_fbx_Cylinder053
+[2017.11.15-02.33.20:840][335]LogFbx: Warning: Triangulating static mesh Box029
+[2017.11.15-02.33.20:841][335]LogStaticMesh: Building static mesh t_34_fbx_Box029...
+[2017.11.15-02.33.20:845][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box029.t_34_fbx_Box029
+[2017.11.15-02.33.20:854][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder001...
+[2017.11.15-02.33.20:858][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder001.t_34_fbx_Cylinder001
+[2017.11.15-02.33.20:867][335]LogFbx: Warning: Triangulating static mesh Line003
+[2017.11.15-02.33.20:869][335]LogStaticMesh: Building static mesh t_34_fbx_Line003...
+[2017.11.15-02.33.20:870][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line003.t_34_fbx_Line003
+[2017.11.15-02.33.20:879][335]LogFbx: Warning: Triangulating static mesh Line010
+[2017.11.15-02.33.20:881][335]LogStaticMesh: Building static mesh t_34_fbx_Line010...
+[2017.11.15-02.33.20:882][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line010.t_34_fbx_Line010
+[2017.11.15-02.33.20:890][335]LogFbx: Warning: Triangulating static mesh Line001
+[2017.11.15-02.33.20:894][335]LogStaticMesh: Building static mesh t_34_fbx_Line001...
+[2017.11.15-02.33.20:895][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line001.t_34_fbx_Line001
+[2017.11.15-02.33.20:904][335]LogFbx: Warning: Triangulating static mesh Line004
+[2017.11.15-02.33.20:906][335]LogStaticMesh: Building static mesh t_34_fbx_Line004...
+[2017.11.15-02.33.20:907][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line004.t_34_fbx_Line004
+[2017.11.15-02.33.20:909][335]LogStaticMesh: Warning: t_34_fbx_Line004 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.33.20:909][335]LogStaticMesh: Warning: t_34_fbx_Line004 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.33.20:917][335]LogFbx: Warning: Triangulating static mesh Line005
+[2017.11.15-02.33.20:919][335]LogStaticMesh: Building static mesh t_34_fbx_Line005...
+[2017.11.15-02.33.20:919][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line005.t_34_fbx_Line005
+[2017.11.15-02.33.20:920][335]LogStaticMesh: Warning: t_34_fbx_Line005 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.33.20:921][335]LogStaticMesh: Warning: t_34_fbx_Line005 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.33.20:927][335]LogFbx: Warning: Triangulating static mesh Line008
+[2017.11.15-02.33.20:929][335]LogStaticMesh: Building static mesh t_34_fbx_Line008...
+[2017.11.15-02.33.20:930][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line008.t_34_fbx_Line008
+[2017.11.15-02.33.20:931][335]LogStaticMesh: Warning: t_34_fbx_Line008 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.33.20:931][335]LogStaticMesh: Warning: t_34_fbx_Line008 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.33.20:937][335]LogFbx: Warning: Triangulating static mesh Line011
+[2017.11.15-02.33.20:939][335]LogStaticMesh: Building static mesh t_34_fbx_Line011...
+[2017.11.15-02.33.20:940][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line011.t_34_fbx_Line011
+[2017.11.15-02.33.20:948][335]LogFbx: Warning: Triangulating static mesh Line012
+[2017.11.15-02.33.20:950][335]LogStaticMesh: Building static mesh t_34_fbx_Line012...
+[2017.11.15-02.33.20:951][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line012.t_34_fbx_Line012
+[2017.11.15-02.33.20:958][335]LogFbx: Warning: Triangulating static mesh Line007
+[2017.11.15-02.33.20:960][335]LogStaticMesh: Building static mesh t_34_fbx_Line007...
+[2017.11.15-02.33.20:961][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line007.t_34_fbx_Line007
+[2017.11.15-02.33.20:962][335]LogStaticMesh: Warning: t_34_fbx_Line007 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.33.20:962][335]LogStaticMesh: Warning: t_34_fbx_Line007 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.33.20:968][335]LogFbx: Warning: Triangulating static mesh Line006
+[2017.11.15-02.33.20:971][335]LogStaticMesh: Building static mesh t_34_fbx_Line006...
+[2017.11.15-02.33.20:972][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line006.t_34_fbx_Line006
+[2017.11.15-02.33.20:972][335]LogStaticMesh: Warning: t_34_fbx_Line006 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.33.20:972][335]LogStaticMesh: Warning: t_34_fbx_Line006 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.33.20:979][335]LogFbx: Warning: Triangulating static mesh Line009
+[2017.11.15-02.33.20:981][335]LogStaticMesh: Building static mesh t_34_fbx_Line009...
+[2017.11.15-02.33.20:982][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Line009.t_34_fbx_Line009
+[2017.11.15-02.33.20:983][335]LogStaticMesh: Warning: t_34_fbx_Line009 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.33.20:983][335]LogStaticMesh: Warning: t_34_fbx_Line009 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.33.20:985][335]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.18+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.11.15-02.33.20:985][335]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.18+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.11.15-02.33.20:985][335]LogPhysics: Warning: Failed to cook convex: /Game/RefScales/t_34_fbx_Line009.t_34_fbx_Line009 0 (FlipX:0). The remaining elements will not get cooked.
+[2017.11.15-02.33.20:986][335]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.18+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.11.15-02.33.20:986][335]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.18+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.11.15-02.33.20:986][335]LogPhysics: Warning: Failed to cook convex: /Game/RefScales/t_34_fbx_Line009.t_34_fbx_Line009 0 (FlipX:1). The remaining elements will not get cooked.
+[2017.11.15-02.33.20:986][335]LogPhysics: Warning: Attempt to build physics data for /Game/RefScales/t_34_fbx_Line009.t_34_fbx_Line009:BodySetup_0 when we are unable to.
+[2017.11.15-02.33.20:992][335]LogStaticMesh: Building static mesh t_34_fbx_body...
+[2017.11.15-02.33.20:997][335]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_body.t_34_fbx_body
+[2017.11.15-02.33.21:007][335]LogFbx: Warning: Triangulating static mesh Plane006
+[2017.11.15-02.33.21:009][335]LogStaticMesh: Building static mesh t_34_fbx_Plane006...
+[2017.11.15-02.33.21:011][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Plane006.t_34_fbx_Plane006
+[2017.11.15-02.33.21:018][335]LogFbx: Warning: Triangulating static mesh Plane007
+[2017.11.15-02.33.21:020][335]LogStaticMesh: Building static mesh t_34_fbx_Plane007...
+[2017.11.15-02.33.21:022][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Plane007.t_34_fbx_Plane007
+[2017.11.15-02.33.21:034][335]LogFbx: Warning: Triangulating static mesh Cylinder031
+[2017.11.15-02.33.21:037][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder031...
+[2017.11.15-02.33.21:039][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder031.t_34_fbx_Cylinder031
+[2017.11.15-02.33.21:055][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder032...
+[2017.11.15-02.33.21:058][335]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Cylinder032.t_34_fbx_Cylinder032
+[2017.11.15-02.33.21:074][335]LogStaticMesh: Building static mesh t_34_fbx_Box008...
+[2017.11.15-02.33.21:079][335]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Box008.t_34_fbx_Box008
+[2017.11.15-02.33.21:092][335]LogFbx: Warning: Triangulating static mesh Cylinder033
+[2017.11.15-02.33.21:098][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder033...
+[2017.11.15-02.33.21:101][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder033.t_34_fbx_Cylinder033
+[2017.11.15-02.33.21:110][335]LogFbx: Warning: Triangulating static mesh Box003
+[2017.11.15-02.33.21:113][335]LogStaticMesh: Building static mesh t_34_fbx_Box003...
+[2017.11.15-02.33.21:117][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box003.t_34_fbx_Box003
+[2017.11.15-02.33.21:120][335]LogStaticMesh: Warning: t_34_fbx_Box003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.33.21:130][335]LogFbx: Warning: Triangulating static mesh Box004
+[2017.11.15-02.33.21:132][335]LogStaticMesh: Building static mesh t_34_fbx_Box004...
+[2017.11.15-02.33.21:136][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box004.t_34_fbx_Box004
+[2017.11.15-02.33.21:136][335]LogStaticMesh: Warning: t_34_fbx_Box004 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.33.21:146][335]LogFbx: Warning: Triangulating static mesh Box021
+[2017.11.15-02.33.21:148][335]LogStaticMesh: Building static mesh t_34_fbx_Box021...
+[2017.11.15-02.33.21:152][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box021.t_34_fbx_Box021
+[2017.11.15-02.33.21:160][335]LogFbx: Warning: Triangulating static mesh Box020
+[2017.11.15-02.33.21:161][335]LogStaticMesh: Building static mesh t_34_fbx_Box020...
+[2017.11.15-02.33.21:165][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box020.t_34_fbx_Box020
+[2017.11.15-02.33.21:173][335]LogStaticMesh: Building static mesh t_34_fbx_Object003...
+[2017.11.15-02.33.21:181][335]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Object003.t_34_fbx_Object003
+[2017.11.15-02.33.21:183][335]LogStaticMesh: Warning: t_34_fbx_Object003 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.33.21:183][335]LogStaticMesh: Warning: t_34_fbx_Object003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.33.21:193][335]LogStaticMesh: Building static mesh t_34_fbx_Object004...
+[2017.11.15-02.33.21:201][335]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Object004.t_34_fbx_Object004
+[2017.11.15-02.33.21:202][335]LogStaticMesh: Warning: t_34_fbx_Object004 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.33.21:203][335]LogStaticMesh: Warning: t_34_fbx_Object004 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.33.21:212][335]LogStaticMesh: Building static mesh t_34_fbx_Box016...
+[2017.11.15-02.33.21:219][335]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Box016.t_34_fbx_Box016
+[2017.11.15-02.33.21:220][335]LogStaticMesh: Warning: t_34_fbx_Box016 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.33.21:220][335]LogStaticMesh: Warning: t_34_fbx_Box016 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.33.21:230][335]LogStaticMesh: Building static mesh t_34_fbx_Object002...
+[2017.11.15-02.33.21:238][335]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Object002.t_34_fbx_Object002
+[2017.11.15-02.33.21:240][335]LogStaticMesh: Warning: t_34_fbx_Object002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.11.15-02.33.21:240][335]LogStaticMesh: Warning: t_34_fbx_Object002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2017.11.15-02.33.21:247][335]LogFbx: Warning: Triangulating static mesh Plane008
+[2017.11.15-02.33.21:252][335]LogStaticMesh: Building static mesh t_34_fbx_Plane008...
+[2017.11.15-02.33.21:257][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Plane008.t_34_fbx_Plane008
+[2017.11.15-02.33.21:265][335]LogFbx: Warning: Triangulating static mesh Plane009
+[2017.11.15-02.33.21:270][335]LogStaticMesh: Building static mesh t_34_fbx_Plane009...
+[2017.11.15-02.33.21:275][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Plane009.t_34_fbx_Plane009
+[2017.11.15-02.33.21:285][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder003...
+[2017.11.15-02.33.21:288][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder003.t_34_fbx_Cylinder003
+[2017.11.15-02.33.21:296][335]LogFbx: Warning: Triangulating static mesh Cylinder004
+[2017.11.15-02.33.21:300][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder004...
+[2017.11.15-02.33.21:302][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder004.t_34_fbx_Cylinder004
+[2017.11.15-02.33.21:312][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder005...
+[2017.11.15-02.33.21:315][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder005.t_34_fbx_Cylinder005
+[2017.11.15-02.33.21:324][335]LogFbx: Warning: Triangulating static mesh Cylinder006
+[2017.11.15-02.33.21:325][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder006...
+[2017.11.15-02.33.21:326][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder006.t_34_fbx_Cylinder006
+[2017.11.15-02.33.21:335][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder007...
+[2017.11.15-02.33.21:339][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder007.t_34_fbx_Cylinder007
+[2017.11.15-02.33.21:351][335]LogFbx: Warning: Triangulating static mesh Cylinder008
+[2017.11.15-02.33.21:352][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder008...
+[2017.11.15-02.33.21:354][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder008.t_34_fbx_Cylinder008
+[2017.11.15-02.33.21:366][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder009...
+[2017.11.15-02.33.21:370][335]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Cylinder009.t_34_fbx_Cylinder009
+[2017.11.15-02.33.21:382][335]LogFbx: Warning: Triangulating static mesh Cylinder010
+[2017.11.15-02.33.21:383][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder010...
+[2017.11.15-02.33.21:385][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder010.t_34_fbx_Cylinder010
+[2017.11.15-02.33.21:395][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder011...
+[2017.11.15-02.33.21:399][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder011.t_34_fbx_Cylinder011
+[2017.11.15-02.33.21:408][335]LogFbx: Warning: Triangulating static mesh Cylinder012
+[2017.11.15-02.33.21:409][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder012...
+[2017.11.15-02.33.21:411][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder012.t_34_fbx_Cylinder012
+[2017.11.15-02.33.21:419][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder013...
+[2017.11.15-02.33.21:422][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder013.t_34_fbx_Cylinder013
+[2017.11.15-02.33.21:431][335]LogFbx: Warning: Triangulating static mesh Cylinder014
+[2017.11.15-02.33.21:433][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder014...
+[2017.11.15-02.33.21:434][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder014.t_34_fbx_Cylinder014
+[2017.11.15-02.33.21:443][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder015...
+[2017.11.15-02.33.21:446][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder015.t_34_fbx_Cylinder015
+[2017.11.15-02.33.21:455][335]LogFbx: Warning: Triangulating static mesh Cylinder016
+[2017.11.15-02.33.21:456][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder016...
+[2017.11.15-02.33.21:458][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder016.t_34_fbx_Cylinder016
+[2017.11.15-02.33.21:466][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder017...
+[2017.11.15-02.33.21:470][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder017.t_34_fbx_Cylinder017
+[2017.11.15-02.33.21:478][335]LogFbx: Warning: Triangulating static mesh Cylinder018
+[2017.11.15-02.33.21:479][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder018...
+[2017.11.15-02.33.21:480][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder018.t_34_fbx_Cylinder018
+[2017.11.15-02.33.21:489][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder019...
+[2017.11.15-02.33.21:492][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder019.t_34_fbx_Cylinder019
+[2017.11.15-02.33.21:501][335]LogFbx: Warning: Triangulating static mesh Cylinder020
+[2017.11.15-02.33.21:505][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder020...
+[2017.11.15-02.33.21:506][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder020.t_34_fbx_Cylinder020
+[2017.11.15-02.33.21:516][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder021...
+[2017.11.15-02.33.21:520][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder021.t_34_fbx_Cylinder021
+[2017.11.15-02.33.21:528][335]LogFbx: Warning: Triangulating static mesh Cylinder022
+[2017.11.15-02.33.21:529][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder022...
+[2017.11.15-02.33.21:531][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder022.t_34_fbx_Cylinder022
+[2017.11.15-02.33.21:539][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder023...
+[2017.11.15-02.33.21:543][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder023.t_34_fbx_Cylinder023
+[2017.11.15-02.33.21:551][335]LogFbx: Warning: Triangulating static mesh Cylinder024
+[2017.11.15-02.33.21:552][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder024...
+[2017.11.15-02.33.21:554][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder024.t_34_fbx_Cylinder024
+[2017.11.15-02.33.21:563][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder025...
+[2017.11.15-02.33.21:566][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder025.t_34_fbx_Cylinder025
+[2017.11.15-02.33.21:574][335]LogFbx: Warning: Triangulating static mesh Cylinder026
+[2017.11.15-02.33.21:575][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder026...
+[2017.11.15-02.33.21:577][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder026.t_34_fbx_Cylinder026
+[2017.11.15-02.33.21:586][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder027...
+[2017.11.15-02.33.21:589][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder027.t_34_fbx_Cylinder027
+[2017.11.15-02.33.21:597][335]LogFbx: Warning: Triangulating static mesh Cylinder028
+[2017.11.15-02.33.21:599][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder028...
+[2017.11.15-02.33.21:600][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder028.t_34_fbx_Cylinder028
+[2017.11.15-02.33.21:608][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder029...
+[2017.11.15-02.33.21:612][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder029.t_34_fbx_Cylinder029
+[2017.11.15-02.33.21:620][335]LogFbx: Warning: Triangulating static mesh Cylinder030
+[2017.11.15-02.33.21:621][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder030...
+[2017.11.15-02.33.21:623][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder030.t_34_fbx_Cylinder030
+[2017.11.15-02.33.21:631][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder042...
+[2017.11.15-02.33.21:634][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder042.t_34_fbx_Cylinder042
+[2017.11.15-02.33.21:643][335]LogFbx: Warning: Triangulating static mesh Capsule001
+[2017.11.15-02.33.21:647][335]LogStaticMesh: Building static mesh t_34_fbx_Capsule001...
+[2017.11.15-02.33.21:651][335]LogStaticMesh: Built static mesh [0.01s] /Game/RefScales/t_34_fbx_Capsule001.t_34_fbx_Capsule001
+[2017.11.15-02.33.21:660][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder043...
+[2017.11.15-02.33.21:664][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder043.t_34_fbx_Cylinder043
+[2017.11.15-02.33.21:671][335]LogFbx: Warning: Triangulating static mesh Capsule002
+[2017.11.15-02.33.21:674][335]LogStaticMesh: Building static mesh t_34_fbx_Capsule002...
+[2017.11.15-02.33.21:679][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Capsule002.t_34_fbx_Capsule002
+[2017.11.15-02.33.21:689][335]LogStaticMesh: Building static mesh t_34_fbx_Cylinder054...
+[2017.11.15-02.33.21:691][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Cylinder054.t_34_fbx_Cylinder054
+[2017.11.15-02.33.21:699][335]LogFbx: Warning: Triangulating static mesh Box019
+[2017.11.15-02.33.21:701][335]LogStaticMesh: Building static mesh t_34_fbx_Box019...
+[2017.11.15-02.33.21:705][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box019.t_34_fbx_Box019
+[2017.11.15-02.33.21:727][335]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.18+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.11.15-02.33.21:727][335]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.18+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.11.15-02.33.21:727][335]LogPhysics: Warning: Failed to cook convex: /Game/RefScales/t_34_fbx_Box019.t_34_fbx_Box019 0 (FlipX:0). The remaining elements will not get cooked.
+[2017.11.15-02.33.21:727][335]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.18+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.11.15-02.33.21:727][335]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.18+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.11.15-02.33.21:727][335]LogPhysics: Warning: Failed to cook convex: /Game/RefScales/t_34_fbx_Box019.t_34_fbx_Box019 0 (FlipX:1). The remaining elements will not get cooked.
+[2017.11.15-02.33.21:727][335]LogPhysics: Warning: Attempt to build physics data for /Game/RefScales/t_34_fbx_Box019.t_34_fbx_Box019:BodySetup_0 when we are unable to.
+[2017.11.15-02.33.21:732][335]LogFbx: Warning: Triangulating static mesh Box018
+[2017.11.15-02.33.21:733][335]LogStaticMesh: Building static mesh t_34_fbx_Box018...
+[2017.11.15-02.33.21:737][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box018.t_34_fbx_Box018
+[2017.11.15-02.33.21:747][335]LogStaticMesh: Building static mesh t_34_fbx_Box009...
+[2017.11.15-02.33.21:751][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box009.t_34_fbx_Box009
+[2017.11.15-02.33.21:759][335]LogFbx: Warning: Triangulating static mesh Box011
+[2017.11.15-02.33.21:760][335]LogStaticMesh: Building static mesh t_34_fbx_Box011...
+[2017.11.15-02.33.21:764][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box011.t_34_fbx_Box011
+[2017.11.15-02.33.21:772][335]LogFbx: Warning: Triangulating static mesh Box010
+[2017.11.15-02.33.21:773][335]LogStaticMesh: Building static mesh t_34_fbx_Box010...
+[2017.11.15-02.33.21:778][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box010.t_34_fbx_Box010
+[2017.11.15-02.33.21:785][335]LogFbx: Warning: Triangulating static mesh Box013
+[2017.11.15-02.33.21:787][335]LogStaticMesh: Building static mesh t_34_fbx_Box013...
+[2017.11.15-02.33.21:789][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box013.t_34_fbx_Box013
+[2017.11.15-02.33.21:796][335]LogFbx: Warning: Triangulating static mesh Box012
+[2017.11.15-02.33.21:798][335]LogStaticMesh: Building static mesh t_34_fbx_Box012...
+[2017.11.15-02.33.21:800][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box012.t_34_fbx_Box012
+[2017.11.15-02.33.21:808][335]LogFbx: Warning: Triangulating static mesh Box022
+[2017.11.15-02.33.21:809][335]LogStaticMesh: Building static mesh t_34_fbx_Box022...
+[2017.11.15-02.33.21:813][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box022.t_34_fbx_Box022
+[2017.11.15-02.33.21:821][335]LogFbx: Warning: Triangulating static mesh Box023
+[2017.11.15-02.33.21:822][335]LogStaticMesh: Building static mesh t_34_fbx_Box023...
+[2017.11.15-02.33.21:826][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box023.t_34_fbx_Box023
+[2017.11.15-02.33.21:834][335]LogFbx: Warning: Triangulating static mesh Sphere001
+[2017.11.15-02.33.21:837][335]LogStaticMesh: Building static mesh t_34_fbx_Sphere001...
+[2017.11.15-02.33.21:839][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Sphere001.t_34_fbx_Sphere001
+[2017.11.15-02.33.21:847][335]LogFbx: Warning: Triangulating static mesh Box005
+[2017.11.15-02.33.21:849][335]LogStaticMesh: Building static mesh t_34_fbx_Box005...
+[2017.11.15-02.33.21:852][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box005.t_34_fbx_Box005
+[2017.11.15-02.33.21:859][335]LogFbx: Warning: Triangulating static mesh Box006
+[2017.11.15-02.33.21:860][335]LogStaticMesh: Building static mesh t_34_fbx_Box006...
+[2017.11.15-02.33.21:863][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box006.t_34_fbx_Box006
+[2017.11.15-02.33.21:872][335]LogFbx: Warning: Triangulating static mesh Box007
+[2017.11.15-02.33.21:873][335]LogStaticMesh: Building static mesh t_34_fbx_Box007...
+[2017.11.15-02.33.21:876][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Box007.t_34_fbx_Box007
+[2017.11.15-02.33.21:884][335]LogFbx: Warning: Triangulating static mesh Plane010
+[2017.11.15-02.33.21:885][335]LogStaticMesh: Building static mesh t_34_fbx_Plane010...
+[2017.11.15-02.33.21:886][335]LogStaticMesh: Built static mesh [0.00s] /Game/RefScales/t_34_fbx_Plane010.t_34_fbx_Plane010
+[2017.11.15-02.33.21:906][335]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.15-02.33.21:907][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:907][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:907][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:907][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:907][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:907][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:907][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:907][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:907][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:907][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:907][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:907][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:907][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:907][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:907][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:907][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: t_34_fbx_Box002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: t_34_fbx_Box002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: t_34_fbx_Line004 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: t_34_fbx_Line004 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: t_34_fbx_Line005 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: t_34_fbx_Line005 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: t_34_fbx_Line008 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: t_34_fbx_Line008 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: t_34_fbx_Line007 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.33.21:908][335]FBXImport: Warning: t_34_fbx_Line007 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: t_34_fbx_Line006 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: t_34_fbx_Line006 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: t_34_fbx_Line009 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: t_34_fbx_Line009 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: t_34_fbx_Box003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: t_34_fbx_Box004 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: t_34_fbx_Object003 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: t_34_fbx_Object003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: t_34_fbx_Object004 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.33.21:909][335]FBXImport: Warning: t_34_fbx_Object004 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: t_34_fbx_Box016 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: t_34_fbx_Box016 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: t_34_fbx_Object002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: t_34_fbx_Object002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:910][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:911][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:912][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:912][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:912][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:912][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:912][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.33.21:912][335]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.11.15-02.35.37:588][721]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\amascaro\Downloads\army helicopter_fbx\army helicopter_fbx.fbx)
+[2017.11.15-02.35.37:631][721]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.15-02.35.37:631][721]LogFbx: ItemName: Geometry, ItemCount : 29
+[2017.11.15-02.35.37:631][721]LogFbx: ItemName: Model, ItemCount : 29
+[2017.11.15-02.35.37:631][721]LogFbx: ItemName: Material, ItemCount : 16
+[2017.11.15-02.35.37:631][721]LogFbx: ItemName: Texture, ItemCount : 2
+[2017.11.15-02.35.37:631][721]LogFbx: ItemName: Video, ItemCount : 2
+[2017.11.15-02.35.37:641][721]LogFbx: Loading FBX Scene from C:\Users\amascaro\Downloads\army helicopter_fbx\army helicopter_fbx.fbx
+[2017.11.15-02.35.37:925][721]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.15-02.35.40:230][721]LogFbx: Loading FBX Scene from C:\Users\amascaro\Downloads\army helicopter_fbx\army helicopter_fbx.fbx
+[2017.11.15-02.35.40:397][721]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.15-02.35.40:401][721]LogFbx: Warning: Triangulating static mesh mainbody.002
+[2017.11.15-02.35.41:062][721]LogStaticMesh: Building static mesh army_helicopter_fbx_mainbody_002...
+[2017.11.15-02.37.14:680][721]LogStaticMesh: Built static mesh [93.62s] /Game/RefScales/army_helicopter_fbx_mainbody_002.army_helicopter_fbx_mainbody_002
+[2017.11.15-02.37.15:050][721]LogFbx: Warning: Triangulating static mesh mainbody.001
+[2017.11.15-02.37.15:776][721]LogStaticMesh: Building static mesh army_helicopter_fbx_mainbody_001...
