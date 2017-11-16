@@ -1600,3 +1600,1342 @@ LogInit: Object subsystem initialized
 [2017.11.16-21.10.21:998][128]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_3' owner of 'HexAICharacter_C_50' because it would cause an Owner loop
 [2017.11.16-21.10.24:062][196]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
 [2017.11.16-21.10.24:111][196]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.21.33:587][603]LogSlate: Took 0.020552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.11.16-21.21.35:123][743]LogSlate: Took 0.007261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.11.16-21.21.35:129][743]LogSlate: Took 0.001628 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.16-21.21.35:140][743]LogSlate: Took 0.002707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.16-21.21.35:142][743]LogSlate: Took 0.001262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.16-21.21.55:724][867]LogSlate: Took 0.001422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.16-21.22.04:718][894]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.16-21.22.04:857][894]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/HoloTest' took 0.070
+[2017.11.16-21.22.04:861][894]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/CamFont] ([1] browsable assets)...
+[2017.11.16-21.22.04:882][894]OBJ SavePackage:     Rendered thumbnail for [Font /Game/ThirdPersonBP/CamFont.CamFont]
+[2017.11.16-21.22.04:882][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/CamFont]
+[2017.11.16-21.22.04:882][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/CamFont" FILE="P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/CamFont_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.11.16-21.22.04:900][894]LogSavePackage: Save=12.65ms
+[2017.11.16-21.22.04:900][894]LogSavePackage: Moving 'P:/ue/Grid1/Saved/CamFont_Auto103AF2401450508C43B9CCB9EF2E97EF6.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/CamFont_Auto1.uasset'
+[2017.11.16-21.22.04:903][894]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/CamFont_Auto1.uasset
+[2017.11.16-21.22.04:904][894]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/TvText] ([1] browsable assets)...
+[2017.11.16-21.22.04:947][894]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/TvText.TvText]
+[2017.11.16-21.22.04:948][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/TvText]
+[2017.11.16-21.22.04:948][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/TvText" FILE="P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/TvText_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.11.16-21.22.04:974][894]LogSavePackage: Save=22.99ms
+[2017.11.16-21.22.04:974][894]LogSavePackage: Moving 'P:/ue/Grid1/Saved/TvText_Auto1910CE3C54150A78CF6D4A1AF000099D5.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/TvText_Auto1.uasset'
+[2017.11.16-21.22.04:976][894]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/TvText_Auto1.uasset
+[2017.11.16-21.22.04:976][894]LogFileHelpers: Auto-saving content packages took 0.118
+[2017.11.16-21.22.13:414][920]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Windows\Fonts\ATARCC.TTF)
+[2017.11.16-21.22.33:419][920]LogSlate: Took 0.005596 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.11.16-21.22.33:441][920]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.16-21.22.33:442][920]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.16-21.22.33:448][920]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.16-21.22.33:558][921]LogSlate: Took 0.000412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.16-21.22.33:568][921]LogSlate: Took 0.000994 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.16-21.22.33:571][921]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.16-21.22.35:682][ 93]LogSlate: Took 0.010726 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.11.16-21.22.51:945][333]LogSlate: Took 0.001377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.16-21.22.56:484][574]LogSlate: Took 0.000324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.16-21.23.04:877][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ATARCC" FILE="P:/ue/Grid1/Content/ThirdPersonBP/ATARCC.uasset" SILENT=true
+[2017.11.16-21.23.04:881][152]LogSavePackage: Save=2.66ms
+[2017.11.16-21.23.04:881][152]LogSavePackage: Moving 'P:/ue/Grid1/Saved/ATARCCF584105E4593B550D87D35BFB79936C3.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/ATARCC.uasset'
+[2017.11.16-21.23.04:883][152]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/ATARCC.uasset
+[2017.11.16-21.23.04:926][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ATARCC_Font" FILE="P:/ue/Grid1/Content/ThirdPersonBP/ATARCC_Font.uasset" SILENT=true
+[2017.11.16-21.23.04:932][152]LogSavePackage: Save=5.91ms
+[2017.11.16-21.23.04:932][152]LogSavePackage: Moving 'P:/ue/Grid1/Saved/ATARCC_FontA3F400B94C2E94A82FBAE98FFB243D8E.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/ATARCC_Font.uasset'
+[2017.11.16-21.23.04:933][152]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/ATARCC_Font.uasset
+[2017.11.16-21.23.04:984][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/TvText" FILE="P:/ue/Grid1/Content/ThirdPersonBP/TvText.uasset" SILENT=true
+[2017.11.16-21.23.05:002][152]LogSavePackage: Save=17.06ms
+[2017.11.16-21.23.05:002][152]LogSavePackage: Moving 'P:/ue/Grid1/Saved/TvTextE29402A54E222545BF3212B15846B043.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/TvText.uasset'
+[2017.11.16-21.23.05:003][152]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/TvText.uasset
+[2017.11.16-21.23.23:617][626]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0012 seconds. Added 1 classes and 0 folders.
+[2017.11.16-21.23.23:628][626]LogMaterial: Missing cached shader map for material TvText, compiling. 
+[2017.11.16-21.23.24:027][626]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.16-21.23.24:515][626]LogMaterial: Missing cached shader map for material TvText, compiling. 
+[2017.11.16-21.23.24:551][626]LogMaterial: Missing cached shader map for material TvText, compiling. 
+[2017.11.16-21.23.46:712][355]LogMaterial: Missing cached shader map for material TvText, compiling. 
+[2017.11.16-21.23.46:745][355]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2017.11.16-21.23.46:756][355]LogMaterial: Missing cached shader map for material TvText, compiling. 
+[2017.11.16-21.23.46:898][355]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2017.11.16-21.23.46:996][356]LogSlate: Took 0.002134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.16-21.23.55:743][463]MaterialEditorStats: Base pass shader: 102 instructions
+[2017.11.16-21.23.55:743][463]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2017.11.16-21.23.55:743][463]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.16-21.23.55:743][463]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.16-21.23.55:743][463]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.16-21.24.45:224][346]LogMaterial: Missing cached shader map for material TvText, compiling. 
+[2017.11.16-21.24.45:262][346]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2017.11.16-21.25.04:263][399]MaterialEditorStats: Base pass shader: 102 instructions
+[2017.11.16-21.25.04:263][399]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2017.11.16-21.25.04:263][399]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.16-21.25.04:263][399]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.16-21.25.04:263][399]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.16-21.25.39:104][718]LogEditorViewport: Clicking on Actor (LMB): TvPlayer_C (TvPlayer)
+[2017.11.16-21.25.43:889][ 12]Cmd: DUPLICATE
+[2017.11.16-21.25.43:889][ 12]Cmd: ACTOR DUPLICATE
+[2017.11.16-21.25.49:989][511]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-21.25.50:041][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.25.50:041][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-21.25.50:042][511]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 11:25:50 AM)
+[2017.11.16-21.25.50:042][511]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-21.25.50:110][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068295s)
+[2017.11.16-21.25.50:116][511]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-21.25.50:118][511]LogPlayLevel: PIE: World Init took: (0.007340s)
+[2017.11.16-21.25.50:118][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.076324s)
+[2017.11.16-21.25.50:179][511]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-21.25.50:188][511]LogInit: FAudioDevice initialized.
+[2017.11.16-21.25.50:228][511]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-21.25.50:233][511]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-16.25.50
+[2017.11.16-21.25.50:234][511]LogWorld: Bringing up level for play took: 0.004851
+[2017.11.16-21.25.50:243][511]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-21.25.50:243][511]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-21.25.50:244][511]LogBlueprintUserMessages: [HoloTest_C_1] Start
+[2017.11.16-21.25.50:244][511]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest 0.378
+[2017.11.16-21.25.50:244][511]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.25.51:832][575]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-21.25.52:282][594]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-21.25.52:810][615]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-21.25.55:712][717]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.25.55:761][717]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.25.57:640][804]LogEditorViewport: Clicking on Actor (LMB): TvPlayer_C (TvPlayer2)
+[2017.11.16-21.26.11:987][467]LogMaterialEditor: Saving and Compiling material TvText
+[2017.11.16-21.26.13:243][467]LogMaterial: Missing cached shader map for material TvText, compiling. 
+[2017.11.16-21.26.13:392][467]LogMaterial: Missing cached shader map for material TvText, compiling. 
+[2017.11.16-21.26.13:450][467]LogMaterial: Missing cached shader map for material TvText, compiling. 
+[2017.11.16-21.26.13:574][467]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TvText, compiling. 
+[2017.11.16-21.26.18:967][467]TextureStreamingBuild: Display: Compiling optional shaders took 5.401 seconds.
+[2017.11.16-21.26.25:327][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/TvText" FILE="P:/ue/Grid1/Content/ThirdPersonBP/TvText.uasset" SILENT=true
+[2017.11.16-21.26.25:353][467]LogSavePackage: Save=17.83ms
+[2017.11.16-21.26.25:354][467]LogSavePackage: Moving 'P:/ue/Grid1/Saved/TvTextE99BBA794DCEE1DDEEE893A1522385DD.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/TvText.uasset'
+[2017.11.16-21.26.25:355][467]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/TvText.uasset
+[2017.11.16-21.26.25:375][467]MaterialEditorStats: Base pass shader: 102 instructions
+[2017.11.16-21.26.25:375][467]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2017.11.16-21.26.25:375][467]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.16-21.26.25:375][467]MaterialEditorStats: Texture samplers: 4/16
+[2017.11.16-21.26.25:375][467]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.16-21.26.39:681][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/CamText" FILE="P:/ue/Grid1/Content/ThirdPersonBP/CamText.uasset" SILENT=true
+[2017.11.16-21.26.39:701][356]LogSavePackage: Save=18.51ms
+[2017.11.16-21.26.39:701][356]LogSavePackage: Moving 'P:/ue/Grid1/Saved/CamText3F8E1E8A4224175E2BF528837F10669A.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/CamText.uasset'
+[2017.11.16-21.26.39:702][356]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/CamText.uasset
+[2017.11.16-21.28.26:748][905]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.11.16-21.32.07:194][ 33]LogSlate: Took 0.000340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.16-21.32.16:300][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/HoloTest" FILE="P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/Maps/HoloTest_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.16-21.32.16:843][ 60]LogSavePackage: Save=353.56ms
+[2017.11.16-21.32.16:843][ 60]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HoloTest_Auto2A09D7C774E4722A6E7FBABB260A0C56A.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/Maps/HoloTest_Auto2.umap'
+[2017.11.16-21.32.16:845][ 60]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/Maps/HoloTest_Auto2.umap
+[2017.11.16-21.32.16:847][ 60]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/HoloTest' took 0.601
+[2017.11.16-21.32.16:847][ 60]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.601
+[2017.11.16-21.32.16:850][ 60]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/TvCamText] ([1] browsable assets)...
+[2017.11.16-21.32.16:892][ 60]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ThirdPersonBP/TvCamText.TvCamText]
+[2017.11.16-21.32.16:892][ 60]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/TvCamText]
+[2017.11.16-21.32.16:892][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/TvCamText" FILE="P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/TvCamText_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.11.16-21.32.16:909][ 60]LogSavePackage: Save=16.31ms
+[2017.11.16-21.32.16:909][ 60]LogSavePackage: Moving 'P:/ue/Grid1/Saved/TvCamText_Auto208C2441347EB2AC8D129EA97564BBB67.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/TvCamText_Auto2.uasset'
+[2017.11.16-21.32.16:910][ 60]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/TvCamText_Auto2.uasset
+[2017.11.16-21.32.16:910][ 60]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/TextRenderTarget] ([1] browsable assets)...
+[2017.11.16-21.32.16:920][ 60]OBJ SavePackage:     Rendered thumbnail for [CanvasRenderTarget2D /Game/ThirdPersonBP/TextRenderTarget.TextRenderTarget]
+[2017.11.16-21.32.16:920][ 60]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/TextRenderTarget]
+[2017.11.16-21.32.16:920][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/TextRenderTarget" FILE="P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/TextRenderTarget_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.11.16-21.32.16:927][ 60]LogSavePackage: Save=6.11ms
+[2017.11.16-21.32.16:927][ 60]LogSavePackage: Moving 'P:/ue/Grid1/Saved/TextRenderTarget_Auto27B1B5D3D4BD8041386152FBEE5421D52.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/TextRenderTarget_Auto2.uasset'
+[2017.11.16-21.32.16:928][ 60]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/TextRenderTarget_Auto2.uasset
+[2017.11.16-21.32.16:928][ 60]LogFileHelpers: Auto-saving content packages took 0.079
+[2017.11.16-21.37.45:662][688]LogSlate: Took 0.001479 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.11.16-21.43.16:144][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-21.43.16:255][214]LogSavePackage: Save=75.93ms
+[2017.11.16-21.43.16:255][214]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCam814D582D4E1D421084DCCA9A4FE20D47.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-21.43.16:256][214]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-21.43.17:976][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/HoloTest" FILE="P:/ue/Grid1/Content/ThirdPersonBP/Maps/HoloTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.16-21.43.18:394][214]LogSavePackage: Save=339.47ms
+[2017.11.16-21.43.18:394][214]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HoloTest6586CB114EEB78F700E62CA94C2F704A.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/Maps/HoloTest.umap'
+[2017.11.16-21.43.18:406][214]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/Maps/HoloTest.umap
+[2017.11.16-21.43.18:472][214]LogFileHelpers: Saving map 'HoloTest' took 2.210
+[2017.11.16-21.43.18:487][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/TextRenderTarget" FILE="P:/ue/Grid1/Content/ThirdPersonBP/TextRenderTarget.uasset" SILENT=true
+[2017.11.16-21.43.18:494][214]LogSavePackage: Save=5.93ms
+[2017.11.16-21.43.18:495][214]LogSavePackage: Moving 'P:/ue/Grid1/Saved/TextRenderTargetCC5A92D141742094ABF5319A410444DB.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/TextRenderTarget.uasset'
+[2017.11.16-21.43.18:495][214]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/TextRenderTarget.uasset
+[2017.11.16-21.43.18:542][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/TvCamText" FILE="P:/ue/Grid1/Content/ThirdPersonBP/TvCamText.uasset" SILENT=true
+[2017.11.16-21.43.18:560][214]LogSavePackage: Save=16.80ms
+[2017.11.16-21.43.18:560][214]LogSavePackage: Moving 'P:/ue/Grid1/Saved/TvCamTextB867DF464E9DC5EEADA477A915854D5C.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/TvCamText.uasset'
+[2017.11.16-21.43.18:561][214]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/TvCamText.uasset
+[2017.11.16-21.45.55:181][560]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-21.45.56:566][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-21.45.56:660][594]LogSavePackage: Save=87.04ms
+[2017.11.16-21.45.56:660][594]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCam72971CDD4BCC86BD4D7A1E9956B306EF.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-21.45.56:662][594]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-21.51.18:777][564]LogRenderer: Reallocating scene render targets to support 1236x912 Format 10 NumSamples 1 (Frame:1).
+[2017.11.16-21.51.23:454][823]LogMaterial: Missing cached shader map for material Feed, compiling. 
+[2017.11.16-21.51.23:632][823]LogMaterial: Missing cached shader map for material Feed, compiling. 
+[2017.11.16-21.51.23:643][823]LogMaterial: Missing cached shader map for material Feed, compiling. 
+[2017.11.16-21.51.23:683][823]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2017.11.16-21.51.30:243][160]LogMaterial: Missing cached shader map for material CamText, compiling. 
+[2017.11.16-21.51.30:410][160]LogMaterial: Missing cached shader map for material CamText, compiling. 
+[2017.11.16-21.51.30:446][160]LogMaterial: Missing cached shader map for material CamText, compiling. 
+[2017.11.16-21.51.30:522][160]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2017.11.16-21.51.44:410][814]LogMaterial: Missing cached shader map for material CamText, compiling. 
+[2017.11.16-21.51.44:449][814]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2017.11.16-21.52.01:756][135]MaterialEditorStats: Base pass shader: 102 instructions
+[2017.11.16-21.52.01:756][135]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2017.11.16-21.52.01:756][135]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.16-21.52.01:756][135]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.16-21.52.01:756][135]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.16-21.52.25:748][616]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-21.52.27:360][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-21.52.27:559][689]LogSavePackage: Save=105.35ms
+[2017.11.16-21.52.27:559][689]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCamE3FCBA1E42ECC499F1AE09AECB962F30.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-21.52.27:560][689]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-21.52.30:205][848]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-21.52.30:252][848]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.52.30:253][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-21.52.30:253][848]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 11:52:30 AM)
+[2017.11.16-21.52.30:253][848]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-21.52.30:316][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062991s)
+[2017.11.16-21.52.30:326][848]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-21.52.30:329][848]LogPlayLevel: PIE: World Init took: (0.012186s)
+[2017.11.16-21.52.30:329][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.076226s)
+[2017.11.16-21.52.30:385][848]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-21.52.30:394][848]LogInit: FAudioDevice initialized.
+[2017.11.16-21.52.30:436][848]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-21.52.30:440][848]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-16.52.30
+[2017.11.16-21.52.30:441][848]LogWorld: Bringing up level for play took: 0.003997
+[2017.11.16-21.52.30:444][848]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-21.52.30:445][848]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-21.52.30:445][848]LogBlueprintUserMessages: [HoloTest_C_2] Start
+[2017.11.16-21.52.30:445][848]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest 0.501
+[2017.11.16-21.52.30:446][848]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.52.34:607][  5]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-21.52.34:894][ 16]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-21.52.35:138][ 25]LogScript: Warning: Accessed None trying to read property TextCanvas
+	HexPlayerCam_C /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.HexPlayerCam_C_0
+	Function /Game/ThirdPersonBP/HexPlayerCam.HexPlayerCam_C:ExecuteUbergraph_HexPlayerCam:014C
+[2017.11.16-21.52.35:138][ 25]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property TextCanvas from function: 'ExecuteUbergraph_HexPlayerCam' from node: Bind Event to OnCanvasRenderTargetUpdate in graph: EventGraph in object: HexPlayerCam with description: Accessed None trying to read property TextCanvas
+[2017.11.16-21.52.35:138][ 25]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-21.52.36:992][ 84]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.52.37:046][ 84]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.53.42:214][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/HoloTest" FILE="P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/Maps/HoloTest_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.16-21.53.42:761][219]LogSavePackage: Save=348.08ms
+[2017.11.16-21.53.42:761][219]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HoloTest_Auto34F74FE0949D3EA4ECB5FD986F3CC7FFA.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/Maps/HoloTest_Auto3.umap'
+[2017.11.16-21.53.42:778][219]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/Maps/HoloTest_Auto3.umap
+[2017.11.16-21.53.42:781][219]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/HoloTest' took 0.672
+[2017.11.16-21.53.42:781][219]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.672
+[2017.11.16-21.53.42:784][219]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/TvTextFeed] ([1] browsable assets)...
+[2017.11.16-21.53.42:795][219]OBJ SavePackage:     Rendered thumbnail for [TextureRenderTarget2D /Game/ThirdPersonBP/TvTextFeed.TvTextFeed]
+[2017.11.16-21.53.42:795][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/TvTextFeed]
+[2017.11.16-21.53.42:795][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/TvTextFeed" FILE="P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/TvTextFeed_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2017.11.16-21.53.42:802][219]LogSavePackage: Save=6.49ms
+[2017.11.16-21.53.42:802][219]LogSavePackage: Moving 'P:/ue/Grid1/Saved/TvTextFeed_Auto39FBAB1044B17F7910D2941BAC2E3108A.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/TvTextFeed_Auto3.uasset'
+[2017.11.16-21.53.42:803][219]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/TvTextFeed_Auto3.uasset
+[2017.11.16-21.53.42:803][219]LogFileHelpers: Auto-saving content packages took 0.020
+[2017.11.16-21.54.19:105][130]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-21.54.19:183][130]LogBlueprint: Error: [Compiler HexPlayerCam] This blueprint (self) is not a CanvasRenderTarget2D, therefore ' Target ' must have a connection.
+[2017.11.16-21.54.19:720][130]LogBlueprint: Warning: [Compiler HexPlayerCam] [4125.63] Compile of HexPlayerCam failed. 1 Fatal Issue(s) 0 Warning(s) [in 558 ms] (/Game/ThirdPersonBP/HexPlayerCam.HexPlayerCam)
+[2017.11.16-21.54.20:446][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-21.54.20:557][164]LogSavePackage: Save=103.99ms
+[2017.11.16-21.54.20:557][164]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCam59FEA07748C6A0C2D480E6B7935CC6CF.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-21.54.20:559][164]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-21.54.36:859][226]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-21.54.37:898][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-21.54.38:010][244]LogSavePackage: Save=106.23ms
+[2017.11.16-21.54.38:010][244]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCamA66E2A834A51B4635B08D8B668139AEA.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-21.54.38:011][244]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-21.54.41:446][387]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-21.54.41:493][387]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.54.41:494][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-21.54.41:494][387]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 11:54:41 AM)
+[2017.11.16-21.54.41:494][387]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-21.54.41:554][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059556s)
+[2017.11.16-21.54.41:555][387]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-21.54.41:556][387]LogPlayLevel: PIE: World Init took: (0.001716s)
+[2017.11.16-21.54.41:557][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.062315s)
+[2017.11.16-21.54.41:625][387]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-21.54.41:634][387]LogInit: FAudioDevice initialized.
+[2017.11.16-21.54.41:676][387]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-21.54.41:680][387]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-16.54.41
+[2017.11.16-21.54.41:680][387]LogWorld: Bringing up level for play took: 0.003921
+[2017.11.16-21.54.41:684][387]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-21.54.41:685][387]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-21.54.41:685][387]LogBlueprintUserMessages: [HoloTest_C_0] Start
+[2017.11.16-21.54.41:685][387]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest -0.266
+[2017.11.16-21.54.41:686][387]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.54.44:219][478]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.54.44:261][478]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.54.45:472][529]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-21.54.45:519][529]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.54.45:519][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-21.54.45:519][529]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 11:54:45 AM)
+[2017.11.16-21.54.45:519][529]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-21.54.45:579][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059772s)
+[2017.11.16-21.54.45:581][529]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-21.54.45:581][529]LogPlayLevel: PIE: World Init took: (0.002131s)
+[2017.11.16-21.54.45:582][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.062429s)
+[2017.11.16-21.54.45:644][529]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-21.54.45:652][529]LogInit: FAudioDevice initialized.
+[2017.11.16-21.54.45:692][529]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-21.54.45:696][529]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-16.54.45
+[2017.11.16-21.54.45:697][529]LogWorld: Bringing up level for play took: 0.003858
+[2017.11.16-21.54.45:700][529]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-21.54.45:701][529]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-21.54.45:701][529]LogBlueprintUserMessages: [HoloTest_C_0] Start
+[2017.11.16-21.54.45:701][529]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest -0.251
+[2017.11.16-21.54.45:702][529]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.54.47:923][601]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-21.54.48:003][604]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-21.54.48:271][614]LogScript: Warning: Accessed None trying to read property TextCanvas
+	HexPlayerCam_C /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.HexPlayerCam_C_0
+	Function /Game/ThirdPersonBP/HexPlayerCam.HexPlayerCam_C:ExecuteUbergraph_HexPlayerCam:014C
+[2017.11.16-21.54.48:271][614]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property TextCanvas from function: 'ExecuteUbergraph_HexPlayerCam' from node: Bind Event to OnCanvasRenderTargetUpdate in graph: EventGraph in object: HexPlayerCam with description: Accessed None trying to read property TextCanvas
+[2017.11.16-21.54.48:271][614]LogScript: Warning: Accessed None trying to read property TextCanvas
+	HexPlayerCam_C /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.HexPlayerCam_C_0
+	Function /Game/ThirdPersonBP/HexPlayerCam.HexPlayerCam_C:ExecuteUbergraph_HexPlayerCam:0176
+[2017.11.16-21.54.48:272][614]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property TextCanvas from function: 'ExecuteUbergraph_HexPlayerCam' from node: Update Resource in graph: EventGraph in object: HexPlayerCam with description: Accessed None trying to read property TextCanvas
+[2017.11.16-21.54.48:272][614]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-21.54.49:218][646]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.54.49:263][646]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.55.32:995][842]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-21.55.33:899][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-21.55.34:019][856]LogSavePackage: Save=111.93ms
+[2017.11.16-21.55.34:019][856]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCam6834C85140EAC0986C2735ABB2D2CEBC.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-21.55.34:020][856]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-21.55.36:869][953]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-21.55.36:916][953]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.55.36:916][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-21.55.36:916][953]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 11:55:36 AM)
+[2017.11.16-21.55.36:916][953]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-21.55.36:975][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058369s)
+[2017.11.16-21.55.36:976][953]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-21.55.36:977][953]LogPlayLevel: PIE: World Init took: (0.001826s)
+[2017.11.16-21.55.36:979][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.062576s)
+[2017.11.16-21.55.37:042][953]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-21.55.37:052][953]LogInit: FAudioDevice initialized.
+[2017.11.16-21.55.37:091][953]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-21.55.37:096][953]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-16.55.37
+[2017.11.16-21.55.37:097][953]LogWorld: Bringing up level for play took: 0.004375
+[2017.11.16-21.55.37:101][953]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-21.55.37:102][953]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-21.55.37:102][953]LogBlueprintUserMessages: [HoloTest_C_0] Start
+[2017.11.16-21.55.37:102][953]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest 1.147
+[2017.11.16-21.55.37:103][953]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.55.38:531][  5]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-21.55.38:637][  9]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-21.55.39:622][ 46]LogBlueprintUserMessages: [HexPlayerCam_C_0] 
+[2017.11.16-21.55.39:622][ 46]LogScript: Warning: Accessed None trying to read property TextCanvas
+	HexPlayerCam_C /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.HexPlayerCam_C_0
+	Function /Game/ThirdPersonBP/HexPlayerCam.HexPlayerCam_C:ExecuteUbergraph_HexPlayerCam:01DC
+[2017.11.16-21.55.39:622][ 46]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property TextCanvas from function: 'ExecuteUbergraph_HexPlayerCam' from node: Bind Event to OnCanvasRenderTargetUpdate in graph: EventGraph in object: HexPlayerCam with description: Accessed None trying to read property TextCanvas
+[2017.11.16-21.55.39:622][ 46]LogScript: Warning: Accessed None trying to read property TextCanvas
+	HexPlayerCam_C /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.HexPlayerCam_C_0
+	Function /Game/ThirdPersonBP/HexPlayerCam.HexPlayerCam_C:ExecuteUbergraph_HexPlayerCam:0206
+[2017.11.16-21.55.39:623][ 46]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property TextCanvas from function: 'ExecuteUbergraph_HexPlayerCam' from node: Update Resource in graph: EventGraph in object: HexPlayerCam with description: Accessed None trying to read property TextCanvas
+[2017.11.16-21.55.39:623][ 46]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-21.55.42:830][147]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-21.55.42:933][150]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-21.55.44:640][201]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.55.44:700][201]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.56.27:658][340]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-21.56.28:550][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-21.56.28:671][354]LogSavePackage: Save=112.99ms
+[2017.11.16-21.56.28:671][354]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCam9434E5004074D28F4BA728985611F3F5.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-21.56.28:672][354]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-21.56.30:322][402]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-21.56.30:368][402]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.56.30:369][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-21.56.30:369][402]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 11:56:30 AM)
+[2017.11.16-21.56.30:369][402]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-21.56.30:430][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060838s)
+[2017.11.16-21.56.30:432][402]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-21.56.30:432][402]LogPlayLevel: PIE: World Init took: (0.002153s)
+[2017.11.16-21.56.30:433][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.063857s)
+[2017.11.16-21.56.30:494][402]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-21.56.30:502][402]LogInit: FAudioDevice initialized.
+[2017.11.16-21.56.30:541][402]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-21.56.30:545][402]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-16.56.30
+[2017.11.16-21.56.30:546][402]LogWorld: Bringing up level for play took: 0.004044
+[2017.11.16-21.56.30:549][402]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-21.56.30:550][402]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-21.56.30:550][402]LogBlueprintUserMessages: [HoloTest_C_0] Start
+[2017.11.16-21.56.30:550][402]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest 0.592
+[2017.11.16-21.56.30:551][402]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.56.31:788][447]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-21.56.31:871][450]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-21.56.32:184][461]LogBlueprintUserMessages: [HexPlayerCam_C_0] 
+[2017.11.16-21.56.32:184][461]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-21.56.33:608][507]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.56.33:652][507]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.56.37:633][565]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-21.56.37:680][565]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.56.37:681][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-21.56.37:681][565]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 11:56:37 AM)
+[2017.11.16-21.56.37:681][565]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-21.56.37:738][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056437s)
+[2017.11.16-21.56.37:739][565]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-21.56.37:742][565]LogPlayLevel: PIE: World Init took: (0.003989s)
+[2017.11.16-21.56.37:742][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.060941s)
+[2017.11.16-21.56.37:803][565]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-21.56.37:811][565]LogInit: FAudioDevice initialized.
+[2017.11.16-21.56.37:852][565]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-21.56.37:856][565]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-16.56.37
+[2017.11.16-21.56.37:857][565]LogWorld: Bringing up level for play took: 0.003844
+[2017.11.16-21.56.37:861][565]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-21.56.37:861][565]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-21.56.37:862][565]LogBlueprintUserMessages: [HoloTest_C_0] Start
+[2017.11.16-21.56.37:862][565]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest -0.097
+[2017.11.16-21.56.37:862][565]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.56.39:196][613]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-21.56.39:277][616]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-21.56.39:530][625]LogBlueprintUserMessages: [HexPlayerCam_C_0] 
+[2017.11.16-21.56.39:530][625]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-21.56.40:768][666]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-21.56.40:832][668]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-21.56.41:816][698]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-21.56.41:920][701]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-21.56.42:572][718]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-21.56.42:652][720]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-21.56.43:718][750]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.56.43:762][750]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.57.04:640][580]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-21.57.05:473][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-21.57.05:594][592]LogSavePackage: Save=113.68ms
+[2017.11.16-21.57.05:594][592]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCamBB9F0D35452772D48AAA2E9B8D3562ED.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-21.57.05:596][592]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-21.57.06:731][634]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-21.57.06:778][634]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.57.06:778][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-21.57.06:778][634]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 11:57:06 AM)
+[2017.11.16-21.57.06:778][634]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-21.57.06:838][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059576s)
+[2017.11.16-21.57.06:839][634]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-21.57.06:840][634]LogPlayLevel: PIE: World Init took: (0.001762s)
+[2017.11.16-21.57.06:840][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.061838s)
+[2017.11.16-21.57.06:910][634]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-21.57.06:918][634]LogInit: FAudioDevice initialized.
+[2017.11.16-21.57.06:957][634]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-21.57.06:961][634]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-16.57.06
+[2017.11.16-21.57.06:962][634]LogWorld: Bringing up level for play took: 0.004079
+[2017.11.16-21.57.06:966][634]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-21.57.06:966][634]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-21.57.06:967][634]LogBlueprintUserMessages: [HoloTest_C_0] Start
+[2017.11.16-21.57.06:967][634]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest 1.006
+[2017.11.16-21.57.06:967][634]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.57.08:852][693]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-21.57.08:935][696]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-21.57.09:162][704]LogBlueprintUserMessages: [HexPlayerCam_C_0] Hello
+[2017.11.16-21.57.09:162][704]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-21.57.10:585][751]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.57.10:629][751]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.57.19:961][103]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.16-21.57.47:336][281]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-21.57.48:169][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-21.57.48:295][293]LogSavePackage: Save=118.16ms
+[2017.11.16-21.57.48:296][293]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCam9BE258F148DEDA69D4F68EBBEFEF2002.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-21.57.48:297][293]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-21.57.49:979][352]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-21.57.50:025][352]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.57.50:025][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-21.57.50:025][352]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 11:57:50 AM)
+[2017.11.16-21.57.50:025][352]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-21.57.50:084][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058702s)
+[2017.11.16-21.57.50:086][352]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-21.57.50:086][352]LogPlayLevel: PIE: World Init took: (0.001733s)
+[2017.11.16-21.57.50:086][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.060908s)
+[2017.11.16-21.57.50:156][352]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-21.57.50:165][352]LogInit: FAudioDevice initialized.
+[2017.11.16-21.57.50:201][352]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-21.57.50:206][352]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-16.57.50
+[2017.11.16-21.57.50:206][352]LogWorld: Bringing up level for play took: 0.004211
+[2017.11.16-21.57.50:210][352]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-21.57.50:211][352]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-21.57.50:211][352]LogBlueprintUserMessages: [HoloTest_C_0] Start
+[2017.11.16-21.57.50:211][352]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest 0.249
+[2017.11.16-21.57.50:212][352]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.57.51:517][400]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-21.57.51:595][403]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-21.57.51:868][413]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-21.57.54:646][502]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.57.54:693][502]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.58.30:372][777]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-21.58.30:419][777]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.58.30:420][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-21.58.30:420][777]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 11:58:30 AM)
+[2017.11.16-21.58.30:420][777]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-21.58.30:476][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056065s)
+[2017.11.16-21.58.30:478][777]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-21.58.30:478][777]LogPlayLevel: PIE: World Init took: (0.001708s)
+[2017.11.16-21.58.30:478][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.058283s)
+[2017.11.16-21.58.30:545][777]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-21.58.30:554][777]LogInit: FAudioDevice initialized.
+[2017.11.16-21.58.30:591][777]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-21.58.30:595][777]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-16.58.30
+[2017.11.16-21.58.30:596][777]LogWorld: Bringing up level for play took: 0.003892
+[2017.11.16-21.58.30:600][777]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-21.58.30:601][777]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-21.58.30:601][777]LogBlueprintUserMessages: [HoloTest_C_0] Start
+[2017.11.16-21.58.30:601][777]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest 0.636
+[2017.11.16-21.58.30:602][777]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.58.34:698][923]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-21.58.34:842][928]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-21.58.35:667][956]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-21.58.49:288][351]LogBlueprintUserMessages: [CursorCharacter_C_0] Cam 1
+[2017.11.16-21.58.50:735][399]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-21.58.50:736][399]LogBlueprintUserMessages: [CursorCharacter_C_0] Cam 2
+[2017.11.16-21.58.51:600][428]LogBlueprintUserMessages: [CursorCharacter_C_0] Cam 0
+[2017.11.16-21.58.57:199][596]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.58.57:263][596]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.59.44:973][162]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-21.59.46:555][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-21.59.46:670][240]LogSavePackage: Save=107.28ms
+[2017.11.16-21.59.46:670][240]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCamACD7B2344CF6B53AD04E50A341AF9542.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-21.59.46:671][240]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-21.59.49:717][375]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-21.59.49:764][375]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.59.49:765][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-21.59.49:765][375]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 11:59:49 AM)
+[2017.11.16-21.59.49:765][375]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-21.59.49:824][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058525s)
+[2017.11.16-21.59.49:825][375]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-21.59.49:826][375]LogPlayLevel: PIE: World Init took: (0.001789s)
+[2017.11.16-21.59.49:826][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.060834s)
+[2017.11.16-21.59.49:893][375]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-21.59.49:910][375]LogInit: FAudioDevice initialized.
+[2017.11.16-21.59.49:952][375]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-21.59.49:957][375]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-16.59.49
+[2017.11.16-21.59.49:957][375]LogWorld: Bringing up level for play took: 0.004043
+[2017.11.16-21.59.49:961][375]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-21.59.49:962][375]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-21.59.49:962][375]LogBlueprintUserMessages: [HoloTest_C_0] Start
+[2017.11.16-21.59.49:962][375]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest -0.007
+[2017.11.16-21.59.49:963][375]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-21.59.52:333][446]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-21.59.52:454][450]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-21.59.52:667][457]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-22.00.15:491][186]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.00.15:552][186]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.00.55:817][712]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-22.00.56:666][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-22.00.56:780][724]LogSavePackage: Save=106.84ms
+[2017.11.16-22.00.56:780][724]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCam74E178F34F862CBD8C3F8F896F1B7AAC.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-22.00.56:782][724]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-22.00.58:182][778]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-22.00.58:230][778]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.00.58:230][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-22.00.58:231][778]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 12:00:58 PM)
+[2017.11.16-22.00.58:231][778]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-22.00.58:291][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059712s)
+[2017.11.16-22.00.58:292][778]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-22.00.58:292][778]LogPlayLevel: PIE: World Init took: (0.001358s)
+[2017.11.16-22.00.58:292][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.061511s)
+[2017.11.16-22.00.58:353][778]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-22.00.58:362][778]LogInit: FAudioDevice initialized.
+[2017.11.16-22.00.58:402][778]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-22.00.58:407][778]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-17.00.58
+[2017.11.16-22.00.58:408][778]LogWorld: Bringing up level for play took: 0.004437
+[2017.11.16-22.00.58:411][778]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-22.00.58:412][778]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-22.00.58:412][778]LogBlueprintUserMessages: [HoloTest_C_0] Start
+[2017.11.16-22.00.58:412][778]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest 0.439
+[2017.11.16-22.00.58:413][778]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.00.59:447][816]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.00.59:720][827]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.00.59:982][837]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-22.01.08:725][132]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.01.08:770][132]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.01.34:835][625]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-22.01.35:692][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-22.01.35:809][638]LogSavePackage: Save=109.64ms
+[2017.11.16-22.01.35:809][638]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCamDA8B03C943537A9B8E920E8FEE84A0E8.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-22.01.35:810][638]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-22.01.37:098][697]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-22.01.37:144][697]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.01.37:144][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-22.01.37:144][697]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 12:01:37 PM)
+[2017.11.16-22.01.37:145][697]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-22.01.37:216][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071117s)
+[2017.11.16-22.01.37:219][697]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-22.01.37:219][697]LogPlayLevel: PIE: World Init took: (0.003264s)
+[2017.11.16-22.01.37:219][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.074819s)
+[2017.11.16-22.01.37:274][697]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-22.01.37:282][697]LogInit: FAudioDevice initialized.
+[2017.11.16-22.01.37:323][697]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-22.01.37:327][697]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-17.01.37
+[2017.11.16-22.01.37:328][697]LogWorld: Bringing up level for play took: 0.003869
+[2017.11.16-22.01.37:332][697]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-22.01.37:332][697]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-22.01.37:332][697]LogBlueprintUserMessages: [HoloTest_C_0] Start
+[2017.11.16-22.01.37:333][697]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest -0.643
+[2017.11.16-22.01.37:333][697]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.01.38:456][738]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.01.38:632][745]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.01.38:877][754]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-22.01.40:602][810]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.01.40:646][810]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.01.53:511][516]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-22.01.54:414][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-22.01.54:530][547]LogSavePackage: Save=109.32ms
+[2017.11.16-22.01.54:530][547]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCam9EBA4C1340D9A6206C69D4BBF630C09B.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-22.01.54:531][547]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-22.01.55:899][601]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-22.01.55:945][601]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.01.55:946][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-22.01.55:946][601]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 12:01:55 PM)
+[2017.11.16-22.01.55:946][601]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-22.01.56:001][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054864s)
+[2017.11.16-22.01.56:002][601]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-22.01.56:003][601]LogPlayLevel: PIE: World Init took: (0.001683s)
+[2017.11.16-22.01.56:003][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.057037s)
+[2017.11.16-22.01.56:073][601]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-22.01.56:082][601]LogInit: FAudioDevice initialized.
+[2017.11.16-22.01.56:118][601]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-22.01.56:123][601]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-17.01.56
+[2017.11.16-22.01.56:123][601]LogWorld: Bringing up level for play took: 0.004196
+[2017.11.16-22.01.56:127][601]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-22.01.56:128][601]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-22.01.56:128][601]LogBlueprintUserMessages: [HoloTest_C_0] Start
+[2017.11.16-22.01.56:128][601]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest 0.151
+[2017.11.16-22.01.56:129][601]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.01.57:540][656]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.01.57:656][660]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.01.57:881][668]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-22.02.00:516][758]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.02.00:601][761]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.02.01:006][775]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_1' owner of 'HexAICharacter_C_5' because it would cause an Owner loop
+[2017.11.16-22.02.02:103][807]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.02.02:148][807]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.02.03:329][859]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-22.02.03:377][859]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.02.03:377][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-22.02.03:377][859]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 12:02:03 PM)
+[2017.11.16-22.02.03:378][859]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-22.02.03:434][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056652s)
+[2017.11.16-22.02.03:436][859]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-22.02.03:436][859]LogPlayLevel: PIE: World Init took: (0.001536s)
+[2017.11.16-22.02.03:436][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.058636s)
+[2017.11.16-22.02.03:511][859]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-22.02.03:519][859]LogInit: FAudioDevice initialized.
+[2017.11.16-22.02.03:557][859]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-22.02.03:562][859]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-17.02.03
+[2017.11.16-22.02.03:562][859]LogWorld: Bringing up level for play took: 0.004122
+[2017.11.16-22.02.03:567][859]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-22.02.03:567][859]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-22.02.03:567][859]LogBlueprintUserMessages: [HoloTest_C_0] Start
+[2017.11.16-22.02.03:568][859]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest -0.409
+[2017.11.16-22.02.03:568][859]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.02.05:114][917]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.02.05:301][925]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.02.05:761][942]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-22.02.08:393][ 29]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.02.08:488][ 32]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.02.11:302][115]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.02.11:348][115]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.02.30:394][158]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-22.02.31:211][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-22.02.31:326][181]LogSavePackage: Save=108.29ms
+[2017.11.16-22.02.31:326][181]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCam8D0A13AC4E4D308B6A505A986218C816.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-22.02.31:328][181]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-22.02.32:810][229]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-22.02.32:858][229]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.02.32:858][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-22.02.32:859][229]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 12:02:32 PM)
+[2017.11.16-22.02.32:859][229]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-22.02.32:929][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070473s)
+[2017.11.16-22.02.32:932][229]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-22.02.32:933][229]LogPlayLevel: PIE: World Init took: (0.003251s)
+[2017.11.16-22.02.32:933][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.074159s)
+[2017.11.16-22.02.33:004][229]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-22.02.33:013][229]LogInit: FAudioDevice initialized.
+[2017.11.16-22.02.33:051][229]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-22.02.33:056][229]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-17.02.33
+[2017.11.16-22.02.33:057][229]LogWorld: Bringing up level for play took: 0.004372
+[2017.11.16-22.02.33:060][229]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-22.02.33:061][229]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-22.02.33:061][229]LogBlueprintUserMessages: [HoloTest_C_0] Start
+[2017.11.16-22.02.33:061][229]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest 1.083
+[2017.11.16-22.02.33:062][229]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.02.34:210][274]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.02.34:310][278]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.02.34:625][290]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-22.02.35:742][327]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.02.35:860][331]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.02.37:829][394]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.02.37:875][394]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.03.05:457][508]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-22.03.06:330][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-22.03.06:447][522]LogSavePackage: Save=109.18ms
+[2017.11.16-22.03.06:447][522]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCam3BEB59014DFC78589A022480EBE5F041.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-22.03.06:448][522]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-22.03.08:466][603]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-22.03.08:517][603]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.03.08:517][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-22.03.08:517][603]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 12:03:08 PM)
+[2017.11.16-22.03.08:518][603]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-22.03.08:571][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053627s)
+[2017.11.16-22.03.08:573][603]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-22.03.08:574][603]LogPlayLevel: PIE: World Init took: (0.002189s)
+[2017.11.16-22.03.08:574][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.056291s)
+[2017.11.16-22.03.08:639][603]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-22.03.08:647][603]LogInit: FAudioDevice initialized.
+[2017.11.16-22.03.08:686][603]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-22.03.08:691][603]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-17.03.08
+[2017.11.16-22.03.08:691][603]LogWorld: Bringing up level for play took: 0.004187
+[2017.11.16-22.03.08:695][603]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-22.03.08:696][603]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-22.03.08:696][603]LogBlueprintUserMessages: [HoloTest_C_0] Start
+[2017.11.16-22.03.08:696][603]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest 0.715
+[2017.11.16-22.03.08:696][603]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.03.09:738][642]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.03.09:820][645]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.03.10:117][656]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-22.03.18:048][924]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.03.18:090][924]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.03.19:595][991]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-22.03.19:642][991]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.03.19:642][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-22.03.19:642][991]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 12:03:19 PM)
+[2017.11.16-22.03.19:643][991]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-22.03.19:697][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054241s)
+[2017.11.16-22.03.19:698][991]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-22.03.19:699][991]LogPlayLevel: PIE: World Init took: (0.001658s)
+[2017.11.16-22.03.19:699][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.056377s)
+[2017.11.16-22.03.19:767][991]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-22.03.19:775][991]LogInit: FAudioDevice initialized.
+[2017.11.16-22.03.19:815][991]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-22.03.19:820][991]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-17.03.19
+[2017.11.16-22.03.19:820][991]LogWorld: Bringing up level for play took: 0.004080
+[2017.11.16-22.03.19:824][991]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-22.03.19:825][991]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-22.03.19:825][991]LogBlueprintUserMessages: [HoloTest_C_0] Start
+[2017.11.16-22.03.19:825][991]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest -0.156
+[2017.11.16-22.03.19:825][991]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.03.22:249][ 86]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.03.22:294][ 86]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.04.54:718][971]LogMaterial: Missing cached shader map for material CamText, compiling. 
+[2017.11.16-22.05.06:978][440]LogMaterial: Missing cached shader map for material CamText, compiling. 
+[2017.11.16-22.05.07:013][440]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.16-22.05.07:024][440]LogMaterial: Missing cached shader map for material CamText, compiling. 
+[2017.11.16-22.05.07:190][440]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.16-22.05.10:812][547]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.16-22.05.11:020][547]LogMaterial: Missing cached shader map for material CamText, compiling. 
+[2017.11.16-22.05.11:063][547]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.16-22.05.13:322][605]LogMaterialEditor: Saving and Compiling material CamText
+[2017.11.16-22.05.14:919][605]LogMaterial: Missing cached shader map for material CamText, compiling. 
+[2017.11.16-22.05.15:216][605]LogMaterial: Missing cached shader map for material CamText, compiling. 
+[2017.11.16-22.05.15:277][605]LogMaterial: Missing cached shader map for material CamText, compiling. 
+[2017.11.16-22.05.16:778][605]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CamText, compiling. 
+[2017.11.16-22.05.20:952][605]TextureStreamingBuild: Display: Compiling optional shaders took 4.184 seconds.
+[2017.11.16-22.05.26:891][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/CamText" FILE="P:/ue/Grid1/Content/ThirdPersonBP/CamText.uasset" SILENT=true
+[2017.11.16-22.05.26:940][605]LogSavePackage: Save=17.19ms
+[2017.11.16-22.05.26:940][605]LogSavePackage: Moving 'P:/ue/Grid1/Saved/CamText2DB940D54E55017ECB642C96748EC9D2.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/CamText.uasset'
+[2017.11.16-22.05.26:941][605]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/CamText.uasset
+[2017.11.16-22.05.26:966][605]MaterialEditorStats: Base pass shader: 101 instructions
+[2017.11.16-22.05.26:967][605]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2017.11.16-22.05.26:967][605]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.16-22.05.26:967][605]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.16-22.05.28:701][662]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-22.05.28:750][662]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.05.28:750][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-22.05.28:750][662]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 12:05:28 PM)
+[2017.11.16-22.05.28:750][662]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-22.05.28:812][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062212s)
+[2017.11.16-22.05.28:814][662]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-22.05.28:814][662]LogPlayLevel: PIE: World Init took: (0.001780s)
+[2017.11.16-22.05.28:815][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.064455s)
+[2017.11.16-22.05.28:888][662]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-22.05.28:896][662]LogInit: FAudioDevice initialized.
+[2017.11.16-22.05.28:937][662]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-22.05.28:941][662]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-17.05.28
+[2017.11.16-22.05.28:941][662]LogWorld: Bringing up level for play took: 0.003927
+[2017.11.16-22.05.28:946][662]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-22.05.28:946][662]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-22.05.28:946][662]LogBlueprintUserMessages: [HoloTest_C_0] Start
+[2017.11.16-22.05.28:947][662]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest 0.958
+[2017.11.16-22.05.28:947][662]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.05.31:157][754]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.05.31:381][763]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.05.31:656][774]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-22.05.33:305][829]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.05.33:347][829]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.05.36:193][965]LogEditorViewport: Clicking on Actor (LMB): TvPlayer_C (TvPlayer2)
+[2017.11.16-22.05.49:439][622]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-22.05.49:485][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.05.49:485][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-22.05.49:486][622]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 12:05:49 PM)
+[2017.11.16-22.05.49:486][622]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-22.05.49:543][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057333s)
+[2017.11.16-22.05.49:546][622]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-22.05.49:547][622]LogPlayLevel: PIE: World Init took: (0.003196s)
+[2017.11.16-22.05.49:547][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.061035s)
+[2017.11.16-22.05.49:604][622]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-22.05.49:612][622]LogInit: FAudioDevice initialized.
+[2017.11.16-22.05.49:649][622]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-22.05.49:653][622]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-17.05.49
+[2017.11.16-22.05.49:654][622]LogWorld: Bringing up level for play took: 0.003895
+[2017.11.16-22.05.49:658][622]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-22.05.49:659][622]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-22.05.49:659][622]LogBlueprintUserMessages: [HoloTest_C_0] Start
+[2017.11.16-22.05.49:659][622]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest -0.33
+[2017.11.16-22.05.49:660][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.05.51:231][685]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.05.51:349][690]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.05.51:624][701]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-22.05.53:354][760]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.05.53:398][760]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.05.59:731][964]LogMaterial: Missing cached shader map for material CamText, compiling. 
+[2017.11.16-22.05.59:769][964]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2017.11.16-22.06.04:360][184]LogMaterial: Missing cached shader map for material CamText, compiling. 
+[2017.11.16-22.06.08:897][413]LogMaterialEditor: Saving and Compiling material CamText
+[2017.11.16-22.06.10:164][413]LogMaterial: Missing cached shader map for material CamText, compiling. 
+[2017.11.16-22.06.10:281][413]LogMaterial: Missing cached shader map for material CamText, compiling. 
+[2017.11.16-22.06.10:340][413]LogMaterial: Missing cached shader map for material CamText, compiling. 
+[2017.11.16-22.06.10:463][413]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CamText, compiling. 
+[2017.11.16-22.06.16:120][413]TextureStreamingBuild: Display: Compiling optional shaders took 5.666 seconds.
+[2017.11.16-22.06.22:205][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/CamText" FILE="P:/ue/Grid1/Content/ThirdPersonBP/CamText.uasset" SILENT=true
+[2017.11.16-22.06.22:231][413]LogSavePackage: Save=18.20ms
+[2017.11.16-22.06.22:231][413]LogSavePackage: Moving 'P:/ue/Grid1/Saved/CamTextCA90D80F497E810F0CFBC792E6962E71.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/CamText.uasset'
+[2017.11.16-22.06.22:232][413]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/CamText.uasset
+[2017.11.16-22.06.22:250][413]MaterialEditorStats: Base pass shader: 102 instructions
+[2017.11.16-22.06.22:250][413]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2017.11.16-22.06.22:250][413]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.16-22.06.22:250][413]MaterialEditorStats: Texture samplers: 4/16
+[2017.11.16-22.06.22:250][413]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.16-22.06.25:384][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/HoloTest" FILE="P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/Maps/HoloTest_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.16-22.06.25:934][580]LogSavePackage: Save=350.65ms
+[2017.11.16-22.06.25:934][580]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HoloTest_Auto40FEE7EAC439AE04DC3B599A86A654266.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/Maps/HoloTest_Auto4.umap'
+[2017.11.16-22.06.25:948][580]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/ThirdPersonBP/Maps/HoloTest_Auto4.umap
+[2017.11.16-22.06.25:950][580]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/HoloTest' took 0.633
+[2017.11.16-22.06.25:950][580]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.633
+[2017.11.16-22.09.03:725][956]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-22.09.04:556][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-22.09.04:730][976]LogSavePackage: Save=110.03ms
+[2017.11.16-22.09.04:730][976]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCam5486071846F10A05D9BD3181C7BD1351.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-22.09.04:731][976]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-22.09.06:154][ 21]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-22.09.06:204][ 21]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.09.06:204][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-22.09.06:204][ 21]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 12:09:06 PM)
+[2017.11.16-22.09.06:204][ 21]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-22.09.06:265][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060858s)
+[2017.11.16-22.09.06:267][ 21]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-22.09.06:267][ 21]LogPlayLevel: PIE: World Init took: (0.002024s)
+[2017.11.16-22.09.06:268][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.064122s)
+[2017.11.16-22.09.06:330][ 21]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-22.09.06:338][ 21]LogInit: FAudioDevice initialized.
+[2017.11.16-22.09.06:376][ 21]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-22.09.06:380][ 21]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-17.09.06
+[2017.11.16-22.09.06:381][ 21]LogWorld: Bringing up level for play took: 0.003882
+[2017.11.16-22.09.06:385][ 21]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-22.09.06:386][ 21]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-22.09.06:386][ 21]LogBlueprintUserMessages: [HoloTest_C_1] Start
+[2017.11.16-22.09.06:386][ 21]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest 0.386
+[2017.11.16-22.09.06:387][ 21]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.09.07:708][ 69]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.09.07:789][ 72]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.09.08:096][ 82]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-22.09.16:856][371]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.09.16:904][371]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.12.45:600][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ATARCC_Font" FILE="P:/ue/Grid1/Content/ThirdPersonBP/ATARCC_Font.uasset" SILENT=true
+[2017.11.16-22.12.45:684][567]LogSavePackage: Save=5.75ms
+[2017.11.16-22.12.45:684][567]LogSavePackage: Moving 'P:/ue/Grid1/Saved/ATARCC_FontB75ED8224B6F3F229C36F2871CF4AB0E.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/ATARCC_Font.uasset'
+[2017.11.16-22.12.45:685][567]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/ATARCC_Font.uasset
+[2017.11.16-22.12.50:330][810]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-22.12.51:240][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-22.12.51:354][825]LogSavePackage: Save=109.16ms
+[2017.11.16-22.12.51:354][825]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCamEC7083EE4FE1D64BE989839493E8280E.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-22.12.51:356][825]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-22.12.52:311][865]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-22.12.52:358][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.12.52:358][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-22.12.52:358][865]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 12:12:52 PM)
+[2017.11.16-22.12.52:358][865]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-22.12.52:423][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064477s)
+[2017.11.16-22.12.52:424][865]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-22.12.52:425][865]LogPlayLevel: PIE: World Init took: (0.002294s)
+[2017.11.16-22.12.52:426][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.067302s)
+[2017.11.16-22.12.52:497][865]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-22.12.52:505][865]LogInit: FAudioDevice initialized.
+[2017.11.16-22.12.52:543][865]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-22.12.52:547][865]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-17.12.52
+[2017.11.16-22.12.52:548][865]LogWorld: Bringing up level for play took: 0.004153
+[2017.11.16-22.12.52:552][865]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-22.12.52:553][865]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-22.12.52:553][865]LogBlueprintUserMessages: [HoloTest_C_1] Start
+[2017.11.16-22.12.52:553][865]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest 0.547
+[2017.11.16-22.12.52:554][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.12.55:288][947]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.12.55:367][950]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.12.56:021][974]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-22.12.58:737][ 62]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.12.59:053][ 73]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.12.59:505][ 88]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_1' owner of 'HexAICharacter_C_5' because it would cause an Owner loop
+[2017.11.16-22.13.01:623][153]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.13.01:754][157]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.13.06:280][290]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.13.06:329][290]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.13.15:263][627]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-22.13.16:058][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-22.13.16:173][643]LogSavePackage: Save=107.28ms
+[2017.11.16-22.13.16:173][643]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCam511D6CF34274EEF0BE5436B40C7AAA87.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-22.13.16:174][643]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-22.13.18:137][713]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-22.13.18:185][713]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.13.18:186][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-22.13.18:186][713]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 12:13:18 PM)
+[2017.11.16-22.13.18:186][713]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-22.13.18:246][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059711s)
+[2017.11.16-22.13.18:247][713]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-22.13.18:248][713]LogPlayLevel: PIE: World Init took: (0.001641s)
+[2017.11.16-22.13.18:248][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.061811s)
+[2017.11.16-22.13.18:335][713]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-22.13.18:343][713]LogInit: FAudioDevice initialized.
+[2017.11.16-22.13.18:383][713]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-22.13.18:388][713]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-17.13.18
+[2017.11.16-22.13.18:388][713]LogWorld: Bringing up level for play took: 0.003892
+[2017.11.16-22.13.18:392][713]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-22.13.18:393][713]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-22.13.18:393][713]LogBlueprintUserMessages: [HoloTest_C_1] Start
+[2017.11.16-22.13.18:393][713]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest 0.385
+[2017.11.16-22.13.18:394][713]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.13.19:510][753]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.13.19:619][757]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.13.19:952][769]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-22.13.24:045][894]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.13.24:086][894]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.14.03:380][798]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-22.14.04:257][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-22.14.04:381][812]LogSavePackage: Save=115.51ms
+[2017.11.16-22.14.04:381][812]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCam912B7B214EB23F54B8F3D2AA8EE980A3.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-22.14.04:382][812]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-22.14.53:846][275]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-22.14.54:676][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-22.14.54:794][290]LogSavePackage: Save=110.50ms
+[2017.11.16-22.14.54:794][290]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCamA8781F324DABF1DC31C7428E9BF80706.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-22.14.54:795][290]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-22.15.49:828][166]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-22.15.50:808][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-22.15.50:934][205]LogSavePackage: Save=118.45ms
+[2017.11.16-22.15.50:934][205]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCamCBDB1B374006B944603C6286179A17DF.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-22.15.50:935][205]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-22.15.53:651][362]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-22.15.53:699][362]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.15.53:699][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-22.15.53:700][362]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 12:15:53 PM)
+[2017.11.16-22.15.53:700][362]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-22.15.53:754][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054471s)
+[2017.11.16-22.15.53:756][362]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-22.15.53:756][362]LogPlayLevel: PIE: World Init took: (0.001766s)
+[2017.11.16-22.15.53:757][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.057438s)
+[2017.11.16-22.15.53:818][362]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-22.15.53:828][362]LogInit: FAudioDevice initialized.
+[2017.11.16-22.15.53:863][362]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-22.15.53:867][362]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-17.15.53
+[2017.11.16-22.15.53:868][362]LogWorld: Bringing up level for play took: 0.003931
+[2017.11.16-22.15.53:872][362]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-22.15.53:873][362]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-22.15.53:873][362]LogBlueprintUserMessages: [HoloTest_C_1] Start
+[2017.11.16-22.15.53:873][362]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest -0.139
+[2017.11.16-22.15.53:873][362]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.15.55:005][402]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.15.55:113][406]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.15.55:391][416]LogScript: Warning: Accessed None trying to read property TextCanvas
+	HexPlayerCam_C /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.HexPlayerCam_C_0
+	Function /Game/ThirdPersonBP/HexPlayerCam.HexPlayerCam_C:UpdateText:000D
+[2017.11.16-22.15.55:391][416]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property TextCanvas from function: 'UpdateText' from node: Update Resource in graph: UpdateText in object: HexPlayerCam with description: Accessed None trying to read property TextCanvas
+[2017.11.16-22.15.55:392][416]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-22.15.57:624][489]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.15.57:718][492]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.16.00:763][587]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.16.00:917][592]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.16.02:625][646]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.16.03:399][670]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.16.10:147][869]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.16.11:097][897]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.16.13:485][965]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.16.13:584][967]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.16.14:440][992]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-22.16.17:135][ 67]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.16.17:261][ 71]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.16.18:626][114]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-22.16.20:261][167]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.16.20:308][167]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.17.20:821][  2]BlueprintLog: New page: Compile HexPlayerCam
+[2017.11.16-22.17.21:530][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-22.17.21:658][  8]LogSavePackage: Save=120.82ms
+[2017.11.16-22.17.21:658][  8]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCamC28C652C47BCC15BB2D998A06EDF93D1.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-22.17.21:659][  8]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-22.17.23:384][ 61]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-22.17.23:436][ 61]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.17.23:436][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-22.17.23:436][ 61]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 12:17:23 PM)
+[2017.11.16-22.17.23:437][ 61]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-22.17.23:495][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058816s)
+[2017.11.16-22.17.23:497][ 61]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-22.17.23:497][ 61]LogPlayLevel: PIE: World Init took: (0.001614s)
+[2017.11.16-22.17.23:498][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.060966s)
+[2017.11.16-22.17.23:585][ 61]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-22.17.23:594][ 61]LogInit: FAudioDevice initialized.
+[2017.11.16-22.17.23:633][ 61]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-22.17.23:639][ 61]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-17.17.23
+[2017.11.16-22.17.23:639][ 61]LogWorld: Bringing up level for play took: 0.004985
+[2017.11.16-22.17.23:643][ 61]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-22.17.23:644][ 61]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-22.17.23:644][ 61]LogBlueprintUserMessages: [HoloTest_C_1] Start
+[2017.11.16-22.17.23:644][ 61]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest -0.371
+[2017.11.16-22.17.23:645][ 61]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.17.24:732][ 94]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.17.24:825][ 97]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.17.25:108][106]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-22.17.27:356][175]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.17.27:385][176]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.17.31:649][296]LogBlueprintUserMessages: [CursorCharacter_C_0] Cam 0
+[2017.11.16-22.17.32:391][318]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-22.17.32:394][318]LogBlueprintUserMessages: [CursorCharacter_C_0] Cam 2
+[2017.11.16-22.17.32:982][336]LogBlueprintUserMessages: [CursorCharacter_C_0] Cam 0
+[2017.11.16-22.17.33:884][363]LogBlueprintUserMessages: [CursorCharacter_C_0] Cam 4
+[2017.11.16-22.17.34:480][381]LogBlueprintUserMessages: [CursorCharacter_C_0] Cam 0
+[2017.11.16-22.17.35:162][403]LogBlueprintUserMessages: [CursorCharacter_C_0] Lone Wolf
+[2017.11.16-22.17.35:832][424]LogBlueprintUserMessages: [CursorCharacter_C_0] Lone Wolf
+[2017.11.16-22.17.40:256][561]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.17.40:299][561]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.17.42:921][657]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-22.17.42:968][657]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.17.42:968][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-22.17.42:968][657]PIE: New page: PIE session: HoloTest (Nov 16, 2017, 12:17:42 PM)
+[2017.11.16-22.17.42:968][657]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest
+[2017.11.16-22.17.43:022][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053827s)
+[2017.11.16-22.17.43:033][657]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.16-22.17.43:033][657]LogPlayLevel: PIE: World Init took: (0.002550s)
+[2017.11.16-22.17.43:033][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/HoloTest.HoloTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest (0.065091s)
+[2017.11.16-22.17.43:091][657]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.16-22.17.43:099][657]LogInit: FAudioDevice initialized.
+[2017.11.16-22.17.43:136][657]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.16-22.17.43:141][657]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.16-17.17.43
+[2017.11.16-22.17.43:141][657]LogWorld: Bringing up level for play took: 0.004041
+[2017.11.16-22.17.43:145][657]LogBlueprintUserMessages: [CursorCharacter_C_0] Hello
+[2017.11.16-22.17.43:146][657]LogBlueprintUserMessages: [CursorCharacter_C_0] Cancelled
+[2017.11.16-22.17.43:146][657]LogBlueprintUserMessages: [HoloTest_C_1] Start
+[2017.11.16-22.17.43:146][657]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_HoloTest 1.13
+[2017.11.16-22.17.43:147][657]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.17.44:738][707]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.17.45:030][715]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.17.45:448][728]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexAICharacter_C_2' because it would cause an Owner loop
+[2017.11.16-22.17.47:566][789]LogBlueprintUserMessages: [CursorCharacter_C_0] Setting true
+[2017.11.16-22.17.47:896][799]LogBlueprintUserMessages: [CursorCharacter_C_0] SettingTarget
+[2017.11.16-22.17.49:824][853]LogBlueprintUserMessages: [CursorCharacter_C_0] Cam 3
+[2017.11.16-22.17.50:277][866]LogBlueprintUserMessages: [CursorCharacter_C_0] Cam 5
+[2017.11.16-22.17.50:675][877]LogBlueprintUserMessages: [CursorCharacter_C_0] Cam 0
+[2017.11.16-22.17.50:897][883]LogBlueprintUserMessages: [CursorCharacter_C_0] Cam 5
+[2017.11.16-22.17.51:088][888]LogBlueprintUserMessages: [CursorCharacter_C_0] Cam 1
+[2017.11.16-22.17.51:265][893]LogBlueprintUserMessages: [CursorCharacter_C_0] Cam 0
+[2017.11.16-22.17.51:496][899]LogBlueprintUserMessages: [CursorCharacter_C_0] Cam 3
+[2017.11.16-22.17.51:793][907]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.17.51:839][907]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.16-22.17.56:194][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/HexPlayerCam" FILE="P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset" SILENT=true
+[2017.11.16-22.17.56:320][ 73]LogSavePackage: Save=120.23ms
+[2017.11.16-22.17.56:320][ 73]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexPlayerCam0E2F0E084983B7197B193A902D78583B.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset'
+[2017.11.16-22.17.56:321][ 73]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/HexPlayerCam.uasset
+[2017.11.16-22.18.01:381][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/HoloTest" FILE="P:/ue/Grid1/Content/ThirdPersonBP/Maps/HoloTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.16-22.18.01:965][156]LogSavePackage: Save=352.25ms
+[2017.11.16-22.18.01:965][156]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HoloTestE95811E74E13DCBCA5ED198747373961.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/Maps/HoloTest.umap'
+[2017.11.16-22.18.01:976][156]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/Maps/HoloTest.umap
+[2017.11.16-22.18.02:046][156]LogFileHelpers: Saving map 'HoloTest' took 2.669
+[2017.11.16-22.18.02:061][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/TvTextFeed" FILE="P:/ue/Grid1/Content/ThirdPersonBP/TvTextFeed.uasset" SILENT=true
+[2017.11.16-22.18.02:068][156]LogSavePackage: Save=5.76ms
+[2017.11.16-22.18.02:068][156]LogSavePackage: Moving 'P:/ue/Grid1/Saved/TvTextFeedD520E1B04B72226E2FB1E896E9373CB5.tmp' to 'P:/ue/Grid1/Content/ThirdPersonBP/TvTextFeed.uasset'
+[2017.11.16-22.18.02:069][156]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/ThirdPersonBP/TvTextFeed.uasset
+[2017.11.16-22.18.03:672][284]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.16-22.18.04:449][285]Cmd: QUIT_EDITOR
+[2017.11.16-22.18.04:650][285]LogExit: Preparing to exit.
+[2017.11.16-22.18.05:815][285]LogExit: Editor shut down
+[2017.11.16-22.18.05:834][285]LogExit: Transaction tracking system shut down
+[2017.11.16-22.18.06:246][285]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.16-22.18.06:246][285]LogDirectoryWatcher: A directory notification for 'P:/ue/Grid1/Content/' was aborted.
+[2017.11.16-22.18.06:246][285]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.16-22.18.06:246][285]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.11.16-22.18.06:246][285]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.11.16-22.18.06:246][285]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.16-22.18.06:247][285]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.16-22.18.07:286][285]LogExit: Object subsystem successfully closed.
+[2017.11.16-22.18.07:571][285]LogD3D11RHI: Shutdown
+[2017.11.16-22.18.07:572][285]LogD3D11RHI: CleanupD3DDevice
+[2017.11.16-22.18.07:787][285]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.16-22.18.08:193][285]LogModuleManager: Shutting down and abandoning module TextureEditor (562)
+[2017.11.16-22.18.08:202][285]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (560)
+[2017.11.16-22.18.08:203][285]LogModuleManager: Shutting down and abandoning module MaterialEditor (558)
+[2017.11.16-22.18.08:203][285]LogModuleManager: Shutting down and abandoning module FontEditor (556)
+[2017.11.16-22.18.08:204][285]LogModuleManager: Shutting down and abandoning module BlueprintGraph (554)
+[2017.11.16-22.18.08:204][285]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2017.11.16-22.18.08:204][285]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (550)
+[2017.11.16-22.18.08:204][285]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2017.11.16-22.18.08:204][285]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.11.16-22.18.08:204][285]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.11.16-22.18.08:211][285]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.11.16-22.18.08:324][285]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.11.16-22.18.08:324][285]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.11.16-22.18.08:324][285]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.11.16-22.18.08:332][285]LogDirectoryWatcher: A directory notification for 'P:/ue/Grid1/Content/Collections/' was aborted.
+[2017.11.16-22.18.08:333][285]LogDirectoryWatcher: A directory notification for 'P:/ue/Grid1/Content/Developers/amascaro/Collections/' was aborted.
+[2017.11.16-22.18.08:333][285]LogDirectoryWatcher: A directory notification for 'P:/ue/Grid1/Saved/Collections/' was aborted.
+[2017.11.16-22.18.08:335][285]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.11.16-22.18.08:340][285]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.11.16-22.18.08:341][285]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.11.16-22.18.08:361][285]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.11.16-22.18.08:363][285]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.11.16-22.18.08:363][285]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.11.16-22.18.08:363][285]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.11.16-22.18.08:363][285]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.11.16-22.18.08:363][285]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.11.16-22.18.08:365][285]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.11.16-22.18.08:366][285]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.11.16-22.18.08:368][285]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.11.16-22.18.08:369][285]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.11.16-22.18.08:372][285]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.11.16-22.18.08:374][285]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.11.16-22.18.08:394][285]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.11.16-22.18.08:394][285]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.11.16-22.18.08:394][285]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.11.16-22.18.08:394][285]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.11.16-22.18.08:394][285]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.11.16-22.18.08:395][285]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.11.16-22.18.08:396][285]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.11.16-22.18.08:396][285]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.11.16-22.18.08:396][285]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.11.16-22.18.08:396][285]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.11.16-22.18.08:396][285]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.11.16-22.18.08:396][285]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.11.16-22.18.08:406][285]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.11.16-22.18.08:407][285]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.11.16-22.18.08:408][285]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.11.16-22.18.08:408][285]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.11.16-22.18.08:408][285]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.11.16-22.18.08:408][285]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.11.16-22.18.08:423][285]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.11.16-22.18.08:430][285]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.11.16-22.18.08:552][285]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.11.16-22.18.08:647][285]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.11.16-22.18.08:707][285]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.11.16-22.18.08:707][285]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.11.16-22.18.08:707][285]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.11.16-22.18.08:707][285]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.11.16-22.18.08:759][285]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.11.16-22.18.08:759][285]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.11.16-22.18.08:759][285]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.11.16-22.18.08:759][285]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.11.16-22.18.08:763][285]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.11.16-22.18.08:806][285]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.11.16-22.18.08:806][285]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.11.16-22.18.08:828][285]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.11.16-22.18.08:828][285]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.11.16-22.18.08:844][285]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.11.16-22.18.08:845][285]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.11.16-22.18.08:845][285]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.11.16-22.18.08:845][285]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.11.16-22.18.08:846][285]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.11.16-22.18.08:847][285]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.11.16-22.18.08:847][285]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.11.16-22.18.08:847][285]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.11.16-22.18.08:847][285]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.11.16-22.18.08:848][285]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.11.16-22.18.08:849][285]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.11.16-22.18.08:858][285]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.11.16-22.18.08:862][285]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.11.16-22.18.08:863][285]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.11.16-22.18.08:867][285]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.11.16-22.18.08:922][285]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.11.16-22.18.08:929][285]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.11.16-22.18.08:936][285]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.11.16-22.18.08:937][285]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.11.16-22.18.08:937][285]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.11.16-22.18.08:938][285]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.11.16-22.18.08:938][285]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.11.16-22.18.08:944][285]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.11.16-22.18.08:944][285]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.11.16-22.18.08:944][285]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.11.16-22.18.08:983][285]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.11.16-22.18.08:986][285]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.11.16-22.18.08:986][285]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.11.16-22.18.08:986][285]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.11.16-22.18.08:994][285]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.11.16-22.18.08:996][285]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.11.16-22.18.08:998][285]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.11.16-22.18.09:004][285]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.11.16-22.18.09:004][285]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.11.16-22.18.09:005][285]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.11.16-22.18.09:005][285]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.11.16-22.18.09:005][285]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.11.16-22.18.09:005][285]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.11.16-22.18.09:005][285]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.11.16-22.18.09:005][285]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.11.16-22.18.09:005][285]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.11.16-22.18.09:005][285]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.11.16-22.18.09:007][285]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.11.16-22.18.09:012][285]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2017.11.16-22.18.09:014][285]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2017.11.16-22.18.09:224][285]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2017.11.16-22.18.09:231][285]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2017.11.16-22.18.09:231][285]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2017.11.16-22.18.09:231][285]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2017.11.16-22.18.09:231][285]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2017.11.16-22.18.09:232][285]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2017.11.16-22.18.09:232][285]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2017.11.16-22.18.09:232][285]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2017.11.16-22.18.09:233][285]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2017.11.16-22.18.09:233][285]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2017.11.16-22.18.09:233][285]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2017.11.16-22.18.09:233][285]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2017.11.16-22.18.09:242][285]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2017.11.16-22.18.09:242][285]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2017.11.16-22.18.09:242][285]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2017.11.16-22.18.09:242][285]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2017.11.16-22.18.09:244][285]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2017.11.16-22.18.09:244][285]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2017.11.16-22.18.09:245][285]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2017.11.16-22.18.09:245][285]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2017.11.16-22.18.09:245][285]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2017.11.16-22.18.09:255][285]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2017.11.16-22.18.09:258][285]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2017.11.16-22.18.09:258][285]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2017.11.16-22.18.09:258][285]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2017.11.16-22.18.09:258][285]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2017.11.16-22.18.09:262][285]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2017.11.16-22.18.09:265][285]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2017.11.16-22.18.09:270][285]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2017.11.16-22.18.09:274][285]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2017.11.16-22.18.09:274][285]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2017.11.16-22.18.09:274][285]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2017.11.16-22.18.09:274][285]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2017.11.16-22.18.09:282][285]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2017.11.16-22.18.09:285][285]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2017.11.16-22.18.09:294][285]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2017.11.16-22.18.09:295][285]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2017.11.16-22.18.09:296][285]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2017.11.16-22.18.09:304][285]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.11.16-22.18.09:306][285]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.11.16-22.18.09:306][285]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.11.16-22.18.09:306][285]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.11.16-22.18.09:306][285]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.11.16-22.18.09:306][285]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.11.16-22.18.09:306][285]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.11.16-22.18.09:308][285]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.11.16-22.18.09:408][285]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.11.16-22.18.09:508][285]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.11.16-22.18.09:512][285]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.11.16-22.18.09:512][285]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.11.16-22.18.09:512][285]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.11.16-22.18.09:519][285]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.11.16-22.18.09:519][285]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.11.16-22.18.09:527][285]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.11.16-22.18.09:527][285]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.11.16-22.18.09:527][285]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.11.16-22.18.09:530][285]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.11.16-22.18.09:545][285]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.11.16-22.18.09:545][285]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.11.16-22.18.09:547][285]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.11.16-22.18.09:547][285]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.11.16-22.18.09:553][285]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.11.16-22.18.09:553][285]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.11.16-22.18.09:558][285]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.11.16-22.18.09:558][285]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.11.16-22.18.09:558][285]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.11.16-22.18.09:564][285]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.11.16-22.18.09:564][285]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.11.16-22.18.09:564][285]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.11.16-22.18.09:572][285]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.11.16-22.18.09:573][285]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.11.16-22.18.09:576][285]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.11.16-22.18.09:576][285]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.11.16-22.18.09:581][285]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.11.16-22.18.09:588][285]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.11.16-22.18.09:594][285]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.11.16-22.18.09:594][285]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.11.16-22.18.09:602][285]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.11.16-22.18.09:602][285]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.11.16-22.18.09:623][285]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.11.16-22.18.09:623][285]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.11.16-22.18.09:623][285]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.11.16-22.18.09:623][285]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.11.16-22.18.09:623][285]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.11.16-22.18.09:623][285]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.11.16-22.18.09:623][285]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.11.16-22.18.09:623][285]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.11.16-22.18.09:781][285]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.16-22.18.09:781][285]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.11.16-22.18.09:787][285]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.11.16-22.18.09:793][285]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.11.16-22.18.09:795][285]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.11.16-22.18.09:804][285]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.11.16-22.18.09:805][285]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.11.16-22.18.09:809][285]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.11.16-22.18.09:810][285]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.11.16-22.18.09:894][285]LogDerivedDataCache: Shutdown
+[2017.11.16-22.18.09:894][285]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.11.16-22.18.09:895][285]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.11.16-22.18.09:898][285]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.11.16-22.18.09:900][285]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.11.16-22.18.09:903][285]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.11.16-22.18.09:904][285]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.11.16-22.18.09:906][285]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.11.16-22.18.09:907][285]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.11.16-22.18.09:909][285]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.11.16-22.18.09:909][285]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.11.16-22.18.09:913][285]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.11.16-22.18.09:914][285]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.11.16-22.18.09:914][285]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.11.16-22.18.09:915][285]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.11.16-22.18.09:916][285]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.11.16-22.18.09:918][285]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.11.16-22.18.09:920][285]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.11.16-22.18.09:920][285]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.11.16-22.18.09:920][285]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.11.16-22.18.09:921][285]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.11.16-22.18.09:921][285]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.11.16-22.18.09:922][285]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.11.16-22.18.09:922][285]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.11.16-22.18.09:922][285]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.11.16-22.18.09:922][285]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.11.16-22.18.09:922][285]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.11.16-22.18.09:922][285]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.11.16-22.18.09:923][285]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.11.16-22.18.09:923][285]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.11.16-22.18.09:923][285]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.11.16-22.18.09:923][285]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.11.16-22.18.09:923][285]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.11.16-22.18.09:923][285]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.11.16-22.18.09:924][285]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.11.16-22.18.09:925][285]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.11.16-22.18.09:927][285]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.11.16-22.18.09:928][285]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.11.16-22.18.09:928][285]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.11.16-22.18.09:928][285]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.11.16-22.18.09:929][285]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.11.16-22.18.09:931][285]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.11.16-22.18.09:931][285]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.11.16-22.18.09:931][285]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.11.16-22.18.09:931][285]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.11.16-22.18.09:931][285]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.11.16-22.18.09:931][285]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.11.16-22.18.09:932][285]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.11.16-22.18.09:934][285]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.11.16-22.18.09:934][285]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.11.16-22.18.09:934][285]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.16-22.18.09:934][285]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.16-22.18.09:936][285]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.16-22.18.09:942][285]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.16-22.18.09:943][285]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2017.11.16-22.18.09:945][285]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4E58C9B0-441B-4D17-CBE8-B598683CF10A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.0-3709383%2B%2B%2BUE4%2BRelease-4.18&UserID=4f0a3a99469ca09abd37c3ace8bc4d91%7C38ce983a56b349eea0381e2250859ea7%7Cba7f5408-d561-49f1-9b7d-e9be7995aa9d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.16-22.18.09:945][285]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4E58C9B0-441B-4D17-CBE8-B598683CF10A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.0-3709383%2B%2B%2BUE4%2BRelease-4.18&UserID=4f0a3a99469ca09abd37c3ace8bc4d91%7C38ce983a56b349eea0381e2250859ea7%7Cba7f5408-d561-49f1-9b7d-e9be7995aa9d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.16-22.18.09:983][285]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.16-22.18.10:016][285]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.16-22.18.10:019][285]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.16-22.18.10:020][285]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.16-22.18.10:020][285]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.16-22.18.10:036][285]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.16-22.18.10:036][285]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.16-22.18.10:036][285]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.16-22.18.10:065][285]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.16-22.18.10:067][285]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.16-22.18.10:067][285]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.16-22.18.10:068][285]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.16-22.18.10:068][285]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.16-22.18.10:068][285]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.16-22.18.10:068][285]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.16-22.18.10:069][285]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.16-22.18.10:070][285]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.16-22.18.10:070][285]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.16-22.18.10:070][285]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.16-22.18.10:084][285]LogExit: Exiting.
+[2017.11.16-22.18.10:190][285]Log file closed, 11/16/17 17:18:10
