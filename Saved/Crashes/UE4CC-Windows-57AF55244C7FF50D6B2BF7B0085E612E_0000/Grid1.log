@@ -1,0 +1,1021 @@
+﻿Log file open, 11/18/17 11:27:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Grid1
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-302401785) SRandInit(-302401785).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3709383, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.598240
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3709383
+LogInit: Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Oct 20 2017 10:39:19
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.18-16.27.51:466][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.18-16.27.51:466][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.18-16.27.51:482][  0]LogInit: Computer: AMASCARO2-PC
+[2017.11.18-16.27.51:482][  0]LogInit: User: amascaro
+[2017.11.18-16.27.51:482][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.11.18-16.27.51:482][  0]LogInit: High frequency timer resolution =2.597675 MHz
+[2017.11.18-16.27.51:483][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2017.11.18-16.27.51:483][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.18-16.27.51:483][  0]LogMemory: Process Physical Memory: 271.42 MB used, 271.42 MB peak
+[2017.11.18-16.27.51:483][  0]LogMemory: Process Virtual Memory: 263.85 MB used, 263.85 MB peak
+[2017.11.18-16.27.51:483][  0]LogMemory: Physical Memory: 2256.37 MB used,  1773.25 MB free, 4029.62 MB total
+[2017.11.18-16.27.51:483][  0]LogMemory: Virtual Memory: 607.07 MB used,  1773.25 MB free, 8388608.00 MB total
+[2017.11.18-16.27.51:829][  0]LogInit: Using OS detected language (en-US).
+[2017.11.18-16.27.51:829][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.18-16.27.51:838][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.18-16.27.52:571][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2017.11.18-16.27.52:571][  0]LogWindows: File 'shcore.dll' does not exist
+[2017.11.18-16.27.52:571][  0]LogInit: Setting process to DPI aware
+[2017.11.18-16.27.52:580][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2017.11.18-16.27.52:580][  0]LogWindows: File 'shcore.dll' does not exist
+[2017.11.18-16.27.52:580][  0]LogInit: Setting process to DPI aware
+[2017.11.18-16.27.53:099][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.18-16.27.53:136][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660' (Feature Level 11_0)
+[2017.11.18-16.27.53:136][  0]LogD3D11RHI:       1988/0/1758 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.18-16.27.53:136][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.18-16.27.53:146][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.18-16.27.53:146][  0]LogD3D11RHI:     GPU DeviceId: 0x11c0 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.18-16.27.53:146][  0]LogWindows: EnumDisplayDevices:
+[2017.11.18-16.27.53:147][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660' (P:1 D:1)
+[2017.11.18-16.27.53:147][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2017.11.18-16.27.53:147][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2017.11.18-16.27.53:147][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2017.11.18-16.27.53:148][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2017.11.18-16.27.53:148][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.11.18-16.27.53:148][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.11.18-16.27.53:148][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.11.18-16.27.53:148][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660
+[2017.11.18-16.27.53:148][  0]LogD3D11RHI:   Driver Version: 387.92 (internal:23.21.13.8792, unified:387.92)
+[2017.11.18-16.27.53:148][  0]LogD3D11RHI:      Driver Date: 10-6-2017
+[2017.11.18-16.27.53:148][  0]LogRHI: Texture pool is 1391 MB (70% of 1988 MB)
+[2017.11.18-16.27.53:166][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.18-16.27.53:199][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.11.18-16.27.53:205][  0]LogShaderCompilers: Guid format shader working directory is 37 characters bigger than the processId version (P:/ue/Grid1/Intermediate/Shaders/WorkingDirectory/17396/).
+[2017.11.18-16.27.53:205][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/amascaro/AppData/Local/Temp/UnrealShaderWorkingDir/8A654A8345FABE3D0E91988D9022EAA0/'.
+[2017.11.18-16.27.53:206][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.18-16.27.55:322][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.18-16.27.55:415][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.18-16.27.55:508][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.18-16.27.55:602][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.18-16.27.55:695][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.18-16.27.55:788][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.18-16.27.55:881][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.18-16.27.55:973][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.18-16.27.56:053][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.18-16.27.56:145][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.18-16.27.56:239][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.18-16.27.56:331][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.18-16.27.56:425][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.18-16.27.56:518][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.18-16.27.56:709][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.18-16.27.56:709][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.18-16.27.56:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.18-16.27.56:890][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.18-16.27.57:263][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.18-16.27.57:331][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.18-16.27.57:540][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.18-16.27.57:980][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.18-16.27.58:130][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.18-16.27.58:287][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.18-16.27.58:287][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.18-16.27.59:278][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.18-16.27.59:805][  0]LogDerivedDataCache: Loaded boot cache 0.53s 78MB C:/Users/amascaro/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.18-16.27.59:805][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/amascaro/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.18-16.27.59:805][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file P:/ue/Grid1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.18-16.27.59:805][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.18-16.27.59:805][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file P:/ue/Grid1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.18-16.27.59:805][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.18-16.27.59:847][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.18-16.27.59:860][  0]LogDerivedDataCache: Using Local data cache path C:/Users/amascaro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.18-16.27.59:886][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.18-16.27.59:891][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.18-16.27.59:894][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.18-16.27.59:894][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.18-16.28.00:953][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.18-16.28.01:939][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.18-16.28.02:024][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.18-16.28.02:024][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.18-16.28.02:025][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.18-16.28.02:025][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.18-16.28.02:025][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.18-16.28.02:089][  0]LogNetVersion: Grid1 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1394303240)
+[2017.11.18-16.28.02:667][  0]LogAssetRegistry: FAssetRegistry took 0.0631 seconds to start up
+[2017.11.18-16.28.03:941][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.084513 seconds
+[2017.11.18-16.28.03:955][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.11.18-16.28.03:955][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.11.18-16.28.03:955][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.18-16.28.04:064][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.18-16.28.10:785][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.18-16.28.10:846][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.18-16.28.12:081][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.18-16.28.12:813][  0]SourceControl: Source control is disabled
+[2017.11.18-16.28.12:813][  0]SourceControl: Source control is disabled
+[2017.11.18-16.28.12:908][  0]SourceControl: Source control is disabled
+[2017.11.18-16.28.12:999][  0]SourceControl: Source control is disabled
+[2017.11.18-16.28.14:432][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.18-16.28.14:882][  0]LogOcInput: OculusInput pre-init called
+[2017.11.18-16.28.15:418][  0]LogEngine: Initializing Engine...
+[2017.11.18-16.28.15:423][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.18-16.28.15:933][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.18-16.28.15:934][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.18-16.28.16:194][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.18-16.28.16:224][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.18-16.28.16:253][  0]LogInit: FAudioDevice initialized.
+[2017.11.18-16.28.16:411][  0]LogDerivedDataCache: Saved boot cache 0.16s 78MB C:/Users/amascaro/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.18-16.28.16:446][  0]LogInit: Texture streaming: Enabled
+[2017.11.18-16.28.16:624][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.18-16.28.16:851][  0]LogInit: Transaction tracking system initialized
+[2017.11.18-16.28.17:420][  0]BlueprintLog: New page: Editor Load
+[2017.11.18-16.28.19:071][  0]LocalizationService: Localization service is disabled
+[2017.11.18-16.28.20:076][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2017.11.18-16.28.20:076][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2017.11.18-16.28.20:077][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2017.11.18-16.28.20:475][  0]LogConsoleResponse: Display: 
+[2017.11.18-16.28.20:808][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.18-16.28.20:808][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.18-16.28.20:808][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.18-16.28.21:133][  0]LogFileCache: Scanning file cache for directory 'P:/ue/Grid1/Content/' took 0.02s
+[2017.11.18-16.28.22:886][  0]SourceControl: Source control is disabled
+[2017.11.18-16.28.22:889][  0]Cmd: MAP LOAD FILE="P:/ue/Grid1/Content/Maps/HoloTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.18-16.28.22:959][  0]LightingResults: New page: Lighting Build
+[2017.11.18-16.28.23:035][  0]MapCheck: New page: Map Check
+[2017.11.18-16.28.23:035][  0]LightingResults: New page: Lighting Build
+[2017.11.18-16.28.27:709][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.18-16.28.29:171][  0]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.18-16.28.29:205][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.18-16.28.29:249][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.18-16.28.29:342][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 93.603ms to complete.
+[2017.11.18-16.28.29:342][  0]LogFileHelpers: Loading map 'HoloTest' took 6.454
+[2017.11.18-16.28.29:475][  0]LogCollectionManager: Loaded 0 collections in 0.002550 seconds
+[2017.11.18-16.28.29:602][  0]LogFileCache: Scanning file cache for directory 'P:/ue/Grid1/Saved/Collections/' took 0.01s
+[2017.11.18-16.28.29:602][  0]LogFileCache: Scanning file cache for directory 'P:/ue/Grid1/Content/Developers/amascaro/Collections/' took 0.01s
+[2017.11.18-16.28.29:602][  0]LogFileCache: Scanning file cache for directory 'P:/ue/Grid1/Content/Collections/' took 0.01s
+[2017.11.18-16.28.29:602][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.18-16.28.29:621][  0]LogContentBrowser: Native class hierarchy populated in 0.0173 seconds. Added 2363 classes and 519 folders.
+[2017.11.18-16.28.29:737][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.11.18-16.28.29:862][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.11.18-16.28.30:055][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.11.18-16.28.30:270][  0]LogSlate: Took 0.001193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.18-16.28.30:275][  0]LogSlate: Took 0.001502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.18-16.28.30:276][  0]LogSlate: Took 0.001283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.18-16.28.30:312][  0]LogSlate: Took 0.001735 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.18-16.28.30:522][  0]LogRenderer: Reallocating scene render targets to support 1064x912 Format 10 NumSamples 1 (Frame:1).
+[2017.11.18-16.28.30:944][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.11.18-16.28.30:944][  0]LogLoad: (Engine Initialization) Total time: 44.25 seconds
+[2017.11.18-16.28.30:944][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.18-16.28.30:944][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.18-16.28.31:293][  0]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.11.18-16.28.31:296][  0]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-16.28.31:296][  0]LogMaterial: 	Missing Preview connection for function input 'Base Material'
+[2017.11.18-16.28.31:296][  0]LogMaterial: 	Missing Preview connection for function input 'Top Material'
+[2017.11.18-16.28.31:333][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.18-16.28.31:984][  2]LogAssetRegistry: Asset discovery search completed in 29.3564 seconds
+[2017.11.18-16.28.31:989][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.18-16.28.31:989][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000096 seconds (updated 0 objects)
+[2017.11.18-16.28.32:286][  3]LogBlueprintUserMessages: [HexInfantrySquadAI_C_0] Infantry
+[2017.11.18-16.35.22:323][ 18]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.18-16.35.22:570][ 18]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.18-16.35.22:571][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.18-16.35.22:577][ 18]PIE: New page: PIE session: HoloTest (Nov 18, 2017, 6:35:22 AM)
+[2017.11.18-16.35.22:577][ 18]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_HoloTest
+[2017.11.18-16.35.22:666][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088712s)
+[2017.11.18-16.35.22:668][ 18]LogAIModule: Creating AISystem for world HoloTest
+[2017.11.18-16.35.22:668][ 18]LogPlayLevel: PIE: World Init took: (0.001584s)
+[2017.11.18-16.35.22:668][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/HoloTest.HoloTest to /Game/Maps/UEDPIE_0_HoloTest.HoloTest (0.091065s)
+[2017.11.18-16.35.22:719][ 18]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.18-16.35.22:727][ 18]LogInit: FAudioDevice initialized.
+[2017.11.18-16.35.22:780][ 18]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.18-16.35.22:789][ 18]LogWorld: Bringing World /Game/Maps/UEDPIE_0_HoloTest.HoloTest up for play (max tick rate 0) at 2017.11.18-11.35.22
+[2017.11.18-16.35.22:791][ 18]LogWorld: Bringing up level for play took: 0.005476
+[2017.11.18-16.35.22:877][ 18]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2017.11.18-16.35.22:885][ 18]LogBlueprintUserMessages: [HoloTest_C_1] Start
+[2017.11.18-16.35.22:886][ 18]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_HoloTest 0.902
+[2017.11.18-16.35.22:887][ 18]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.18-16.35.22:964][ 19]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.055376 > MaxSimulationTimeStep (0.050) for 'CursorCharacter_C_0', movement 'Walking'
+[2017.11.18-16.35.25:564][179]LogBlueprintUserMessages: [HexInfantrySquadAI_C_0] Infantry
+[2017.11.18-16.35.25:611][179]LogBlueprintUserMessages: [HexInfantrySquadAI_C_1] Infantry
+[2017.11.18-16.35.25:649][179]LogBlueprintUserMessages: [HexInfantrySquadAI_C_2] Infantry
+[2017.11.18-16.35.25:684][179]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexInfantrySquadAI_C_2' because it would cause an Owner loop
+[2017.11.18-16.35.43:461][ 49]Cmd: ai.crowd.DebugVisLog
+[2017.11.18-16.35.43:465][ 49]ai.crowd.DebugVisLog = "0"      LastSetBy: Constructor
+[2017.11.18-16.35.53:051][521]LogBlueprintUserMessages: [HexInfantrySquadAI_C_3] Infantry
+[2017.11.18-16.35.53:094][521]LogBlueprintUserMessages: [HexInfantrySquadAI_C_4] Infantry
+[2017.11.18-16.35.53:129][521]LogBlueprintUserMessages: [HexInfantrySquadAI_C_5] Infantry
+[2017.11.18-16.36.07:477][174]Cmd: AILoggingVerbose
+[2017.11.18-16.36.07:478][174]Cmd: log lognavigation verbose 
+[2017.11.18-16.36.07:479][174]LogNavigation                             Verbose       
+[2017.11.18-16.36.07:479][174]Cmd: log logpathfollowing verbose 
+[2017.11.18-16.36.07:479][174]LogPathFollowing                          Verbose       
+[2017.11.18-16.36.07:479][174]Cmd: log LogCharacter verbose 
+[2017.11.18-16.36.07:479][174]LogCharacter                              Verbose       
+[2017.11.18-16.36.07:479][174]Cmd: log LogBehaviorTree verbose 
+[2017.11.18-16.36.07:480][174]LogBehaviorTree                           Verbose       
+[2017.11.18-16.36.07:480][174]Cmd: log LogPawnAction verbose
+[2017.11.18-16.36.07:481][174]LogPawnAction                             Verbose       
+[2017.11.18-16.36.16:907][661]LogBlueprintUserMessages: [HexInfantrySquadAI_C_6] Infantry
+[2017.11.18-16.36.16:928][661]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_6' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-16.36.16:931][661]LogBlueprintUserMessages: [HexInfantrySquadAI_C_7] Infantry
+[2017.11.18-16.36.16:956][661]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_7' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-16.36.16:958][661]LogBlueprintUserMessages: [HexInfantrySquadAI_C_8] Infantry
+[2017.11.18-16.36.16:983][661]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_8' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-16.36.18:394][723]LogBlueprintUserMessages: [HexInfantrySquadAI_C_9] Infantry
+[2017.11.18-16.36.18:426][723]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_9' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-16.36.18:429][723]LogBlueprintUserMessages: [HexInfantrySquadAI_C_10] Infantry
+[2017.11.18-16.36.18:455][723]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_10' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-16.36.18:458][723]LogBlueprintUserMessages: [HexInfantrySquadAI_C_11] Infantry
+[2017.11.18-16.36.18:484][723]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_11' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-16.36.20:536][801]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.HexVehicleAI_C_0.CharacterMesh0'
+[2017.11.18-16.36.20:563][801]LogCharacter: Verbose: Setting base on Server for 'HexVehicleAI_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-16.36.25:240][975]LogBlueprintUserMessages: [HexInfantrySquadAI_C_12] Infantry
+[2017.11.18-16.36.25:262][975]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_12' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-16.36.25:264][975]LogBlueprintUserMessages: [HexInfantrySquadAI_C_13] Infantry
+[2017.11.18-16.36.25:288][975]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_13' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-16.36.25:291][975]LogBlueprintUserMessages: [HexInfantrySquadAI_C_14] Infantry
+[2017.11.18-16.36.25:313][975]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_14' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-16.36.26:637][ 21]LogBlueprintUserMessages: [HexInfantrySquadAI_C_15] Infantry
+[2017.11.18-16.36.26:662][ 21]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_15' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-16.36.26:665][ 21]LogBlueprintUserMessages: [HexInfantrySquadAI_C_16] Infantry
+[2017.11.18-16.36.26:684][ 21]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_16' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-16.36.26:687][ 21]LogBlueprintUserMessages: [HexInfantrySquadAI_C_17] Infantry
+[2017.11.18-16.36.26:708][ 21]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_17' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-16.36.28:809][ 88]LogBlueprintUserMessages: [HexInfantrySquadAI_C_18] Infantry
+[2017.11.18-16.36.28:836][ 88]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_18' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-16.36.28:839][ 88]LogBlueprintUserMessages: [HexInfantrySquadAI_C_19] Infantry
+[2017.11.18-16.36.28:866][ 88]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_19' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-16.36.28:872][ 88]LogBlueprintUserMessages: [HexInfantrySquadAI_C_20] Infantry
+[2017.11.18-16.36.28:902][ 88]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_20' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-16.36.32:997][203]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.HexVehicleAI_C_1.CharacterMesh0'
+[2017.11.18-16.36.33:022][203]LogCharacter: Verbose: Setting base on Server for 'HexVehicleAI_C_1' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_HoloTest.HoloTest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-16.36.56:249][137]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.18-16.36.56:265][137]LogNavigation: UNavigationSystem::CleanUp
+[2017.11.18-16.36.56:299][137]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/HoloTest.HoloTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest' with GeneratedClass '/Game/Maps/HoloTest.HoloTest_C' with ClassGeneratedBy '/Game/Maps/HoloTest.HoloTest:PersistentLevel.HoloTest'
+[2017.11.18-16.36.56:347][137]LogNavigation: UNavigationSystem::CleanUp
+[2017.11.18-16.38.26:092][114]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.18-16.38.26:720][114]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.18-16.38.26:856][114]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 116 classes and 0 folders.
+[2017.11.18-16.38.28:424][114]LogSlate: Took 0.002737 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.18-16.38.29:025][115]LogSlate: Took 0.001363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.18-16.39.58:951][312]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.18-16.46.27:709][576]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.11.18-16.46.27:714][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:714][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:714][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:715][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:715][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:715][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:715][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:715][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:715][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:715][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:715][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:715][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:715][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:715][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:715][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:715][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:715][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:716][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:716][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:716][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:716][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:716][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:716][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:716][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:716][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:716][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:716][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:716][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:716][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:716][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:716][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:717][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:717][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:717][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:717][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:717][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:717][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:717][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:717][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:717][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:720][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:722][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:722][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:722][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:722][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:722][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:722][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:723][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:723][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:725][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:725][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:725][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:725][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:725][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:725][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:725][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:725][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:726][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:726][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:726][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:726][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:726][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:726][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:726][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:726][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:726][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:726][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:726][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:726][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:726][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:727][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:727][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:727][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:727][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:727][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:727][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:727][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:727][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:727][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:727][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:727][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:727][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:727][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:728][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:728][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:728][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:728][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:728][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:728][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:731][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:733][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:733][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:733][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:733][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:733][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:733][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:734][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-16.46.27:734][576]LogVSAccessor: Warning: Couldn't access module table
+[2017.11.18-17.03.28:381][419]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2017.11.18-17.04.25:229][603]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/HoloTest' took 0.043
+[2017.11.18-17.04.25:234][603]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/HexAICtrl] ([1] browsable assets)...
+[2017.11.18-17.04.25:234][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/HexAICtrl]
+[2017.11.18-17.04.25:234][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/HexAICtrl" FILE="P:/ue/Grid1/Saved/Autosaves/Game/AI/HexAICtrl_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.11.18-17.04.25:483][603]LogSavePackage: Save=135.03ms
+[2017.11.18-17.04.25:483][603]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexAICtrl_Auto1B136A37040D7BA7E9E040EAEFE9EF3CB.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/AI/HexAICtrl_Auto1.uasset'
+[2017.11.18-17.04.25:515][603]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/AI/HexAICtrl_Auto1.uasset
+[2017.11.18-17.04.25:515][603]LogFileHelpers: Auto-saving content packages took 0.284
+[2017.11.18-17.14.25:928][588]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/HoloTest' took 0.046
+[2017.11.18-17.14.25:932][588]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/HexAICtrl] ([1] browsable assets)...
+[2017.11.18-17.14.25:932][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/HexAICtrl]
+[2017.11.18-17.14.25:932][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/HexAICtrl" FILE="P:/ue/Grid1/Saved/Autosaves/Game/AI/HexAICtrl_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.11.18-17.14.26:253][588]LogSavePackage: Save=154.23ms
+[2017.11.18-17.14.26:253][588]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexAICtrl_Auto284D79B564F60A7F6E25B939441123F03.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/AI/HexAICtrl_Auto2.uasset'
+[2017.11.18-17.14.26:274][588]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/AI/HexAICtrl_Auto2.uasset
+[2017.11.18-17.14.26:299][588]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/HexVehicleAICtrl] ([1] browsable assets)...
+[2017.11.18-17.14.26:299][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/HexVehicleAICtrl]
+[2017.11.18-17.14.26:299][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/HexVehicleAICtrl" FILE="P:/ue/Grid1/Saved/Autosaves/Game/AI/HexVehicleAICtrl_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.11.18-17.14.26:343][588]LogSavePackage: Save=17.37ms
+[2017.11.18-17.14.26:343][588]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexVehicleAICtrl_Auto2A1E1ACE44E695DA38EEDF2BCE5A57D33.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/AI/HexVehicleAICtrl_Auto2.uasset'
+[2017.11.18-17.14.26:363][588]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/AI/HexVehicleAICtrl_Auto2.uasset
+[2017.11.18-17.14.26:363][588]LogFileHelpers: Auto-saving content packages took 0.433
+[2017.11.18-17.18.33:086][ 57]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2017.11.18-17.18.33:269][ 59]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2017.11.18-17.18.33:398][ 60]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.11.18-17.24.26:328][408]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/HoloTest' took 0.046
+[2017.11.18-17.24.26:332][408]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/HexAI] ([1] browsable assets)...
+[2017.11.18-17.24.26:367][408]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/HexAI.HexAI]
+[2017.11.18-17.24.26:367][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/HexAI]
+[2017.11.18-17.24.26:367][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/HexAI" FILE="P:/ue/Grid1/Saved/Autosaves/Game/AI/HexAI_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2017.11.18-17.24.26:886][408]LogSavePackage: Save=404.82ms
+[2017.11.18-17.24.26:886][408]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexAI_Auto38A4B90F64E80AF257983DC9CD71FAE75.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/AI/HexAI_Auto3.uasset'
+[2017.11.18-17.24.26:920][408]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/AI/HexAI_Auto3.uasset
+[2017.11.18-17.24.26:921][408]LogFileHelpers: Auto-saving content packages took 0.591
+[2017.11.18-17.30.49:728][425]BlueprintLog: New page: Compile HexAI
+[2017.11.18-17.30.49:820][425]LogBehaviorTree: Verbose: Looking for runtime properties of class: SKEL_MoveAroundBelligerent_C
+[2017.11.18-17.30.51:100][425]LogBlueprintUserMessages: [HexInfantrySquadAI_C_0] Infantry
+[2017.11.18-17.30.52:029][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/HexAI" FILE="P:/ue/Grid1/Content/AI/HexAI.uasset" SILENT=true
+[2017.11.18-17.30.52:433][446]LogSavePackage: Save=388.22ms
+[2017.11.18-17.30.52:433][446]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexAI047083AC4BB96814AFA9F3A0E42412EF.tmp' to 'P:/ue/Grid1/Content/AI/HexAI.uasset'
+[2017.11.18-17.30.52:452][446]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/AI/HexAI.uasset
+[2017.11.18-17.30.55:832][671]BlueprintLog: New page: Compile HexAICtrl
+[2017.11.18-17.30.56:848][671]LogBlueprintUserMessages: [HexInfantrySquadAI_C_0] Infantry
+[2017.11.18-17.30.57:957][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/HexAICtrl" FILE="P:/ue/Grid1/Content/AI/HexAICtrl.uasset" SILENT=true
+[2017.11.18-17.30.58:137][750]LogSavePackage: Save=137.41ms
+[2017.11.18-17.30.58:137][750]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexAICtrlBC24864145F87D7AC8D83F9413040CAA.tmp' to 'P:/ue/Grid1/Content/AI/HexAICtrl.uasset'
+[2017.11.18-17.30.58:138][750]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/AI/HexAICtrl.uasset
+[2017.11.18-17.33.08:996][550]LogBlueprintUserMessages: [HexInfantrySquadAI_C_1] Infantry
+[2017.11.18-17.33.18:611][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/HexVehicleAICtrl" FILE="P:/ue/Grid1/Content/AI/HexVehicleAICtrl.uasset" SILENT=true
+[2017.11.18-17.33.18:670][216]LogSavePackage: Save=17.17ms
+[2017.11.18-17.33.18:670][216]LogSavePackage: Moving 'P:/ue/Grid1/Saved/HexVehicleAICtrlC25976D74D21DCE87F4377B231BC510B.tmp' to 'P:/ue/Grid1/Content/AI/HexVehicleAICtrl.uasset'
+[2017.11.18-17.33.18:681][216]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/AI/HexVehicleAICtrl.uasset
+[2017.11.18-17.34.19:802][615]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.18-18.27.38:447][760]LogMaterial: Missing cached shader map for material Material_5, compiling. 
+[2017.11.18-18.27.38:603][761]LogMaterial: Missing cached shader map for material Material_6, compiling. 
+[2017.11.18-18.27.58:465][260]LogAIModule: Creating AISystem for world AITest
+[2017.11.18-18.28.02:100][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/AITest" FILE="P:/ue/Grid1/Content/Maps/AITest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.18-18.28.02:554][322]LogSavePackage: Save=390.26ms
+[2017.11.18-18.28.02:554][322]LogSavePackage: Moving 'P:/ue/Grid1/Saved/AITestEA81D0974E27FE27BFB92099422C647E.tmp' to 'P:/ue/Grid1/Content/Maps/AITest.umap'
+[2017.11.18-18.28.02:555][322]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/Maps/AITest.umap
+[2017.11.18-18.28.02:570][322]LogFileHelpers: Saving map 'AITest' took 0.951
+[2017.11.18-18.28.02:579][322]Cmd: MAP LOAD FILE="P:/ue/Grid1/Content/Maps/AITest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.18-18.28.02:579][322]LightingResults: New page: Lighting Build
+[2017.11.18-18.28.02:581][322]LoadErrors: New page: Loading map: AITest.umap
+[2017.11.18-18.28.02:584][322]LogNavigation: UNavigationSystem::CleanUp
+[2017.11.18-18.28.02:590][322]MapCheck: New page: Map Check
+[2017.11.18-18.28.02:590][322]LightingResults: New page: Lighting Build
+[2017.11.18-18.28.02:663][322]LogNavigation: UNavigationSystem::CleanUp
+[2017.11.18-18.28.02:877][322]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.18-18.28.02:878][322]LogNavigation: Verbose: RecastNavMesh-Default updated area NavArea_Default with ID 63
+[2017.11.18-18.28.02:878][322]LogNavigation: Verbose: RecastNavMesh-Default updated area NavArea_LowHeight with ID 62
+[2017.11.18-18.28.02:878][322]LogNavigation: Verbose: RecastNavMesh-Default updated area NavArea_Null with ID 0
+[2017.11.18-18.28.02:878][322]LogNavigation: Verbose: RecastNavMesh-Default updated area NavArea_Obstacle with ID 1
+[2017.11.18-18.28.02:879][322]LogNavigation: Using max of 2 workers to build navigation.
+[2017.11.18-18.28.02:884][322]LogNavigation: Using max of 2 workers to build navigation.
+[2017.11.18-18.28.03:043][322]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.18-18.28.03:149][322]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 105.815ms to complete.
+[2017.11.18-18.28.03:152][322]LogFileHelpers: Loading map 'AITest' took 0.575
+[2017.11.18-18.28.03:274][323]LogNavigation: Verbose: Recast: GenerateCompressedLayers:
+[2017.11.18-18.28.03:275][323]LogNavigation: Verbose: Recast:  - 308 x 308 cells
+[2017.11.18-18.28.03:354][324]LogNavigation: Verbose: Recast: >> Cache[-1,-1:0] = 4.75kB (full:263.73kB rate:0.02%)
+[2017.11.18-18.28.03:354][324]LogNavigation: Verbose: Recast: >> Cache[-1,-1:1] = 0.54kB (full:263.73kB rate:0.00%)
+[2017.11.18-18.28.03:599][327]LogNavigation: Verbose: Recast: >> Layer[0] = Verts(344) Polys(224) Memory(35.04kB) Cache(4.75kB)
+[2017.11.18-18.28.03:599][327]LogNavigation: Verbose: Recast: >> Layer[1] = Verts(12) Polys(5) Memory(1.02kB) Cache(0.54kB)
+[2017.11.18-18.28.03:599][327]LogNavigation: Verbose: Recast: GenerateCompressedLayers:
+[2017.11.18-18.28.03:599][327]LogNavigation: Verbose: Recast:  - 308 x 308 cells
+[2017.11.18-18.28.03:742][330]LogNavigation: Verbose: Recast: >> Cache[0,0:0] = 4.93kB (full:263.73kB rate:0.02%)
+[2017.11.18-18.28.03:743][330]LogNavigation: Verbose: Recast: >> Cache[0,0:1] = 1.22kB (full:263.73kB rate:0.00%)
+[2017.11.18-18.28.03:743][330]LogNavigation: Verbose: Recast: >> Cache[0,0:2] = 0.51kB (full:263.73kB rate:0.00%)
+[2017.11.18-18.28.03:743][330]LogNavigation: Verbose: Recast: >> Cache[0,0:3] = 0.52kB (full:263.73kB rate:0.00%)
+[2017.11.18-18.28.04:069][341]LogNavigation: Verbose: Recast: >> Layer[0] = Verts(333) Polys(216) Memory(34.37kB) Cache(4.93kB)
+[2017.11.18-18.28.04:069][341]LogNavigation: Verbose: Recast: >> Layer[1] = Verts(64) Polys(24) Memory(5.00kB) Cache(1.22kB)
+[2017.11.18-18.28.04:101][342]LogNavigation: Verbose: Recast: >> Layer[2] = Verts(7) Polys(3) Memory(0.73kB) Cache(0.51kB)
+[2017.11.18-18.28.04:101][342]LogNavigation: Verbose: Recast: >> Layer[3] = Verts(4) Polys(1) Memory(0.36kB) Cache(0.52kB)
+[2017.11.18-18.28.04:443][354]LogNavigation: RecastNavMesh-Default> Tile (0,0:0), added TileRef: 0x0 (active:1)
+[2017.11.18-18.28.04:443][354]LogNavigation: RecastNavMesh-Default> Tile (0,0:1), added TileRef: 0x80000000 (active:2)
+[2017.11.18-18.28.04:443][354]LogNavigation: RecastNavMesh-Default> Tile (0,0:2), added TileRef: 0x0 (active:3)
+[2017.11.18-18.28.04:443][354]LogNavigation: RecastNavMesh-Default> Tile (0,0:3), added TileRef: 0x80000000 (active:4)
+[2017.11.18-18.28.04:444][354]LogNavigation: RecastNavMesh-Default> Tile (-1,-1:0), added TileRef: 0x0 (active:5)
+[2017.11.18-18.28.04:444][354]LogNavigation: RecastNavMesh-Default> Tile (-1,-1:1), added TileRef: 0x80000000 (active:6)
+[2017.11.18-18.28.04:503][356]LogNavigation: Verbose: Recast: GenerateCompressedLayers:
+[2017.11.18-18.28.04:503][356]LogNavigation: Verbose: Recast:  - 308 x 308 cells
+[2017.11.18-18.28.04:660][360]LogNavigation: Verbose: Recast: >> Cache[-1,0:0] = 5.03kB (full:263.73kB rate:0.02%)
+[2017.11.18-18.28.04:660][360]LogNavigation: Verbose: Recast: >> Cache[-1,0:1] = 0.93kB (full:263.73kB rate:0.00%)
+[2017.11.18-18.28.04:660][360]LogNavigation: Verbose: Recast: >> Cache[-1,0:2] = 1.92kB (full:263.73kB rate:0.01%)
+[2017.11.18-18.28.05:132][374]LogNavigation: Verbose: Recast: >> Layer[0] = Verts(382) Polys(249) Memory(38.98kB) Cache(5.03kB)
+[2017.11.18-18.28.05:163][375]LogNavigation: Verbose: Recast: >> Layer[1] = Verts(94) Polys(66) Memory(10.12kB) Cache(0.93kB)
+[2017.11.18-18.28.05:194][376]LogNavigation: Verbose: Recast: >> Layer[2] = Verts(199) Polys(104) Memory(17.76kB) Cache(1.92kB)
+[2017.11.18-18.28.05:194][376]LogNavigation: Verbose: Recast: GenerateCompressedLayers:
+[2017.11.18-18.28.05:194][376]LogNavigation: Verbose: Recast:  - 308 x 308 cells
+[2017.11.18-18.28.05:197][376]LogNavigation: RecastNavMesh-Default> Tile (-1,0:0), added TileRef: 0x0 (active:7)
+[2017.11.18-18.28.05:197][376]LogNavigation: RecastNavMesh-Default> Tile (-1,0:1), added TileRef: 0x80000000 (active:8)
+[2017.11.18-18.28.05:197][376]LogNavigation: RecastNavMesh-Default> Tile (-1,0:2), added TileRef: 0x0 (active:9)
+[2017.11.18-18.28.05:323][380]LogNavigation: Verbose: Recast: >> Cache[0,-1:0] = 4.88kB (full:263.73kB rate:0.02%)
+[2017.11.18-18.28.05:323][380]LogNavigation: Verbose: Recast: >> Cache[0,-1:1] = 1.23kB (full:263.73kB rate:0.00%)
+[2017.11.18-18.28.05:534][387]LogNavigation: Verbose: Recast: >> Layer[0] = Verts(361) Polys(223) Memory(37.24kB) Cache(4.88kB)
+[2017.11.18-18.28.05:564][388]LogNavigation: Verbose: Recast: >> Layer[1] = Verts(105) Polys(56) Memory(11.02kB) Cache(1.23kB)
+[2017.11.18-18.28.05:567][388]LogNavigation: RecastNavMesh-Default> Tile (0,-1:0), added TileRef: 0x80000000 (active:10)
+[2017.11.18-18.28.05:568][388]LogNavigation: RecastNavMesh-Default> Tile (0,-1:1), added TileRef: 0x0 (active:11)
+[2017.11.18-18.28.11:059][623]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.11.18-18.28.11:541][631]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Grid1
+[2017.11.18-18.28.11:541][631]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.11.18-18.28.11:541][631]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2017.11.18-18.28.11:541][631]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.11.18-18.28.11:562][632]LogTemp: BranchPath = AMASCARO2-PC/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = AMASCARO2-PC/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2017.11.18-18.28.11:614][638]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\amascaro\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.11.18-18.28.33:503][589]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/CursorGameMode'
+[2017.11.18-18.28.33:503][589]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/CursorGameMode'
+[2017.11.18-18.28.33:503][589]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/CursorGameMode.CursorGameMode_C'
+[2017.11.18-18.28.54:002][104]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.18-18.29.11:716][678]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.18-18.29.11:784][678]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.18-18.29.11:785][678]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.18-18.29.11:786][678]PIE: New page: PIE session: AITest (Nov 18, 2017, 8:29:11 AM)
+[2017.11.18-18.29.11:786][678]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AITest
+[2017.11.18-18.29.11:843][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056300s)
+[2017.11.18-18.29.11:844][678]LogAIModule: Creating AISystem for world AITest
+[2017.11.18-18.29.11:848][678]LogPlayLevel: PIE: World Init took: (0.005422s)
+[2017.11.18-18.29.11:849][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AITest.AITest to /Game/Maps/UEDPIE_0_AITest.AITest (0.062269s)
+[2017.11.18-18.29.11:914][678]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.18-18.29.11:923][678]LogInit: FAudioDevice initialized.
+[2017.11.18-18.29.11:981][678]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.18-18.29.11:986][678]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AITest.AITest up for play (max tick rate 0) at 2017.11.18-13.29.11
+[2017.11.18-18.29.11:986][678]LogWorld: Bringing up level for play took: 0.004212
+[2017.11.18-18.29.11:987][678]LogNavigation: Verbose: RecastNavMesh-Default updated area NavArea_Default with ID 63
+[2017.11.18-18.29.11:987][678]LogNavigation: Verbose: RecastNavMesh-Default updated area NavArea_LowHeight with ID 62
+[2017.11.18-18.29.11:987][678]LogNavigation: Verbose: RecastNavMesh-Default updated area NavArea_Null with ID 0
+[2017.11.18-18.29.11:987][678]LogNavigation: Verbose: RecastNavMesh-Default updated area NavArea_Obstacle with ID 1
+[2017.11.18-18.29.11:994][678]LogBlueprintUserMessages: [AITest_C_1] Start
+[2017.11.18-18.29.11:995][678]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_AITest 0.812
+[2017.11.18-18.29.11:996][678]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.18-18.29.12:065][679]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.Floor3.StaticMeshComponent0'
+[2017.11.18-18.29.14:520][766]LogBlueprintUserMessages: [HexInfantrySquadAI_C_0] Infantry
+[2017.11.18-18.29.14:554][766]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.29.14:558][766]LogBlueprintUserMessages: [HexInfantrySquadAI_C_1] Infantry
+[2017.11.18-18.29.14:597][766]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_1' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.29.14:600][766]LogBlueprintUserMessages: [HexInfantrySquadAI_C_2] Infantry
+[2017.11.18-18.29.14:636][766]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_2' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.29.14:639][766]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexInfantrySquadAI_C_2' because it would cause an Owner loop
+[2017.11.18-18.29.17:282][850]LogBlueprintUserMessages: [HexInfantrySquadAI_C_3] Infantry
+[2017.11.18-18.29.17:310][850]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_3' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.29.17:312][850]LogBlueprintUserMessages: [HexInfantrySquadAI_C_4] Infantry
+[2017.11.18-18.29.17:342][850]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_4' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.29.17:344][850]LogBlueprintUserMessages: [HexInfantrySquadAI_C_5] Infantry
+[2017.11.18-18.29.17:378][850]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_5' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.29.20:433][943]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.HexVehicleAI_C_0.CharacterMesh0'
+[2017.11.18-18.29.20:459][943]LogCharacter: Verbose: Setting base on Server for 'HexVehicleAI_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.29.21:636][977]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.HexVehicleAI_C_1.CharacterMesh0'
+[2017.11.18-18.29.21:657][977]LogCharacter: Verbose: Setting base on Server for 'HexVehicleAI_C_1' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.29.23:564][ 33]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_3' to 'CapsuleComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.HexInfantrySquadAI_C_0.CollisionCylinder'
+[2017.11.18-18.29.25:608][ 93]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_3' to 'None'
+[2017.11.18-18.29.25:608][ 93]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_3' to 'CapsuleComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.HexInfantrySquadAI_C_2.CollisionCylinder'
+[2017.11.18-18.29.25:854][101]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_3' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.29.31:898][297]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.18-18.29.31:913][297]LogNavigation: UNavigationSystem::CleanUp
+[2017.11.18-18.29.31:941][297]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.18-18.29.31:988][297]LogNavigation: UNavigationSystem::CleanUp
+[2017.11.18-18.31.12:206][416]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.18-18.31.12:363][416]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.18-18.31.12:529][416]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.18-18.31.34:046][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/ScriptedCursorCharacter" FILE="P:/ue/Grid1/Content/GameMode/ScriptedCursorCharacter.uasset" SILENT=true
+[2017.11.18-18.31.34:092][946]LogSavePackage: Save=44.64ms
+[2017.11.18-18.31.34:093][946]LogSavePackage: Moving 'P:/ue/Grid1/Saved/ScriptedCursorCharacter40B0E7624E8F4134C7655CA46D621A79.tmp' to 'P:/ue/Grid1/Content/GameMode/ScriptedCursorCharacter.uasset'
+[2017.11.18-18.31.34:093][946]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/GameMode/ScriptedCursorCharacter.uasset
+[2017.11.18-18.33.33:457][326]LogSlate: Took 0.002082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.11.18-18.35.04:422][185]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.18-18.37.39:457][306]BlueprintLog: New page: Compile CursorGameMode
+[2017.11.18-18.37.40:329][306]LogBlueprintUserMessages: [HexInfantrySquadAI_C_1] Infantry
+[2017.11.18-18.37.41:318][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/CursorGameMode" FILE="P:/ue/Grid1/Content/GameMode/CursorGameMode.uasset" SILENT=true
+[2017.11.18-18.37.41:434][342]LogSavePackage: Save=100.29ms
+[2017.11.18-18.37.41:434][342]LogSavePackage: Moving 'P:/ue/Grid1/Saved/CursorGameModeDA11438643C2F8606435279974E470E3.tmp' to 'P:/ue/Grid1/Content/GameMode/CursorGameMode.uasset'
+[2017.11.18-18.37.41:457][342]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/GameMode/CursorGameMode.uasset
+[2017.11.18-18.37.54:390][ 13]BlueprintLog: New page: Compile ScriptedCursorCharacter
+[2017.11.18-18.37.54:622][ 13]LogBlueprintUserMessages: [ScriptedCursorCharacter_C_0] Scripted
+[2017.11.18-18.37.54:817][ 13]LogBlueprintUserMessages: [ScriptedCursorCharacter_C_1] Scripted
+[2017.11.18-18.37.55:061][ 13]LogBlueprintUserMessages: [ScriptedCursorCharacter_C_0] Scripted
+[2017.11.18-18.37.55:063][ 13]LogBlueprintUserMessages: [ScriptedCursorCharacter_C_1] Scripted
+[2017.11.18-18.37.55:066][ 13]LogBlueprintUserMessages: [ScriptedCursorCharacter_C_10] Scripted
+[2017.11.18-18.37.55:543][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/ScriptedCursorCharacter" FILE="P:/ue/Grid1/Content/GameMode/ScriptedCursorCharacter.uasset" SILENT=true
+[2017.11.18-18.37.55:607][ 43]LogSavePackage: Save=49.57ms
+[2017.11.18-18.37.55:607][ 43]LogSavePackage: Moving 'P:/ue/Grid1/Saved/ScriptedCursorCharacter7E4662524332BDBE9BB462AA2D128B29.tmp' to 'P:/ue/Grid1/Content/GameMode/ScriptedCursorCharacter.uasset'
+[2017.11.18-18.37.55:609][ 43]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/GameMode/ScriptedCursorCharacter.uasset
+[2017.11.18-18.37.57:633][138]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.18-18.37.57:702][138]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.18-18.37.57:702][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.18-18.37.57:702][138]PIE: New page: PIE session: AITest (Nov 18, 2017, 8:37:57 AM)
+[2017.11.18-18.37.57:702][138]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AITest
+[2017.11.18-18.37.57:763][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060996s)
+[2017.11.18-18.37.57:765][138]LogAIModule: Creating AISystem for world AITest
+[2017.11.18-18.37.57:766][138]LogPlayLevel: PIE: World Init took: (0.002475s)
+[2017.11.18-18.37.57:766][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AITest.AITest to /Game/Maps/UEDPIE_0_AITest.AITest (0.063940s)
+[2017.11.18-18.37.57:841][138]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.18-18.37.57:850][138]LogInit: FAudioDevice initialized.
+[2017.11.18-18.37.57:886][138]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.18-18.37.57:890][138]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AITest.AITest up for play (max tick rate 0) at 2017.11.18-13.37.57
+[2017.11.18-18.37.57:891][138]LogWorld: Bringing up level for play took: 0.003935
+[2017.11.18-18.37.57:891][138]LogNavigation: Verbose: RecastNavMesh-Default updated area NavArea_Default with ID 63
+[2017.11.18-18.37.57:891][138]LogNavigation: Verbose: RecastNavMesh-Default updated area NavArea_LowHeight with ID 62
+[2017.11.18-18.37.57:891][138]LogNavigation: Verbose: RecastNavMesh-Default updated area NavArea_Null with ID 0
+[2017.11.18-18.37.57:891][138]LogNavigation: Verbose: RecastNavMesh-Default updated area NavArea_Obstacle with ID 1
+[2017.11.18-18.37.57:897][138]LogBlueprintUserMessages: [ScriptedCursorCharacter_C_0] Scripted
+[2017.11.18-18.37.57:899][138]LogBlueprintUserMessages: [AITest_C_1] Start
+[2017.11.18-18.37.57:900][138]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_AITest 0.687
+[2017.11.18-18.37.57:900][138]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.18-18.37.57:975][140]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.Floor3.StaticMeshComponent0'
+[2017.11.18-18.38.00:774][271]LogBlueprintUserMessages: [HexInfantrySquadAI_C_0] Infantry
+[2017.11.18-18.38.00:810][271]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.38.00:813][271]LogBlueprintUserMessages: [HexInfantrySquadAI_C_1] Infantry
+[2017.11.18-18.38.00:847][271]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_1' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.38.00:849][271]LogBlueprintUserMessages: [HexInfantrySquadAI_C_2] Infantry
+[2017.11.18-18.38.00:878][271]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_2' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.38.00:880][271]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexInfantrySquadAI_C_2' because it would cause an Owner loop
+[2017.11.18-18.38.04:604][425]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.18-18.38.04:620][425]LogNavigation: UNavigationSystem::CleanUp
+[2017.11.18-18.38.04:653][425]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.18-18.38.04:697][425]LogNavigation: UNavigationSystem::CleanUp
+[2017.11.18-18.38.22:855][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2017.11.18-18.47.09:887][405]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.47.29:830][ 67]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0020 seconds. Added 1 classes and 0 folders.
+[2017.11.18-18.47.29:839][ 67]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.47.30:756][ 67]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.47.30:800][ 67]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.47.30:860][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2017.11.18-18.47.30:869][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2017.11.18-18.47.30:878][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2017.11.18-18.47.30:887][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2017.11.18-18.47.30:896][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2017.11.18-18.47.30:905][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2017.11.18-18.47.30:913][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2017.11.18-18.47.30:922][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2017.11.18-18.47.30:932][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_20, compiling. 
+[2017.11.18-18.47.30:941][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2017.11.18-18.47.30:950][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_22, compiling. 
+[2017.11.18-18.47.30:959][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.18-18.47.30:968][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.11.18-18.47.30:976][ 67]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.11.18-18.47.59:088][264]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.47.59:156][264]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.48.04:574][450]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.48.08:835][608]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.48.08:876][608]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.48.20:320][143]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.48.23:410][333]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.48.28:748][629]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.48.32:332][805]LogMaterialEditor: Saving and Compiling material 4Blend_FovSwitch
+[2017.11.18-18.48.33:948][805]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.48.34:130][805]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.48.34:292][805]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.48.34:500][805]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.48.45:571][805]TextureStreamingBuild: Display: Compiling optional shaders took 11.084 seconds.
+[2017.11.18-18.49.03:382][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Board/4Blend_FovSwitch" FILE="P:/ue/Grid1/Content/Board/4Blend_FovSwitch.uasset" SILENT=true
+[2017.11.18-18.49.03:442][805]LogSavePackage: Save=58.71ms
+[2017.11.18-18.49.03:442][805]LogSavePackage: Moving 'P:/ue/Grid1/Saved/4Blend_FovSwitchC718AC014DED6F01C3CBEFAC79678903.tmp' to 'P:/ue/Grid1/Content/Board/4Blend_FovSwitch.uasset'
+[2017.11.18-18.49.03:444][805]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/Board/4Blend_FovSwitch.uasset
+[2017.11.18-18.49.03:453][805]MaterialEditorStats: Base pass shader: 199 instructions
+[2017.11.18-18.49.03:453][805]MaterialEditorStats: Base pass shader with Surface Lightmap: 216 instructions
+[2017.11.18-18.49.03:453][805]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 273 instructions
+[2017.11.18-18.49.03:453][805]MaterialEditorStats: Vertex shader: 35 instructions
+[2017.11.18-18.49.03:453][805]MaterialEditorStats: Texture samplers: 14/16
+[2017.11.18-18.49.03:453][805]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.18-18.49.13:147][290]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.49.15:830][375]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.49.15:874][375]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.49.15:877][375]LogMaterial: Warning: /Engine/Transient.4Blend_FovSwitch (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.18-18.49.15:877][375]LogMaterial: 	(Node OneMinus) Missing 1-x input
+[2017.11.18-18.49.15:885][375]MaterialEditorStats: Error: [SM5] (Node OneMinus) Missing 1-x input
+[2017.11.18-18.49.17:886][440]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.49.26:471][766]LogMaterialEditor: Saving and Compiling material 4Blend_FovSwitch
+[2017.11.18-18.49.27:764][766]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.49.27:930][766]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.49.28:088][766]LogMaterial: Missing cached shader map for material 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.49.28:292][766]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 4Blend_FovSwitch, compiling. 
+[2017.11.18-18.49.41:621][766]TextureStreamingBuild: Display: Compiling optional shaders took 13.342 seconds.
+[2017.11.18-18.50.01:256][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Board/4Blend_FovSwitch" FILE="P:/ue/Grid1/Content/Board/4Blend_FovSwitch.uasset" SILENT=true
+[2017.11.18-18.50.01:435][766]LogSavePackage: Save=70.69ms
+[2017.11.18-18.50.01:435][766]LogSavePackage: Moving 'P:/ue/Grid1/Saved/4Blend_FovSwitch9CC204674AEC3EDAAD199A845FF48EF5.tmp' to 'P:/ue/Grid1/Content/Board/4Blend_FovSwitch.uasset'
+[2017.11.18-18.50.01:439][766]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/Board/4Blend_FovSwitch.uasset
+[2017.11.18-18.50.01:449][766]MaterialEditorStats: Base pass shader: 199 instructions
+[2017.11.18-18.50.01:449][766]MaterialEditorStats: Base pass shader with Surface Lightmap: 216 instructions
+[2017.11.18-18.50.01:449][766]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 273 instructions
+[2017.11.18-18.50.01:449][766]MaterialEditorStats: Vertex shader: 35 instructions
+[2017.11.18-18.50.01:449][766]MaterialEditorStats: Texture samplers: 14/16
+[2017.11.18-18.50.01:449][766]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.18-18.50.01:706][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/AITest" FILE="P:/ue/Grid1/Saved/Autosaves/Game/Maps/AITest_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.18-18.50.02:313][767]LogSavePackage: Save=366.92ms
+[2017.11.18-18.50.02:313][767]LogSavePackage: Moving 'P:/ue/Grid1/Saved/AITest_Auto4AAA6C86D408A1E3BA2F7F89E245F4F1B.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/Maps/AITest_Auto4.umap'
+[2017.11.18-18.50.02:314][767]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/Maps/AITest_Auto4.umap
+[2017.11.18-18.50.02:317][767]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/AITest' took 0.688
+[2017.11.18-18.50.02:317][767]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.688
+[2017.11.18-18.50.02:335][767]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameMode/CursorCharacter] ([1] browsable assets)...
+[2017.11.18-18.50.02:372][767]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameMode/CursorCharacter.CursorCharacter]
+[2017.11.18-18.50.02:372][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameMode/CursorCharacter]
+[2017.11.18-18.50.02:372][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/CursorCharacter" FILE="P:/ue/Grid1/Saved/Autosaves/Game/GameMode/CursorCharacter_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2017.11.18-18.50.03:312][767]LogSavePackage: Save=798.33ms
+[2017.11.18-18.50.03:312][767]LogSavePackage: Moving 'P:/ue/Grid1/Saved/CursorCharacter_Auto430E5BD2B4B90FC2DE87DB691740B6C6C.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/GameMode/CursorCharacter_Auto4.uasset'
+[2017.11.18-18.50.03:313][767]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/GameMode/CursorCharacter_Auto4.uasset
+[2017.11.18-18.50.03:314][767]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Board/4Blend_FovSwitch_Inst] ([1] browsable assets)...
+[2017.11.18-18.50.03:352][767]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Board/4Blend_FovSwitch_Inst.4Blend_FovSwitch_Inst]
+[2017.11.18-18.50.03:352][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/Board/4Blend_FovSwitch_Inst]
+[2017.11.18-18.50.03:352][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Board/4Blend_FovSwitch_Inst" FILE="P:/ue/Grid1/Saved/Autosaves/Game/Board/4Blend_FovSwitch_Inst_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2017.11.18-18.50.03:393][767]LogSavePackage: Save=18.67ms
+[2017.11.18-18.50.03:393][767]LogSavePackage: Moving 'P:/ue/Grid1/Saved/4Blend_FovSwitch_Inst_Auto44DFA3858498AF8998DE0DA87D1A35FC6.tmp' to 'P:/ue/Grid1/Saved/Autosaves/Game/Board/4Blend_FovSwitch_Inst_Auto4.uasset'
+[2017.11.18-18.50.03:393][767]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Saved/Autosaves/Game/Board/4Blend_FovSwitch_Inst_Auto4.uasset
+[2017.11.18-18.50.03:393][767]LogFileHelpers: Auto-saving content packages took 1.073
+[2017.11.18-18.50.36:851][706]BlueprintLog: New page: Compile CursorCharacter
+[2017.11.18-18.50.37:318][706]LogBlueprintUserMessages: [ScriptedCursorCharacter_C_0] Scripted
+[2017.11.18-18.50.37:945][706]LogBlueprintUserMessages: [ScriptedCursorCharacter_C_1] Scripted
+[2017.11.18-18.50.38:216][706]LogBlueprintUserMessages: [ScriptedCursorCharacter_C_0] Scripted
+[2017.11.18-18.50.38:218][706]LogBlueprintUserMessages: [ScriptedCursorCharacter_C_1] Scripted
+[2017.11.18-18.50.38:863][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/CursorCharacter" FILE="P:/ue/Grid1/Content/GameMode/CursorCharacter.uasset" SILENT=true
+[2017.11.18-18.50.39:622][751]LogSavePackage: Save=745.04ms
+[2017.11.18-18.50.39:622][751]LogSavePackage: Moving 'P:/ue/Grid1/Saved/CursorCharacter49A3CF39441CF6BF526ECEAFE008505A.tmp' to 'P:/ue/Grid1/Content/GameMode/CursorCharacter.uasset'
+[2017.11.18-18.50.39:642][751]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/GameMode/CursorCharacter.uasset
+[2017.11.18-18.50.41:480][822]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.18-18.50.41:551][822]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.18-18.50.41:552][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.18-18.50.41:552][822]PIE: New page: PIE session: AITest (Nov 18, 2017, 8:50:41 AM)
+[2017.11.18-18.50.41:552][822]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AITest
+[2017.11.18-18.50.41:612][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059931s)
+[2017.11.18-18.50.41:613][822]LogAIModule: Creating AISystem for world AITest
+[2017.11.18-18.50.41:614][822]LogPlayLevel: PIE: World Init took: (0.001704s)
+[2017.11.18-18.50.41:614][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AITest.AITest to /Game/Maps/UEDPIE_0_AITest.AITest (0.062150s)
+[2017.11.18-18.50.41:695][822]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.18-18.50.41:704][822]LogInit: FAudioDevice initialized.
+[2017.11.18-18.50.41:742][822]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.18-18.50.41:746][822]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AITest.AITest up for play (max tick rate 0) at 2017.11.18-13.50.41
+[2017.11.18-18.50.41:747][822]LogWorld: Bringing up level for play took: 0.004096
+[2017.11.18-18.50.41:747][822]LogNavigation: Verbose: RecastNavMesh-Default updated area NavArea_Default with ID 63
+[2017.11.18-18.50.41:747][822]LogNavigation: Verbose: RecastNavMesh-Default updated area NavArea_LowHeight with ID 62
+[2017.11.18-18.50.41:747][822]LogNavigation: Verbose: RecastNavMesh-Default updated area NavArea_Null with ID 0
+[2017.11.18-18.50.41:747][822]LogNavigation: Verbose: RecastNavMesh-Default updated area NavArea_Obstacle with ID 1
+[2017.11.18-18.50.41:753][822]LogBlueprintUserMessages: [ScriptedCursorCharacter_C_0] Scripted
+[2017.11.18-18.50.41:754][822]LogBlueprintUserMessages: [AITest_C_0] Start
+[2017.11.18-18.50.41:754][822]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_AITest 0.507
+[2017.11.18-18.50.41:754][822]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.18-18.50.41:845][824]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.Floor3.StaticMeshComponent0'
+[2017.11.18-18.50.48:131][ 69]LogBlueprintUserMessages: [HexInfantrySquadAI_C_0] Infantry
+[2017.11.18-18.50.48:165][ 69]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.50.48:168][ 69]LogBlueprintUserMessages: [HexInfantrySquadAI_C_1] Infantry
+[2017.11.18-18.50.48:203][ 69]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_1' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.50.48:205][ 69]LogBlueprintUserMessages: [HexInfantrySquadAI_C_2] Infantry
+[2017.11.18-18.50.48:241][ 69]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_2' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.50.48:244][ 69]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexInfantrySquadAI_C_2' because it would cause an Owner loop
+[2017.11.18-18.50.50:128][131]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.18-18.50.50:143][131]LogNavigation: UNavigationSystem::CleanUp
+[2017.11.18-18.50.50:174][131]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.18-18.50.50:224][131]LogNavigation: UNavigationSystem::CleanUp
+[2017.11.18-18.51.02:974][780]BlueprintLog: New page: Compile CursorCharacter
+[2017.11.18-18.51.03:376][780]LogBlueprintUserMessages: [ScriptedCursorCharacter_C_1] Scripted
+[2017.11.18-18.51.04:004][780]LogBlueprintUserMessages: [ScriptedCursorCharacter_C_1] Scripted
+[2017.11.18-18.51.04:270][780]LogBlueprintUserMessages: [ScriptedCursorCharacter_C_1] Scripted
+[2017.11.18-18.51.04:272][780]LogBlueprintUserMessages: [ScriptedCursorCharacter_C_1] Scripted
+[2017.11.18-18.51.04:840][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/CursorCharacter" FILE="P:/ue/Grid1/Content/GameMode/CursorCharacter.uasset" SILENT=true
+[2017.11.18-18.51.05:583][825]LogSavePackage: Save=730.11ms
+[2017.11.18-18.51.05:583][825]LogSavePackage: Moving 'P:/ue/Grid1/Saved/CursorCharacter7E1D014A489325E9A09EA7903A6D2282.tmp' to 'P:/ue/Grid1/Content/GameMode/CursorCharacter.uasset'
+[2017.11.18-18.51.05:585][825]LogSavePackage: Display: Finished SavePackage P:/ue/Grid1/Content/GameMode/CursorCharacter.uasset
+[2017.11.18-18.51.07:987][913]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.18-18.51.08:057][913]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.18-18.51.08:057][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.18-18.51.08:058][913]PIE: New page: PIE session: AITest (Nov 18, 2017, 8:51:08 AM)
+[2017.11.18-18.51.08:058][913]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AITest
+[2017.11.18-18.51.08:116][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058592s)
+[2017.11.18-18.51.08:118][913]LogAIModule: Creating AISystem for world AITest
+[2017.11.18-18.51.08:118][913]LogPlayLevel: PIE: World Init took: (0.001453s)
+[2017.11.18-18.51.08:118][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AITest.AITest to /Game/Maps/UEDPIE_0_AITest.AITest (0.060494s)
+[2017.11.18-18.51.08:185][913]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.18-18.51.08:193][913]LogInit: FAudioDevice initialized.
+[2017.11.18-18.51.08:228][913]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.18-18.51.08:233][913]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AITest.AITest up for play (max tick rate 0) at 2017.11.18-13.51.08
+[2017.11.18-18.51.08:233][913]LogWorld: Bringing up level for play took: 0.004171
+[2017.11.18-18.51.08:233][913]LogNavigation: Verbose: RecastNavMesh-Default updated area NavArea_Default with ID 63
+[2017.11.18-18.51.08:234][913]LogNavigation: Verbose: RecastNavMesh-Default updated area NavArea_LowHeight with ID 62
+[2017.11.18-18.51.08:234][913]LogNavigation: Verbose: RecastNavMesh-Default updated area NavArea_Null with ID 0
+[2017.11.18-18.51.08:234][913]LogNavigation: Verbose: RecastNavMesh-Default updated area NavArea_Obstacle with ID 1
+[2017.11.18-18.51.08:239][913]LogBlueprintUserMessages: [ScriptedCursorCharacter_C_0] Scripted
+[2017.11.18-18.51.08:240][913]LogBlueprintUserMessages: [AITest_C_0] Start
+[2017.11.18-18.51.08:240][913]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_AITest 0.991
+[2017.11.18-18.51.08:241][913]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.18-18.51.08:330][915]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.Floor3.StaticMeshComponent0'
+[2017.11.18-18.51.13:061][ 97]LogBlueprintUserMessages: [HexInfantrySquadAI_C_0] Infantry
+[2017.11.18-18.51.13:099][ 97]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.51.13:102][ 97]LogBlueprintUserMessages: [HexInfantrySquadAI_C_1] Infantry
+[2017.11.18-18.51.13:133][ 97]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_1' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.51.13:135][ 97]LogBlueprintUserMessages: [HexInfantrySquadAI_C_2] Infantry
+[2017.11.18-18.51.13:166][ 97]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_2' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.51.13:169][ 97]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_0' owner of 'HexInfantrySquadAI_C_2' because it would cause an Owner loop
+[2017.11.18-18.51.16:374][202]LogBlueprintUserMessages: [HexInfantrySquadAI_C_3] Infantry
+[2017.11.18-18.51.16:393][202]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_3' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.51.16:395][202]LogBlueprintUserMessages: [HexInfantrySquadAI_C_4] Infantry
+[2017.11.18-18.51.16:421][202]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_4' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.51.16:423][202]LogBlueprintUserMessages: [HexInfantrySquadAI_C_5] Infantry
+[2017.11.18-18.51.16:451][202]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_5' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.51.28:782][606]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'None'
+[2017.11.18-18.51.29:987][651]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.Floor3.StaticMeshComponent0'
+[2017.11.18-18.51.36:265][889]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'None'
+[2017.11.18-18.51.37:280][927]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.51.37:636][940]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.maker_2e7.StaticMeshComponent0'
+[2017.11.18-18.51.38:642][977]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.Ozelot_8.StaticMeshComponent0'
+[2017.11.18-18.51.38:670][978]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.maker_2e7.StaticMeshComponent0'
+[2017.11.18-18.51.38:696][979]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.roadV2_11.StaticMeshComponent0'
+[2017.11.18-18.51.38:724][980]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.maker_2e7.StaticMeshComponent0'
+[2017.11.18-18.51.38:807][983]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.maker_2e5.StaticMeshComponent0'
+[2017.11.18-18.51.38:974][989]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.51.39:267][  0]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'None'
+[2017.11.18-18.51.40:490][ 46]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.51.40:783][ 57]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'None'
+[2017.11.18-18.51.41:232][ 74]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.Floor3.StaticMeshComponent0'
+[2017.11.18-18.51.43:343][153]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'None'
+[2017.11.18-18.51.44:559][200]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.Floor3.StaticMeshComponent0'
+[2017.11.18-18.51.45:476][235]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'None'
+[2017.11.18-18.51.46:486][274]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.51.49:495][389]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'None'
+[2017.11.18-18.51.49:934][406]LogCharacter: Verbose: Setting base on Server for 'CursorCharacter_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.Floor3.StaticMeshComponent0'
+[2017.11.18-18.51.58:733][739]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.HexVehicleAI_C_0.CharacterMesh0'
+[2017.11.18-18.51.58:755][739]LogCharacter: Verbose: Setting base on Server for 'HexVehicleAI_C_0' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.51.58:758][739]LogActor: Error: SetOwner(): Failed to set 'HexPlayerCam_C_1' owner of 'HexVehicleAI_C_0' because it would cause an Owner loop
+[2017.11.18-18.52.07:956][ 62]LogBlueprintUserMessages: [HexInfantrySquadAI_C_6] Infantry
+[2017.11.18-18.52.07:981][ 62]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_6' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.52.07:983][ 62]LogBlueprintUserMessages: [HexInfantrySquadAI_C_7] Infantry
+[2017.11.18-18.52.08:010][ 62]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_7' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.52.08:012][ 62]LogBlueprintUserMessages: [HexInfantrySquadAI_C_8] Infantry
+[2017.11.18-18.52.08:043][ 62]LogCharacter: Verbose: Setting base on Server for 'HexInfantrySquadAI_C_8' to 'StaticMeshComponent /Game/Maps/UEDPIE_0_AITest.AITest:PersistentLevel.GameHexWorld_201.StaticMesh'
+[2017.11.18-18.52.14:909][274]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.18-18.52.14:925][274]LogNavigation: UNavigationSystem::CleanUp
+[2017.11.18-18.52.14:958][274]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.18-18.52.15:008][274]LogNavigation: UNavigationSystem::CleanUp
+[2017.11.18-19.02.35:124][165]LogUObjectArray: Warning: Invalid object index 7340137
+[2017.11.18-19.02.35:711][165]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.586 s
+[2017.11.18-19.02.35:711][165]LogOutputDevice: Error: === Handled ensure: ===
+[2017.11.18-19.02.35:711][165]LogOutputDevice: Error: 
+[2017.11.18-19.02.35:711][165]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2017.11.18-19.02.35:711][165]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: Stack: 
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x00000000E0931EA6 UE4Editor-Core.dll!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x00000000E06D121A UE4Editor-Core.dll!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x00000000E06EB826 UE4Editor-Core.dll!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x00000000D2012EB6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x00000000CFE003AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x00000000D0273F0A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x00000000D01074AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x00000000D010ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x00000000D0238275 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x00000000DF5E7397 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x00000000DF5ECE61 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x00000000DF829913 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x00000000DF643484 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x00000000DF63D1F1 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x00000000DF63C953 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x000000003F8F69CA UE4Editor.exe!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x000000003F905430 UE4Editor.exe!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x000000003F9054AA UE4Editor.exe!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x000000003F912379 UE4Editor.exe!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x000000003F913D57 UE4Editor.exe!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x00000000771859CD kernel32.dll!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: [Callstack] 0x00000000773BA561 ntdll.dll!UnknownFunction []
+[2017.11.18-19.02.35:712][165]LogOutputDevice: Error: 
+[2017.11.18-19.02.35:720][165]LogStats:                SubmitErrorReport -  0.000 s
