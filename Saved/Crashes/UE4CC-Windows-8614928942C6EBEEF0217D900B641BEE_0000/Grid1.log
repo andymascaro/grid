@@ -1,0 +1,1354 @@
+﻿Log file open, 11/28/17 21:48:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Grid1
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1679815414) SRandInit(1679815414).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.164705
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.29-02.48.12:944][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.29-02.48.12:944][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.29-02.48.12:961][  0]LogInit: Computer: DESKTOP-OJU3OU9
+[2017.11.29-02.48.12:961][  0]LogInit: User: Andy
+[2017.11.29-02.48.12:961][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.29-02.48.12:961][  0]LogInit: High frequency timer resolution =3.328125 MHz
+[2017.11.29-02.48.12:961][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.11.29-02.48.12:961][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.29-02.48.12:961][  0]LogMemory: Process Physical Memory: 274.38 MB used, 274.38 MB peak
+[2017.11.29-02.48.12:961][  0]LogMemory: Process Virtual Memory: 265.64 MB used, 265.64 MB peak
+[2017.11.29-02.48.12:961][  0]LogMemory: Physical Memory: 3559.80 MB used,  12771.90 MB free, 16331.70 MB total
+[2017.11.29-02.48.12:961][  0]LogMemory: Virtual Memory: 640.04 MB used,  12771.90 MB free, 134217728.00 MB total
+[2017.11.29-02.48.13:185][  0]LogInit: Using OS detected language (en-US).
+[2017.11.29-02.48.13:185][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.29-02.48.13:233][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.29-02.48.13:621][  0]LogInit: Setting process to per monitor DPI aware
+[2017.11.29-02.48.15:426][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.29-02.48.15:469][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.11.29-02.48.15:469][  0]LogD3D11RHI:       8081/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.29-02.48.15:470][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.29-02.48.15:470][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.29-02.48.15:470][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.29-02.48.15:474][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.29-02.48.15:474][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.29-02.48.15:474][  0]LogWindows: EnumDisplayDevices:
+[2017.11.29-02.48.15:474][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.11.29-02.48.15:475][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.11.29-02.48.15:475][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.11.29-02.48.15:475][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.11.29-02.48.15:475][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.11.29-02.48.15:475][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.11.29-02.48.15:475][  0]LogD3D11RHI:   Driver Version: 385.69 (internal:22.21.13.8569, unified:385.69)
+[2017.11.29-02.48.15:475][  0]LogD3D11RHI:      Driver Date: 9-16-2017
+[2017.11.29-02.48.15:475][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2017.11.29-02.48.15:501][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.29-02.48.15:511][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.29-02.48.15:514][  0]LogShaderCompilers: Guid format shader working directory is 34 characters bigger than the processId version (D:/ue/grid/Intermediate/Shaders/WorkingDirectory/15984/).
+[2017.11.29-02.48.15:514][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Andy/AppData/Local/Temp/UnrealShaderWorkingDir/A8BF72EC4225D90F85BD96B7AA224E3C/'.
+[2017.11.29-02.48.15:514][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.29-02.48.16:847][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.29-02.48.16:888][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.29-02.48.16:928][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.29-02.48.16:968][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.29-02.48.17:014][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.29-02.48.17:055][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.29-02.48.17:096][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.29-02.48.17:136][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.29-02.48.17:170][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.29-02.48.17:210][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.29-02.48.17:250][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.29-02.48.17:290][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.29-02.48.17:330][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.29-02.48.17:369][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.29-02.48.17:450][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.29-02.48.17:450][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.29-02.48.17:492][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.29-02.48.17:524][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.29-02.48.17:603][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.29-02.48.17:625][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.29-02.48.17:665][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.29-02.48.17:708][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.29-02.48.17:752][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.29-02.48.17:799][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.29-02.48.17:799][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.29-02.48.18:261][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.29-02.48.18:335][  0]LogDerivedDataCache: Loaded boot cache 0.07s 81MB C:/Users/Andy/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.29-02.48.18:335][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Andy/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.29-02.48.18:335][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/ue/grid/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.29-02.48.18:335][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.29-02.48.18:335][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/ue/grid/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.29-02.48.18:335][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.29-02.48.18:353][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.29-02.48.18:365][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Andy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.29-02.48.18:377][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.29-02.48.18:377][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.29-02.48.18:401][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.29-02.48.18:401][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.29-02.48.18:847][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.29-02.48.19:174][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.29-02.48.19:208][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.29-02.48.19:208][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.29-02.48.19:208][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.29-02.48.19:208][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.29-02.48.19:208][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.29-02.48.19:232][  0]LogNetVersion: Grid1 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1394303240)
+[2017.11.29-02.48.19:389][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2017.11.29-02.48.19:805][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.037868 seconds
+[2017.11.29-02.48.19:809][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.11.29-02.48.19:809][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.11.29-02.48.19:809][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.29-02.48.19:854][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.29-02.48.23:547][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.29-02.48.23:588][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.29-02.48.24:209][  0]LogMaterial: Missing cached shader map for material BaseColor, compiling. 
+[2017.11.29-02.48.24:210][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.18\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.29-02.48.24:210][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.11.29-02.48.24:228][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.29-02.48.24:237][  0]LogMaterial: Missing cached shader map for material LightingModel, compiling. 
+[2017.11.29-02.48.24:238][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.18\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.29-02.48.24:238][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.11.29-02.48.24:240][  0]LogMaterial: Missing cached shader map for material MaterialAO, compiling. 
+[2017.11.29-02.48.24:241][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.18\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.29-02.48.24:241][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.11.29-02.48.24:243][  0]LogMaterial: Missing cached shader map for material Metallic, compiling. 
+[2017.11.29-02.48.24:243][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.18\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.29-02.48.24:243][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.11.29-02.48.24:246][  0]LogMaterial: Missing cached shader map for material Opacity, compiling. 
+[2017.11.29-02.48.24:246][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.18\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.29-02.48.24:246][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.11.29-02.48.24:249][  0]LogMaterial: Missing cached shader map for material Roughness, compiling. 
+[2017.11.29-02.48.24:249][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.18\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.29-02.48.24:249][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.11.29-02.48.24:265][  0]LogMaterial: Missing cached shader map for material Specular, compiling. 
+[2017.11.29-02.48.24:266][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.18\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.29-02.48.24:266][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.11.29-02.48.24:268][  0]LogMaterial: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2017.11.29-02.48.24:269][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.18\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.29-02.48.24:269][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.11.29-02.48.24:272][  0]LogMaterial: Missing cached shader map for material WorldNormal, compiling. 
+[2017.11.29-02.48.24:272][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.18\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.29-02.48.24:272][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.11.29-02.48.24:595][  0]SourceControl: Source control is disabled
+[2017.11.29-02.48.24:595][  0]SourceControl: Source control is disabled
+[2017.11.29-02.48.24:640][  0]SourceControl: Source control is disabled
+[2017.11.29-02.48.24:685][  0]SourceControl: Source control is disabled
+[2017.11.29-02.48.25:397][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.29-02.48.25:625][  0]LogOcInput: OculusInput pre-init called
+[2017.11.29-02.48.25:893][  0]LogEngine: Initializing Engine...
+[2017.11.29-02.48.25:895][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.29-02.48.26:092][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.29-02.48.26:092][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.29-02.48.26:198][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.29-02.48.26:204][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.29-02.48.26:251][  0]LogInit: FAudioDevice initialized.
+[2017.11.29-02.48.26:333][  0]LogDerivedDataCache: Saved boot cache 0.08s 81MB C:/Users/Andy/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.29-02.48.26:345][  0]LogInit: Texture streaming: Enabled
+[2017.11.29-02.48.26:430][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.29-02.48.26:535][  0]LogInit: Transaction tracking system initialized
+[2017.11.29-02.48.26:794][  0]BlueprintLog: New page: Editor Load
+[2017.11.29-02.48.27:531][  0]LocalizationService: Localization service is disabled
+[2017.11.29-02.48.28:160][  0]LogConsoleResponse: Display: 
+[2017.11.29-02.48.28:388][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.29-02.48.28:388][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.29-02.48.28:388][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.29-02.48.28:829][  0]LogFileCache: Scanning file cache for directory 'D:/ue/grid/Content/' took 0.02s
+[2017.11.29-02.48.29:406][  0]SourceControl: Source control is disabled
+[2017.11.29-02.48.29:406][  0]Cmd: MAP LOAD FILE="D:/ue/grid/Content/Maps/AITest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.29-02.48.29:406][  0]LightingResults: New page: Lighting Build
+[2017.11.29-02.48.29:441][  0]MapCheck: New page: Map Check
+[2017.11.29-02.48.29:441][  0]LightingResults: New page: Lighting Build
+[2017.11.29-02.48.30:290][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.29-02.48.30:468][  0]LogMaterial: Missing cached shader map for material 4Blend, compiling. 
+[2017.11.29-02.48.31:348][  0]LogAIModule: Creating AISystem for world AITest
+[2017.11.29-02.48.31:358][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.29-02.48.31:382][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.29-02.48.31:444][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.384ms to complete.
+[2017.11.29-02.48.31:444][  0]LogFileHelpers: Loading map 'AITest' took 2.038
+[2017.11.29-02.48.31:614][  0]LogCollectionManager: Loaded 0 collections in 0.002379 seconds
+[2017.11.29-02.48.31:702][  0]LogFileCache: Scanning file cache for directory 'D:/ue/grid/Saved/Collections/' took 0.01s
+[2017.11.29-02.48.31:702][  0]LogFileCache: Scanning file cache for directory 'D:/ue/grid/Content/Developers/Andy/Collections/' took 0.01s
+[2017.11.29-02.48.31:702][  0]LogFileCache: Scanning file cache for directory 'D:/ue/grid/Content/Collections/' took 0.01s
+[2017.11.29-02.48.31:702][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.29-02.48.31:711][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2363 classes and 519 folders.
+[2017.11.29-02.48.31:790][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.11.29-02.48.32:153][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.11.29-02.48.32:210][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.11.29-02.48.32:305][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.11.29-02.48.32:305][  0]LogLoad: (Engine Initialization) Total time: 22.07 seconds
+[2017.11.29-02.48.32:305][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.29-02.48.32:305][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.29-02.48.32:339][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.29-02.48.32:346][  0]LogSlate: Took 0.005259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.29-02.48.32:354][  0]LogSlate: Took 0.005154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.29-02.48.32:362][  0]LogSlate: Took 0.006447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.29-02.48.32:468][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.29-02.48.32:545][  1]LogRenderer: Reallocating scene render targets to support 1204x1016 Format 10 NumSamples 1 (Frame:1).
+[2017.11.29-02.48.32:573][  1]LogAssetRegistry: Asset discovery search completed in 13.2068 seconds
+[2017.11.29-02.48.32:577][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.29-02.48.32:577][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000083 seconds (updated 0 objects)
+[2017.11.29-02.48.32:811][ 13]LogContentStreaming: Texture: "LightMapTexture2D /Game/Maps/AITest_BuiltData.AITest_BuiltData:HQ_Lightmap0_3", ResidentMips: 7/11, RequestedMips: 11, WantedMips: 11, Boost: 0.2 (updated)
+[2017.11.29-02.48.36:425][440]LogShaderCompilers: Warning: D:\ue\grid\Content\Board\4Blend.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.29-02.48.36:425][440]LogShaderCompilers: 	/Engine/Generated/Material.ush(1703,2-39):  warning X3206: implicit truncation of vector type
+[2017.11.29-02.48.36:425][440]LogShaderCompilers: 	/Engine/Generated/Material.ush(1704,2-40):  warning X3206: implicit truncation of vector type
+[2017.11.29-02.48.36:425][440]LogShaderCompilers: 	/Engine/Private/ShadingModels.ush(560,15-81):  warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+[2017.11.29-02.48.36:425][440]LogShaderCompilers: 	/Engine/Private/ShadingModels.ush(582,15-55):  warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+[2017.11.29-02.48.36:425][440]LogShaderCompilers: 	/Engine/Private/ShadingModels.ush(603,24-66):  warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+[2017.11.29-02.48.36:426][440]LogShaderCompilers: 	/Engine/Private/ReflectionEnvironmentComposite.ush(10,15-38):  err0r X4510: maximum ps_5_0 sampler register index (16) exceeded
+[2017.11.29-02.51.14:291][961]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.29-02.51.14:571][961]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2017.11.29-02.51.15:151][961]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.29-02.51.15:260][962]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.29-02.58.45:184][255]BlueprintLog: New page: Compile Commander
+[2017.11.29-02.58.46:108][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Commander" FILE="D:/ue/grid/Content/AI/Commander.uasset" SILENT=true
+[2017.11.29-02.58.46:300][307]LogSavePackage: Save=183.78ms
+[2017.11.29-02.58.46:300][307]LogSavePackage: Moving 'D:/ue/grid/Saved/CommanderD682502843366C07A9E9679CCEC50F34.tmp' to 'D:/ue/grid/Content/AI/Commander.uasset'
+[2017.11.29-02.58.46:301][307]LogSavePackage: Display: Finished SavePackage D:/ue/grid/Content/AI/Commander.uasset
+[2017.11.29-02.58.54:096][165]BlueprintLog: New page: Compile Commander
+[2017.11.29-02.58.54:745][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Commander" FILE="D:/ue/grid/Content/AI/Commander.uasset" SILENT=true
+[2017.11.29-02.58.54:933][194]LogSavePackage: Save=184.64ms
+[2017.11.29-02.58.54:933][194]LogSavePackage: Moving 'D:/ue/grid/Saved/Commander13D7DC05410A24B4CA77619ED59DC840.tmp' to 'D:/ue/grid/Content/AI/Commander.uasset'
+[2017.11.29-02.58.54:934][194]LogSavePackage: Display: Finished SavePackage D:/ue/grid/Content/AI/Commander.uasset
+[2017.11.29-02.58.55:572][260]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.29-02.58.55:676][260]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.29-02.58.55:676][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.29-02.58.55:677][260]PIE: New page: PIE session: AITest (Nov 28, 2017, 4:58:55 PM)
+[2017.11.29-02.58.55:677][260]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AITest
+[2017.11.29-02.58.55:703][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026581s)
+[2017.11.29-02.58.55:704][260]LogAIModule: Creating AISystem for world AITest
+[2017.11.29-02.58.55:704][260]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2017.11.29-02.58.55:705][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AITest.AITest to /Game/Maps/UEDPIE_0_AITest.AITest (0.027994s)
+[2017.11.29-02.58.55:725][260]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.29-02.58.55:735][260]LogInit: FAudioDevice initialized.
+[2017.11.29-02.58.55:774][260]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.29-02.58.55:776][260]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AITest.AITest up for play (max tick rate 0) at 2017.11.28-21.58.55
+[2017.11.29-02.58.55:777][260]LogWorld: Bringing up level for play took: 0.001049
+[2017.11.29-02.58.55:822][260]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2017.11.29-02.58.55:822][260]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.58.55:822][260]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [1/0]!
+[2017.11.29-02.58.55:824][260]Cmd: fly
+[2017.11.29-02.58.55:824][260]LogBlueprintUserMessages: [AITest_C_1] Start
+[2017.11.29-02.58.55:824][260]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_AITest 0.821
+[2017.11.29-02.58.55:825][260]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.29-02.58.55:831][260]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.55:831][260]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Debug_C_0
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:013F
+[2017.11.29-02.58.55:831][260]LogScript: Warning: Accessed None
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Debug_C_0
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:0120
+[2017.11.29-02.58.55:853][261]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.55:853][261]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Debug_C_0
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:013F
+[2017.11.29-02.58.55:853][261]LogScript: Warning: Accessed None
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Debug_C_0
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:0120
+[2017.11.29-02.58.55:865][262]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.55:865][262]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Debug_C_0
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:013F
+[2017.11.29-02.58.55:865][262]LogScript: Warning: Accessed None
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Debug_C_0
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:0120
+[2017.11.29-02.58.55:874][263]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.55:875][263]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Debug_C_0
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:013F
+[2017.11.29-02.58.55:875][263]LogScript: Warning: Accessed None
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Debug_C_0
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:0120
+[2017.11.29-02.58.55:884][264]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.55:884][264]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Debug_C_0
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:013F
+[2017.11.29-02.58.55:884][264]LogScript: Warning: Accessed None
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Debug_C_0
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:0120
+[2017.11.29-02.58.55:894][265]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.55:894][265]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Debug_C_0
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:013F
+[2017.11.29-02.58.55:894][265]LogScript: Warning: Accessed None
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Debug_C_0
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:0120
+[2017.11.29-02.58.55:904][266]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.55:904][266]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Debug_C_0
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:013F
+[2017.11.29-02.58.55:904][266]LogScript: Warning: Accessed None
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Debug_C_0
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:0120
+[2017.11.29-02.58.55:913][267]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.55:913][267]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Debug_C_0
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:013F
+[2017.11.29-02.58.55:913][267]LogScript: Warning: Accessed None
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Debug_C_0
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:0120
+[2017.11.29-02.58.55:922][268]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.55:922][268]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Debug_C_0
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:013F
+[2017.11.29-02.58.55:930][269]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.55:939][270]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.55:948][271]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.55:957][272]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.55:969][273]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.55:979][274]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.55:989][275]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.55:998][276]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:007][277]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:016][278]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:025][279]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:033][280]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:042][281]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:050][282]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:059][283]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:071][284]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:081][285]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:090][286]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:099][287]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:108][288]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:116][289]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:125][290]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:134][291]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:143][292]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:151][293]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:160][294]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:169][295]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:177][296]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:186][297]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:195][298]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:204][299]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:212][300]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:221][301]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:230][302]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:239][303]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:248][304]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:257][305]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:265][306]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:273][307]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:282][308]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:290][309]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:299][310]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:308][311]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:317][312]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:326][313]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:334][314]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:343][315]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:352][316]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:360][317]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:369][318]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:378][319]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:386][320]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:395][321]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:404][322]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:412][323]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:422][324]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:431][325]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:440][326]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:449][327]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:457][328]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:466][329]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:474][330]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:483][331]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:492][332]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:500][333]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:509][334]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:517][335]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:526][336]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:535][337]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:544][338]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:552][339]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:561][340]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:569][341]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:578][342]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:587][343]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:596][344]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:605][345]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:613][346]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:622][347]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:631][348]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:640][349]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:649][350]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:657][351]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:666][352]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:676][353]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:685][354]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:694][355]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:703][356]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:711][357]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:720][358]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:728][359]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:737][360]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:746][361]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:754][362]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:763][363]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:772][364]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:780][365]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:789][366]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:797][367]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:806][368]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:814][369]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:823][370]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:831][371]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:839][372]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:848][373]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:856][374]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:866][375]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:874][376]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:883][377]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:891][378]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:899][379]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:908][380]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:917][381]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:925][382]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:934][383]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:942][384]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:951][385]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:959][386]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:968][387]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:977][388]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:985][389]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.56:994][390]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:003][391]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:012][392]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:021][393]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:031][394]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:040][395]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:048][396]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:057][397]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:066][398]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:075][399]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:084][400]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:092][401]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:101][402]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:110][403]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:119][404]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:128][405]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:137][406]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:145][407]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:154][408]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:162][409]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:171][410]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:179][411]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:188][412]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:196][413]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:205][414]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:213][415]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:222][416]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:230][417]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:239][418]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:247][419]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:256][420]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:264][421]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:273][422]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:281][423]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:290][424]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:298][425]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:307][426]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:315][427]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:323][428]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:332][429]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:341][430]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:349][431]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:357][432]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:366][433]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:375][434]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:383][435]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:392][436]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:400][437]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:408][438]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:417][439]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:426][440]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:434][441]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:443][442]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:451][443]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:460][444]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:468][445]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:477][446]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:486][447]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:495][448]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:504][449]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:512][450]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:521][451]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:530][452]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:538][453]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:547][454]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:556][455]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:565][456]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:574][457]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:582][458]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:591][459]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:600][460]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:608][461]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:617][462]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:626][463]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:634][464]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:643][465]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:651][466]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:660][467]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:669][468]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:677][469]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:685][470]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:694][471]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:702][472]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:711][473]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:719][474]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:727][475]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:736][476]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:745][477]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:753][478]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:761][479]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:770][480]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:778][481]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:787][482]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:795][483]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:804][484]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:812][485]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:822][486]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:830][487]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:839][488]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:848][489]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:856][490]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:865][491]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:873][492]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:882][493]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:890][494]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:899][495]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:907][496]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:916][497]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:924][498]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:933][499]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:942][500]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:950][501]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:959][502]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:967][503]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:976][504]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:984][505]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.57:992][506]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:001][507]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:010][508]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:018][509]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:027][510]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:035][511]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:044][512]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:052][513]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:060][514]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:069][515]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:077][516]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:086][517]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:094][518]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:103][519]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:111][520]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:119][521]LogBlueprintUserMessages: [CursorCharacter_C_0] X=124.103 Y=-65.585 Z=250.000
+[2017.11.29-02.58.58:121][521]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:130][522]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:139][523]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:147][524]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:156][525]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:165][526]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:173][527]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:182][528]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:190][529]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:199][530]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:208][531]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:216][532]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:225][533]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:234][534]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:243][535]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:251][536]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:260][537]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:269][538]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:277][539]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:286][540]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:294][541]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:302][542]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:311][543]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:319][544]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:328][545]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:336][546]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:345][547]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:354][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:363][549]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:372][550]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:380][551]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:389][552]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:398][553]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:407][554]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:416][555]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:425][556]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:434][557]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:443][558]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:452][559]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:461][560]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:469][561]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:478][562]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:487][563]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:496][564]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:505][565]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:514][566]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:523][567]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:531][568]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:540][569]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:548][570]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:557][571]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:566][572]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:575][573]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:584][574]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:592][575]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:601][576]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:609][577]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:618][578]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:627][579]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:635][580]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:644][581]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:652][582]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:661][583]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:669][584]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:678][585]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:686][586]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:695][587]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:704][588]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:712][589]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:721][590]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:730][591]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:739][592]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:747][593]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:756][594]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:764][595]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:773][596]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:782][597]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:790][598]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:798][599]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.58.58:806][600]LogBlueprintUserMessages: [None] cmdr init
+[2017.11.29-02.58.58:806][600]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.58.58:806][600]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [2/1]!
+[2017.11.29-02.58.58:806][600]LogBlueprintUserMessages: [None] replan
+[2017.11.29-02.58.58:806][600]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.58.58:806][600]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [3/2]!
+[2017.11.29-02.58.58:806][600]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.58.58:806][600]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [4/3]!
+[2017.11.29-02.59.03:449][ 98]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.29-02.59.03:482][ 98]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.29-02.59.16:181][461]BlueprintLog: New page: Compile Commander
+[2017.11.29-02.59.16:993][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Commander" FILE="D:/ue/grid/Content/AI/Commander.uasset" SILENT=true
+[2017.11.29-02.59.17:181][509]LogSavePackage: Save=184.66ms
+[2017.11.29-02.59.17:181][509]LogSavePackage: Moving 'D:/ue/grid/Saved/Commander1A09A2B04DC91609FA9AA49B8C50684D.tmp' to 'D:/ue/grid/Content/AI/Commander.uasset'
+[2017.11.29-02.59.17:183][509]LogSavePackage: Display: Finished SavePackage D:/ue/grid/Content/AI/Commander.uasset
+[2017.11.29-02.59.18:031][600]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.29-02.59.18:070][600]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.29-02.59.18:070][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.29-02.59.18:070][600]PIE: New page: PIE session: AITest (Nov 28, 2017, 4:59:18 PM)
+[2017.11.29-02.59.18:070][600]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AITest
+[2017.11.29-02.59.18:090][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019475s)
+[2017.11.29-02.59.18:090][600]LogAIModule: Creating AISystem for world AITest
+[2017.11.29-02.59.18:091][600]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2017.11.29-02.59.18:091][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AITest.AITest to /Game/Maps/UEDPIE_0_AITest.AITest (0.020413s)
+[2017.11.29-02.59.18:111][600]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.29-02.59.18:121][600]LogInit: FAudioDevice initialized.
+[2017.11.29-02.59.18:152][600]LogLoad: Game class is 'CursorGameMode_C'
+[2017.11.29-02.59.18:153][600]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AITest.AITest up for play (max tick rate 0) at 2017.11.28-21.59.18
+[2017.11.29-02.59.18:154][600]LogWorld: Bringing up level for play took: 0.000873
+[2017.11.29-02.59.18:155][600]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.18:155][600]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [1/0]!
+[2017.11.29-02.59.18:155][600]Cmd: fly
+[2017.11.29-02.59.18:156][600]LogBlueprintUserMessages: [AITest_C_1] Start
+[2017.11.29-02.59.18:156][600]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_AITest -0.847
+[2017.11.29-02.59.18:156][600]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.29-02.59.18:166][600]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:166][600]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Debug_C_1
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:013F
+[2017.11.29-02.59.18:166][600]LogScript: Warning: Accessed None
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Debug_C_1
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:0120
+[2017.11.29-02.59.18:181][601]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:181][601]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Debug_C_1
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:013F
+[2017.11.29-02.59.18:181][601]LogScript: Warning: Accessed None
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Debug_C_1
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:0120
+[2017.11.29-02.59.18:190][602]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:190][602]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Debug_C_1
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:013F
+[2017.11.29-02.59.18:190][602]LogScript: Warning: Accessed None
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Debug_C_1
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:0120
+[2017.11.29-02.59.18:200][603]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:200][603]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Debug_C_1
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:013F
+[2017.11.29-02.59.18:200][603]LogScript: Warning: Accessed None
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Debug_C_1
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:0120
+[2017.11.29-02.59.18:209][604]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:209][604]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Debug_C_1
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:013F
+[2017.11.29-02.59.18:209][604]LogScript: Warning: Accessed None
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Debug_C_1
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:0120
+[2017.11.29-02.59.18:219][605]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:219][605]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Debug_C_1
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:013F
+[2017.11.29-02.59.18:219][605]LogScript: Warning: Accessed None
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Debug_C_1
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:0120
+[2017.11.29-02.59.18:228][606]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:228][606]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Debug_C_1
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:013F
+[2017.11.29-02.59.18:228][606]LogScript: Warning: Accessed None
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Debug_C_1
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:0120
+[2017.11.29-02.59.18:236][607]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:236][607]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Debug_C_1
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:013F
+[2017.11.29-02.59.18:237][607]LogScript: Warning: Accessed None
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Debug_C_1
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:0120
+[2017.11.29-02.59.18:245][608]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:245][608]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Debug_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.Debug_C_1
+	Function /Game/HUD/Debug.Debug_C:setMissionDebug:013F
+[2017.11.29-02.59.18:254][609]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:263][610]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:272][611]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:280][612]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:289][613]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:298][614]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:307][615]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:316][616]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:325][617]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:333][618]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:342][619]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:351][620]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:359][621]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:369][622]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:377][623]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:386][624]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:395][625]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:404][626]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:413][627]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:422][628]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:431][629]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:440][630]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:448][631]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:457][632]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:467][633]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:476][634]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:484][635]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:493][636]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:502][637]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:511][638]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:519][639]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:528][640]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:537][641]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:546][642]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:555][643]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:564][644]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:573][645]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:582][646]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:591][647]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:600][648]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:608][649]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:617][650]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:626][651]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:635][652]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:644][653]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:653][654]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:661][655]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:670][656]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:679][657]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:688][658]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:696][659]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:705][660]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:714][661]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:722][662]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:731][663]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:740][664]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:749][665]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:757][666]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:766][667]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:775][668]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:784][669]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:792][670]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:801][671]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:809][672]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:818][673]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:827][674]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:836][675]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:844][676]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:853][677]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:862][678]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:871][679]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:879][680]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:889][681]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:897][682]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:906][683]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:915][684]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:924][685]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:933][686]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:941][687]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:950][688]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:959][689]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:968][690]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:976][691]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:985][692]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.18:995][693]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:004][694]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:013][695]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:022][696]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:030][697]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:038][698]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:047][699]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:056][700]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:065][701]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:073][702]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:082][703]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:090][704]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:099][705]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:108][706]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:116][707]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:125][708]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:134][709]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:142][710]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:151][711]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:160][712]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:169][713]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:178][714]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:187][715]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:196][716]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:206][717]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:216][718]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:226][719]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:235][720]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:244][721]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:253][722]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:261][723]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:270][724]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:279][725]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:287][726]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:296][727]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:304][728]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:313][729]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:321][730]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:330][731]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:339][732]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:348][733]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:359][734]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:369][735]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:377][736]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:386][737]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:395][738]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:404][739]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:413][740]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:422][741]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:430][742]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:439][743]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:448][744]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:457][745]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:466][746]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:475][747]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:484][748]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:492][749]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:501][750]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:511][751]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:521][752]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:530][753]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:539][754]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:548][755]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:557][756]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:566][757]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:575][758]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:584][759]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:593][760]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:602][761]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:610][762]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:619][763]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:627][764]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:636][765]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:644][766]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:653][767]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:661][768]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:670][769]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:679][770]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:687][771]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:696][772]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:705][773]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:713][774]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:722][775]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:731][776]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:740][777]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:749][778]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:757][779]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:766][780]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:775][781]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:784][782]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:793][783]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:802][784]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:810][785]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:820][786]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:829][787]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:838][788]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:847][789]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:856][790]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:864][791]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:873][792]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:882][793]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:891][794]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:900][795]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:909][796]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:917][797]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:926][798]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:935][799]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:943][800]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:952][801]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:961][802]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:970][803]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:978][804]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:988][805]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.19:996][806]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:005][807]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:013][808]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:022][809]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:031][810]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:039][811]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:048][812]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:057][813]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:066][814]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:074][815]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:083][816]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:092][817]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:100][818]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:109][819]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:117][820]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:126][821]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:134][822]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:143][823]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:151][824]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:160][825]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:168][826]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:177][827]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:186][828]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:194][829]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:203][830]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:211][831]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:220][832]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:228][833]LogBlueprintUserMessages: [CursorCharacter_C_0] X=124.103 Y=-47.082 Z=249.000
+[2017.11.29-02.59.20:230][833]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:239][834]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:248][835]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:257][836]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:265][837]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:274][838]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:283][839]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:292][840]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:300][841]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:309][842]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:317][843]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:326][844]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:336][845]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:344][846]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:353][847]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:362][848]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:371][849]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:380][850]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:389][851]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:397][852]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:406][853]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:415][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:424][855]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:433][856]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:441][857]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:450][858]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:459][859]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:468][860]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:477][861]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:486][862]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:495][863]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:504][864]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:512][865]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:521][866]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:530][867]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:538][868]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:547][869]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:556][870]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:564][871]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:573][872]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:582][873]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:590][874]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:599][875]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:608][876]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:617][877]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:626][878]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:635][879]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:644][880]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:653][881]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:661][882]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:670][883]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:679][884]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:688][885]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:696][886]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:705][887]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:714][888]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:723][889]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:732][890]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:741][891]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:750][892]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:759][893]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:767][894]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:776][895]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:785][896]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:793][897]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:802][898]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:810][899]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:819][900]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:828][901]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:836][902]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:845][903]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:854][904]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:862][905]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:871][906]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:879][907]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:888][908]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:897][909]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:905][910]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:914][911]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:923][912]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:931][913]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:940][914]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:948][915]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:957][916]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:965][917]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Commanders' of length 0 in '/Game/GameMode/CursorCharacter.CursorCharacter_C'!
+[2017.11.29-02.59.20:973][918]LogBlueprintUserMessages: [None] cmdr init
+[2017.11.29-02.59.20:973][918]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.20:973][918]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [2/1]!
+[2017.11.29-02.59.20:973][918]LogBlueprintUserMessages: [None] replan
+[2017.11.29-02.59.20:973][918]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.20:973][918]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [3/2]!
+[2017.11.29-02.59.20:973][918]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.20:973][918]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [4/3]!
+[2017.11.29-02.59.24:302][276]LogBlueprintUserMessages: [CursorCharacter_C_0] X=98.045 Y=-111.842 Z=257.000
+[2017.11.29-02.59.24:538][301]LogBlueprintUserMessages: [None] cmdr init
+[2017.11.29-02.59.24:538][301]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.24:538][301]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [5/4]!
+[2017.11.29-02.59.24:538][301]LogBlueprintUserMessages: [None] replan
+[2017.11.29-02.59.24:538][301]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.24:538][301]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [6/5]!
+[2017.11.29-02.59.24:538][301]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.24:538][301]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [7/6]!
+[2017.11.29-02.59.28:479][680]Cmd: ce new
+[2017.11.29-02.59.28:479][680]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.28:479][680]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [8/7]!
+[2017.11.29-02.59.28:479][680]LogBlueprintUserMessages: [None] there is a new mission
+[2017.11.29-02.59.28:479][680]LogBlueprintUserMessages: [None] there is a new mission
+[2017.11.29-02.59.28:479][680]LogBlueprintUserMessages: [CursorCharacter_C_0] new mission: 8
+[2017.11.29-02.59.31:919][ 21]Cmd: ce ms 8
+[2017.11.29-02.59.31:919][ 21]LogBlueprintUserMessages: [AITest_C_1] mission com
+[2017.11.29-02.59.31:919][ 21]LogBlueprintUserMessages: [None] 8
+[2017.11.29-02.59.31:919][ 21]LogBlueprintUserMessages: [None] replan
+[2017.11.29-02.59.31:919][ 21]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.31:919][ 21]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [9/8]!
+[2017.11.29-02.59.31:919][ 21]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.31:919][ 21]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [10/9]!
+[2017.11.29-02.59.31:920][ 21]LogBlueprintUserMessages: [None] replan
+[2017.11.29-02.59.31:920][ 21]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.31:920][ 21]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [11/10]!
+[2017.11.29-02.59.31:920][ 21]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.31:920][ 21]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [12/11]!
+[2017.11.29-02.59.36:001][432]LogBlueprintUserMessages: [HexAI_C_8] yay
+[2017.11.29-02.59.36:001][432]LogBlueprintUserMessages: [HexAI_C_9] yay
+[2017.11.29-02.59.36:001][432]LogBlueprintUserMessages: [HexAI_C_10] yay
+[2017.11.29-02.59.36:001][432]LogBlueprintUserMessages: [HexAI_C_11] yay
+[2017.11.29-02.59.36:001][432]LogBlueprintUserMessages: [HexAI_C_12] yay
+[2017.11.29-02.59.36:002][432]LogBlueprintUserMessages: [HexAI_C_13] yay
+[2017.11.29-02.59.36:002][432]LogBlueprintUserMessages: [HexAI_C_14] yay
+[2017.11.29-02.59.36:002][432]LogBlueprintUserMessages: [HexAI_C_15] yay
+[2017.11.29-02.59.36:043][436]LogBlueprintUserMessages: [None] replan
+[2017.11.29-02.59.36:043][436]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.36:043][436]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [13/12]!
+[2017.11.29-02.59.36:043][436]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.36:043][436]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [14/13]!
+[2017.11.29-02.59.36:043][436]LogBlueprintUserMessages: [None] replan
+[2017.11.29-02.59.36:043][436]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.36:043][436]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [15/14]!
+[2017.11.29-02.59.36:043][436]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.36:043][436]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [16/15]!
+[2017.11.29-02.59.36:746][503]LogBlueprintUserMessages: [None] replan
+[2017.11.29-02.59.36:746][503]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.36:746][503]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [17/16]!
+[2017.11.29-02.59.36:746][503]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.36:746][503]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [18/17]!
+[2017.11.29-02.59.36:746][503]LogBlueprintUserMessages: [None] replan
+[2017.11.29-02.59.36:746][503]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.36:746][503]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [19/18]!
+[2017.11.29-02.59.36:746][503]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.36:746][503]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [20/19]!
+[2017.11.29-02.59.37:369][566]LogBlueprintUserMessages: [None] replan
+[2017.11.29-02.59.37:369][566]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.37:369][566]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [21/20]!
+[2017.11.29-02.59.37:369][566]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.37:369][566]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [22/21]!
+[2017.11.29-02.59.37:369][566]LogBlueprintUserMessages: [None] replan
+[2017.11.29-02.59.37:369][566]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.37:369][566]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [23/22]!
+[2017.11.29-02.59.37:369][566]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.37:369][566]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [24/23]!
+[2017.11.29-02.59.39:798][804]LogBlueprintUserMessages: [None] replan
+[2017.11.29-02.59.39:798][804]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.39:798][804]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [25/24]!
+[2017.11.29-02.59.39:798][804]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.39:798][804]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [26/25]!
+[2017.11.29-02.59.39:798][804]LogBlueprintUserMessages: [None] replan
+[2017.11.29-02.59.39:798][804]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.39:798][804]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [27/26]!
+[2017.11.29-02.59.39:798][804]LogBlueprintUserMessages: [None] register rec
+[2017.11.29-02.59.39:798][804]LogScriptCore: Warning: Script Msg: Attempted to set an invalid index on array records [28/27]!
+[2017.11.29-02.59.43:584][176]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.29-02.59.43:621][176]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Maps/AITest.AITest_C' with ClassGeneratedBy '/Game/Maps/AITest.AITest:PersistentLevel.AITest'
+[2017.11.29-03.06.28:344][331]BlueprintLog: New page: Compile ICompletesMissions
+[2017.11.29-03.06.28:850][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ICompletesMissions" FILE="D:/ue/grid/Content/AI/ICompletesMissions.uasset" SILENT=true
+[2017.11.29-03.06.28:869][385]LogSavePackage: Save=10.93ms
+[2017.11.29-03.06.28:869][385]LogSavePackage: Moving 'D:/ue/grid/Saved/ICompletesMissions615879C44FA7DD504BAEE39831C1C22F.tmp' to 'D:/ue/grid/Content/AI/ICompletesMissions.uasset'
+[2017.11.29-03.06.28:870][385]LogSavePackage: Display: Finished SavePackage D:/ue/grid/Content/AI/ICompletesMissions.uasset
+[2017.11.29-03.07.19:630][327]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.374 s
+[2017.11.29-03.07.19:630][327]LogOutputDevice: Error: === Handled ensure: ===
+[2017.11.29-03.07.19:630][327]LogOutputDevice: Error: 
+[2017.11.29-03.07.19:630][327]LogOutputDevice: Error: Ensure condition failed: !ExistingGraph [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\BlueprintEditorUtils.cpp] [Line: 2332]
+[2017.11.29-03.07.19:630][327]LogOutputDevice: Error: Graph overlappedApproachPrimary already exists: EdGraph /Game/AI/HexAI.HexAI:overlappedApproachPrimary
+[2017.11.29-03.07.19:630][327]LogOutputDevice: Error: Stack: 
+[2017.11.29-03.07.19:630][327]LogOutputDevice: Error: [Callstack] 0x00000000C2BF2786 UE4Editor-Core.dll!UnknownFunction []
+[2017.11.29-03.07.19:630][327]LogOutputDevice: Error: [Callstack] 0x00000000C299123A UE4Editor-Core.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000C29AB906 UE4Editor-Core.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000C13307C7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000C132DF07 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000C132CF76 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000BDFBAFCA UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000BDFB99DA UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000BDFB8C79 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000C136542D UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000C134B302 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000BA30F772 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000BF17B7C2 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000BF15A783 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000BF015A82 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000BF01A1F9 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000BF1120F5 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000C2452B27 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000C247EA04 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000C2295EFC UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000C2268095 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000C23028A7 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000C22EB092 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000C22DD902 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000EACFE54B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000EACF1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000EAD003EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000EACED5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000F6BBBC50 USER32.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000F6BBB5CF USER32.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000EAD01516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000138550C8 UE4Editor.exe!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x0000000013865430 UE4Editor.exe!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000138654AA UE4Editor.exe!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x0000000013872379 UE4Editor.exe!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x0000000013873D57 UE4Editor.exe!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000F52E2774 KERNEL32.DLL!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: [Callstack] 0x00000000F7DE0D51 ntdll.dll!UnknownFunction []
+[2017.11.29-03.07.19:631][327]LogOutputDevice: Error: 
+[2017.11.29-03.07.19:632][327]LogStats:                SubmitErrorReport -  0.000 s
